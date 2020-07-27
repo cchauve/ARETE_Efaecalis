@@ -1,0 +1,12 @@
+# Generating the database of all plasmids.
+
+File 41467_2020_17278_MOESM8_ESM.xlsx donwloaded from https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-020-17278-2/MediaObjects/41467_2020_17278_MOESM8_ESM.xlsx, as Supplementary material from the paper https://doi.org/10.1038/s41467-020-17278-2 on July 26, 2020.
+
+The file 41467_2020_17278_MOESM8_ESM.csv was obtained by saving into csv format from LibreCalc.
+
+The creation of the accession lists is done in the notebook RefSeq203.ipynb.
+
+The important files are the following:
+plasmid.RefSeq_203_accession.txt                   accession numbers from RefSeq 203, based on the criteria used in RefSeq 84
+plasmid.RefSeq_203_Efaecalis_accession.txt         same limited to the entries from E. faecalis
+41467_2020_17278_MOESM8_ESM_filtered_accession.txt accession numbers from RefSeq 84 (given, not computed)

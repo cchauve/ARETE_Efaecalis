@@ -1,0 +1,709 @@
+NC_005248	NC_005248.1	NC_005248.1	Escherichia coli plasmid pIGAL1, complete sequence
+NC_019060	NC_019060.1	NC_019060.1	Escherichia coli plasmid pQ1-1, complete sequence
+NC_011511	NC_011511.1	NC_011511.1	Klebsiella pneumoniae plasmid p169, complete sequence
+NC_011513	NC_011513.1	NC_011513.1	Proteus mirabilis plasmid pRPCMY, complete sequence
+NC_016137	NC_016137.1	NC_016137.1	Staphylococcus hyicus plasmid unnamed, complete sequence
+NC_008439	NC_008439.1	NC_008439.1	Shigella sonnei plasmid pKKTET7, complete sequence
+NC_010072	NC_010072.1	NC_010072.1	Yersinia pestis plasmid pIP1203, aph(3'')-Ib gene and aph(6)-Id gene for aminoglycoside phosphotransferases, APH(3'')-Ib and APH(6)-Id
+NC_008352	NC_008352.1	NC_008352.1	Staphylococcus chromogenes pLNU8 plasmid
+NC_025014	NC_025014.1	NC_025014.1	Escherichia coli F plasmid traD gene
+NC_025157	NC_025157.1	NC_025157.1	Origin of replication of plasmid colE1 and immunity region
+NC_025195	NC_025195.1	NC_025195.1	Staphylococcus aureus plasmid pSH6 DNA for insertion sequences IS257-1 and IS256
+NC_010896	NC_010896.1	NC_010896.1	Salmonella typhimurium plasmid pAnkS, complete sequence
+NC_022376	NC_022376.1	NC_022376.1	Salmonella enterica subsp. enterica serovar Derby str. T12 plasmid pST12 DNA, complete genome
+NG_047055	NG_047055.1	NG_047055.1	Staphylococcus aureus SK18 pSK1 gene for bifunctional aminoglycoside N-acetyltransferase AAC(6')-Ie/aminoglycoside O-phosphotransferase APH(2'')-Ia, complete CDS
+NG_047212	NG_047212.1	NG_047212.1	Staphylococcus warneri pGTK3 gene for bifunctional aminoglycoside N-acetyltransferase AAC(6')-Ie/aminoglycoside O-phosphotransferase APH(2'')-Ia, complete CDS
+NG_047217	NG_047217.1	NG_047217.1	Macrococcus caseolyticus JCSC5402 pMCCL2 gene for bifunctional aminoglycoside N-acetyltransferase AAC(6')-Ie/aminoglycoside O-phosphotransferase APH(2'')-Ia, complete CDS
+NG_047237	NG_047237.1	NG_047237.1	Pseudomonas aeruginosa Ps142 Rms149 aac(3)-I gene for AAC(3)-I family aminoglycoside 3-N-acetyltransferase, complete CDS
+NG_047282	NG_047282.1	NG_047282.1	Serratia marcescens 11663 p11663 aac(6')-Ian gene for aminoglycoside N-acetyltransferase AAC(6')-Ian, complete CDS
+NG_047286	NG_047286.1	NG_047286.1	Klebsiella pneumoniae pJHC-MW1 aac(6')-Ib gene for AAC(6')-Ib family aminoglycoside 6'-N-acetyltransferase, complete CDS
+NG_047288	NG_047288.1	NG_047288.1	Klebsiella pneumoniae p22K9 aac(6')-Ib gene for AAC(6')-Ib family aminoglycoside 6'-N-acetyltransferase, complete CDS
+NG_047289	NG_047289.1	NG_047289.1	Klebsiella pneumoniae pJHCMW1 aac(6')-Ib gene for AAC(6')-Ib family aminoglycoside 6'-N-acetyltransferase, complete CDS
+NG_047291	NG_047291.1	NG_047291.1	Klebsiella pneumoniae BM4686 pIP849 aac(6')-Ib gene for AAC(6')-Ib family aminoglycoside 6'-N-acetyltransferase, complete CDS
+NG_047303	NG_047303.1	NG_047303.1	[Enterobacter] aerogenes pBWH301 aac(6')-Il gene for aminoglycoside N-acetyltransferase AAC(6')-Il, complete CDS
+NG_047305	NG_047305.1	NG_047305.1	Proteus mirabilis P13 unnamed aac(6')-Il gene for aminoglycoside N-acetyltransferase AAC(6')-Il, complete CDS
+NG_047324	NG_047324.1	NG_047324.1	Escherichia coli R6-5 aadA1 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1, complete CDS
+NG_047325	NG_047325.1	NG_047325.1	Escherichia coli MG-1 R751 aadA1 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1, complete CDS
+NG_047328	NG_047328.1	NG_047328.1	Vibrio fluvialis unnamed aadA1 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1, complete CDS
+NG_047329	NG_047329.1	NG_047329.1	Pseudomonas aeruginosa R388-R151 hybrid aadA10 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA10, complete CDS
+NG_047335	NG_047335.1	NG_047335.1	Providencia rettgeri R7K aadA13 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA13, complete CDS
+NG_047339	NG_047339.1	NG_047339.1	Vibrio cholerae non-O1/non-O139 pRJ354C aadA16 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA16, complete CDS
+NG_047340	NG_047340.1	NG_047340.1	Escherichia coli 1387 pHS1387 aadA16 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA16, complete CDS
+NG_047343	NG_047343.1	NG_047343.1	Escherichia coli GUE pGUE-NDM aadA2 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA2, complete CDS
+NG_047346	NG_047346.1	NG_047346.1	Salmonella enterica subsp. enterica serovar Typhimurium CNM 179/02 pUO-StVR7 aadA22 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA22, complete CDS
+NG_047360	NG_047360.1	NG_047360.1	Pseudomonas aeruginosa p804/03 aadA6 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA6, complete CDS
+NG_047368	NG_047368.1	NG_047368.1	Corynebacterium glutamicum LP-6 pTET3 aadA9 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA9, complete CDS
+NG_047378	NG_047378.1	NG_047378.1	Pediococcus acidilactici NCIMB 6990 pEOC01 aadE gene for aminoglycoside 6-adenylyltransferase AadE, complete CDS
+NG_047394	NG_047394.1	NG_047394.1	Enterococcus faecalis pSL1 ant(6)-Ia gene for aminoglycoside nucleotidyltransferase ANT(6)-Ia, complete CDS
+NG_047405	NG_047405.1	NG_047405.1	Campylobacter jejuni CG8245 pCG8245 aph(2'')-If gene for aminoglycoside O-phosphotransferase APH(2'')-If, complete CDS
+NG_047407	NG_047407.1	NG_047407.1	Campylobacter coli CVM N29710 pN29710-1 aph(2'')-Ig gene for aminoglycoside O-phosphotransferase APH(2'')-Ig, complete CDS
+NG_047412	NG_047412.1	NG_047412.1	Escherichia coli RSF1010 aph(3'')-Ib gene for aminoglycoside O-phosphotransferase APH(3'')-Ib, complete CDS
+NG_047414	NG_047414.1	NG_047414.1	Escherichia coli HM69 pIP1518 aph(3'')-Ib gene for aminoglycoside O-phosphotransferase APH(3'')-Ib, complete CDS
+NG_047415	NG_047415.1	NG_047415.1	Pseudomonas aeruginosa RPL11 aph(3'')-Ib gene for aminoglycoside O-phosphotransferase APH(3'')-Ib, complete CDS
+NG_047421	NG_047421.1	NG_047421.1	Enterococcus faecalis pSL1 aph(3')-IIIa gene for aminoglycoside O-phosphotransferase APH(3')-IIIa, complete CDS
+NG_047431	NG_047431.1	NG_047431.1	Klebsiella pneumoniae 5214773 pBWH77 aph(3')-Ia gene for aminoglycoside O-phosphotransferase APH(3')-Ia, complete CDS
+NG_047435	NG_047435.1	NG_047435.1	Salmonella enterica subsp. enterica serovar Typhimurium NTP16 aph(3')-Ia gene for aminoglycoside O-phosphotransferase APH(3')-Ia, complete CDS
+NG_047436	NG_047436.1	NG_047436.1	Proteus vulgaris UR-75 Rts1 aph(3')-Ia gene for aminoglycoside O-phosphotransferase APH(3')-Ia, complete CDS
+NG_047438	NG_047438.1	NG_047438.1	Proteus mirabilis R772 aph(3')-Ia gene for aminoglycoside O-phosphotransferase APH(3')-Ia, complete CDS
+NG_047439	NG_047439.1	NG_047439.1	Avibacterium paragallinarum A14 pYMH5 aph(3')-Ia gene for aminoglycoside O-phosphotransferase APH(3')-Ia, complete CDS
+NG_047440	NG_047440.1	NG_047440.1	Enterobacter cloacae pEC-IMP aph(3')-Ia gene for aminoglycoside O-phosphotransferase APH(3')-Ia, complete CDS
+NG_047441	NG_047441.1	NG_047441.1	Klebsiella pneumoniae GDKA1 pGDKA1 aph(3')-Ia gene for aminoglycoside O-phosphotransferase APH(3')-Ia, complete CDS
+NG_047445	NG_047445.1	NG_047445.1	Escherichia coli pIE639 aph(3')-Id gene for aminoglycoside O-phosphotransferase APH(3')-Id, complete CDS
+NG_047464	NG_047464.1	NG_047464.1	Escherichia coli RSF1010 aph(6)-Id gene for aminoglycoside O-phosphotransferase APH(6)-Id, complete CDS
+NG_047467	NG_047467.1	NG_047467.1	Actinobacillus pleuropneumoniae pMS260 aph(6)-Id gene for aminoglycoside O-phosphotransferase APH(6)-Id, complete CDS
+NG_047475	NG_047475.1	NG_047475.1	Staphylococcus aureus subsp. aureus ST398 pKKS49 apmA gene for aminocyclitol acetyltransferase ApmA, complete CDS
+NG_047476	NG_047476.1	NG_047476.1	Klebsiella pneumoniae BM4536 pIP1204 armA gene for ArmA family 16S rRNA (guanine(1405)-N(7))-methyltransferase, complete CDS
+NG_047483	NG_047483.1	NG_047483.1	Pseudomonas aeruginosa Ps142 Rms149 bla gene for class A beta-lactamase, complete CDS
+NG_047536	NG_047536.1	NG_047536.1	Staphylococcus haemolyticus NVH97A pNVH97A blaR1 gene for beta-lactam sensor/signal transducer BlaR1, complete CDS
+NG_047537	NG_047537.1	NG_047537.1	Staphylococcus epidermidis RP62A pSERP blaR1 gene for beta-lactam sensor/signal transducer BlaR1, complete CDS
+NG_047539	NG_047539.1	NG_047539.1	Staphylococcus aureus subsp. aureus TCH60 unnamed blaR1 gene for beta-lactam sensor/signal transducer BlaR1, complete CDS
+NG_047562	NG_047562.1	NG_047562.1	Lactobacillus reuteri G4 pTC82 cat-TC gene for type A-9 chloramphenicol O-acetyltransferase Cat-TC, complete CDS
+NG_047564	NG_047564.1	NG_047564.1	Staphylococcus aureus pC194 catA gene for type A-9 chloramphenicol O-acetyltransferase, complete CDS
+NG_047565	NG_047565.1	NG_047565.1	Staphylococcus aureus pUB112 catA gene for type A-7 chloramphenicol O-acetyltransferase, complete CDS
+NG_047566	NG_047566.1	NG_047566.1	Staphylococcus aureus pC221 catA gene for type A-7 chloramphenicol O-acetyltransferase, complete CDS
+NG_047567	NG_047567.1	NG_047567.1	Staphylococcus aureus pSCS6 catA gene for type A-7 chloramphenicol O-acetyltransferase, complete CDS
+NG_047573	NG_047573.1	NG_047573.1	Vibrio anguillarum pJA7324 catA gene for type A-14 chloramphenicol O-acetyltransferase, complete CDS
+NG_047575	NG_047575.1	NG_047575.1	Staphylococcus aureus pKH7 catA gene for type A-7 chloramphenicol O-acetyltransferase, complete CDS
+NG_047576	NG_047576.1	NG_047576.1	Staphylococcus aureus MC524 pMC524 /MBM catA gene for type A-9 chloramphenicol O-acetyltransferase, complete CDS
+NG_047578	NG_047578.1	NG_047578.1	Enterococcus faecium pRUM catA gene for type A-8 chloramphenicol O-acetyltransferase, complete CDS
+NG_047579	NG_047579.1	NG_047579.1	Lactococcus lactis subsp. lactis K214 pK214 catA gene for type A-8 chloramphenicol O-acetyltransferase, complete CDS
+NG_047580	NG_047580.1	NG_047580.1	Staphylococcus sciuri pC194-like catA gene for type A-9 chloramphenicol O-acetyltransferase, complete CDS
+NG_047586	NG_047586.1	NG_047586.1	Serratia marcescens R478 catA1 gene for type A-1 chloramphenicol O-acetyltransferase, complete CDS
+NG_047595	NG_047595.1	NG_047595.1	Aeromonas salmonicida Ar-32 pAr-32 catA2 gene for type A-2 chloramphenicol O-acetyltransferase CatII, complete CDS
+NG_047596	NG_047596.1	NG_047596.1	Salmonella sp. TC67 pTC67 catA2 gene for type A-2 chloramphenicol O-acetyltransferase CatII, complete CDS
+NG_047599	NG_047599.1	NG_047599.1	Klebsiella pneumoniae BM4686 pIP849 catB gene for type B chloramphenicol O-acetyltransferase, complete CDS
+NG_047603	NG_047603.1	NG_047603.1	Pasteurella multocida pJR1 catB2 gene for type B-2 chloramphenicol O-acetyltransferase CatB2, complete CDS
+NG_047604	NG_047604.1	NG_047604.1	[Enterobacter] aerogenes pBWH301 catB3 gene for type B-3 chloramphenicol O-acetyltransferase CatB3, complete CDS
+NG_047605	NG_047605.1	NG_047605.1	Salmonella enterica subsp. enterica serovar Typhimurium incFI catB3 gene for type B-3 chloramphenicol O-acetyltransferase CatB3, complete CDS
+NG_047607	NG_047607.1	NG_047607.1	Morganella morganii M/0502-1 unnamed catB3 gene for type B-3 chloramphenicol O-acetyltransferase CatB3, complete CDS
+NG_047612	NG_047612.1	NG_047612.1	Klebsiella pneumoniae He96 pHe96 catB3 gene for type B-3 chloramphenicol O-acetyltransferase CatB3, complete CDS
+NG_047616	NG_047616.1	NG_047616.1	Klebsiella pneumoniae pKB42 catB8 gene for type B-3 chloramphenicol O-acetyltransferase CatB8, complete CDS
+NG_047619	NG_047619.1	NG_047619.1	Shigella sonnei pSS2852 catB8 gene for type B-3 chloramphenicol O-acetyltransferase CatB8, complete CDS
+NG_047646	NG_047646.1	NG_047646.1	Pseudomonas aeruginosa R1033 cmlA1 gene for chloramphenicol efflux MFS transporter CmlA1, complete CDS
+NG_047652	NG_047652.1	NG_047652.1	Klebsiella pneumoniae Kp0506 p0506 cmlA4 gene for chloramphenicol efflux MFS transporter CmlA4, complete CDS
+NG_047653	NG_047653.1	NG_047653.1	Escherichia coli MG-1 R751 cmlA5 gene for chloramphenicol efflux MFS transporter CmlA5, complete CDS
+NG_047657	NG_047657.1	NG_047657.1	[Enterobacter] aerogenes BM2688-I pIP833 cmlB gene for chloramphenicol efflux MFS transporter CmlB, complete CDS
+NG_047658	NG_047658.1	NG_047658.1	Bordetella bronchiseptica pKBB1115 (naturally occurring) (50 kb) cmlB1 gene for chloramphenicol efflux MFS transporter CmlB1, complete CDS
+NG_047686	NG_047686.1	NG_047686.1	Escherichia coli pDGO100 dfrA10 gene for trimethoprim-resistant dihydrofolate reductase DfrA10, complete CDS
+NG_047694	NG_047694.1	NG_047694.1	Escherichia coli pUK1329 dfrA14 gene for trimethoprim-resistant dihydrofolate reductase DfrA14, complete CDS
+NG_047695	NG_047695.1	NG_047695.1	Escherichia coli pUK163 dfrA14 gene for trimethoprim-resistant dihydrofolate reductase DfrA14, complete CDS
+NG_047696	NG_047696.1	NG_047696.1	Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 P5060690 pDEP61 dfrA14 gene for trimethoprim-resistant dihydrofolate reductase DfrA14, complete CDS
+NG_047705	NG_047705.1	NG_047705.1	Salmonella enterica subsp. enterica serovar Typhimurium DT104-1178 pIE1142 dfrA16 gene for trimethoprim-resistant dihydrofolate reductase DfrA16, complete CDS
+NG_047706	NG_047706.1	NG_047706.1	Escherichia coli 785-D pMSP071 dfrA16 gene for trimethoprim-resistant dihydrofolate reductase DfrA16, complete CDS
+NG_047707	NG_047707.1	NG_047707.1	Escherichia coli pKO56 dfrA16 gene for trimethoprim-resistant dihydrofolate reductase DfrA16, complete CDS
+NG_047712	NG_047712.1	NG_047712.1	Escherichia coli GL1 unnamed dfrA17 gene for trimethoprim-resistant dihydrofolate reductase DfrA17, complete CDS
+NG_047714	NG_047714.1	NG_047714.1	Pasteurella multocida pCCK154 dfrA20 gene for trimethoprim-resistant dihydrofolate reductase DfrA20, complete CDS
+NG_047719	NG_047719.1	NG_047719.1	Salmonella enterica subsp. enterica serovar Typhimurium t-ST4 dfrA23 gene for trimethoprim-resistant dihydrofolate reductase DfrA23, complete CDS
+NG_047728	NG_047728.1	NG_047728.1	Vibrio cholerae O1 2004VN84 pVN84 dfrA31 gene for trimethoprim-resistant dihydrofolate reductase DfrA31, complete CDS
+NG_047741	NG_047741.1	NG_047741.1	Escherichia coli pLMO226 dfrA8 gene for trimethoprim-resistant dihydrofolate reductase DfrA8, complete CDS
+NG_047743	NG_047743.1	NG_047743.1	Escherichia coli pLMO239 dfrB1 gene for trimethoprim-resistant dihydrofolate reductase DfrB1, complete CDS
+NG_047757	NG_047757.1	NG_047757.1	Yersinia ruckeri YR71 pYR1 dfrI gene for trimethoprim-resistant dihydrofolate reductase DfrI, complete CDS
+NG_047759	NG_047759.1	NG_047759.1	Staphylococcus aureus subsp. aureus ST398 pKKS825 dfrK gene for trimethoprim-resistant dihydrofolate reductase DfrK, complete CDS
+NG_047763	NG_047763.1	NG_047763.1	Providencia stuartii 1723 pLQ1723 ere(A) gene for EreA family erythromycin esterase, complete CDS
+NG_047765	NG_047765.1	NG_047765.1	Escherichia coli BM2195 pIP1100 ere(A) gene for EreA family erythromycin esterase, complete CDS
+NG_047768	NG_047768.1	NG_047768.1	Escherichia coli BM2570 pIP1527 ere(B) gene for EreB family erythromycin esterase, complete CDS
+NG_047769	NG_047769.1	NG_047769.1	Escherichia coli pIP1527 ere(B) gene for EreB family erythromycin esterase, complete CDS
+NG_047776	NG_047776.1	NG_047776.1	Staphylococcus sciuri pSCFS1 erm(33) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(33), complete CDS
+NG_047779	NG_047779.1	NG_047779.1	Micrococcus luteus MAW843 pMEC2 erm(36) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(36), complete CDS
+NG_047794	NG_047794.1	NG_047794.1	Enterococcus faecalis plasmid pAM-beta1 pAM-beta1 erm(B) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B), complete CDS
+NG_047797	NG_047797.1	NG_047797.1	Streptococcus pyogenes pBT233 erm(B) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B), complete CDS
+NG_047803	NG_047803.1	NG_047803.1	Lactobacillus reuteri pLUL631 erm(B) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B), complete CDS
+NG_047805	NG_047805.1	NG_047805.1	Staphylococcus aureus pE194 erm(C) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(C), complete CDS
+NG_047806	NG_047806.1	NG_047806.1	Bacillus subtilis pIM13 erm(C) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(C), complete CDS
+NG_047807	NG_047807.1	NG_047807.1	Staphylococcus epidermidis pNE131 erm(C) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(C), complete CDS
+NG_047809	NG_047809.1	NG_047809.1	Staphylococcus aureus T48 pT48 erm(C) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(C), complete CDS
+NG_047810	NG_047810.1	NG_047810.1	Staphylococcus chromogenes 3688 pPV141 erm(C) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(C), complete CDS
+NG_047811	NG_047811.1	NG_047811.1	Staphylococcus haemolyticus 227a pSES4a erm(C) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(C), complete CDS
+NG_047812	NG_047812.1	NG_047812.1	Staphylococcus hominis 736153 pSES5 erm(C) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(C), complete CDS
+NG_047813	NG_047813.1	NG_047813.1	Staphylococcus simulans 13044 pPV142 erm(C) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(C), complete CDS
+NG_047814	NG_047814.1	NG_047814.1	Staphylococcus hyicus 46 pSES21 erm(C) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(C), complete CDS
+NG_047815	NG_047815.1	NG_047815.1	Staphylococcus aureus CMRSA pWBG738 erm(C) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(C), complete CDS
+NG_047816	NG_047816.1	NG_047816.1	Staphylococcus saprophyticus pSES22 erm(C) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(C), complete CDS
+NG_047817	NG_047817.1	NG_047817.1	Lactobacillus reuteri PA-16 unnamed erm(C) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(C), complete CDS
+NG_047824	NG_047824.1	NG_047824.1	Bacteroides fragilis pBF4 erm(F) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(F), complete CDS
+NG_047825	NG_047825.1	NG_047825.1	Bacteroides fragilis BI136 erm(F) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(F), complete CDS
+NG_047839	NG_047839.1	NG_047839.1	Lactobacillus sp. PC121B p121BS erm(T) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(T), complete CDS
+NG_047840	NG_047840.1	NG_047840.1	Lactobacillus fermentum pLME300 erm(T) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(T), complete CDS
+NG_047847	NG_047847.1	NG_047847.1	Corynebacterium diphtheriae pNG2 erm(X) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(X), complete CDS
+NG_047849	NG_047849.1	NG_047849.1	Corynebacterium striatum M82B pTP10 erm(X) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(X), complete CDS
+NG_047852	NG_047852.1	NG_047852.1	Trueperella pyogenes pAP2 erm(X) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(X), complete CDS
+NG_047857	NG_047857.1	NG_047857.1	Staphylococcus lentus pSCFS2 fexA gene for chloramphenicol/florfenicol efflux MFS transporter FexA, complete CDS
+NG_047858	NG_047858.1	NG_047858.1	Staphylococcus simulans pSCFS4 fexA gene for chloramphenicol/florfenicol efflux MFS transporter FexA, complete CDS
+NG_047859	NG_047859.1	NG_047859.1	Staphylococcus warneri pSCFS6 fexA gene for chloramphenicol/florfenicol efflux MFS transporter FexA, complete CDS
+NG_047862	NG_047862.1	NG_047862.1	Escherichia coli 10660-1 floR gene for chloramphenicol/florfenicol efflux MFS transporter FloR, complete CDS
+NG_047865	NG_047865.1	NG_047865.1	Klebsiella pneumoniae R55 floR gene for chloramphenicol/florfenicol efflux MFS transporter FloR, complete CDS
+NG_047866	NG_047866.1	NG_047866.1	Escherichia coli pMBSF1 floR gene for chloramphenicol/florfenicol efflux MFS transporter FloR, complete CDS
+NG_047869	NG_047869.1	NG_047869.1	Vibrio cholerae PL107b pKA1 floR gene for chloramphenicol/florfenicol efflux MFS transporter FloR, complete CDS
+NG_047870	NG_047870.1	NG_047870.1	Pasteurella multocida pCCK381 floR gene for chloramphenicol/florfenicol efflux MFS transporter FloR, complete CDS
+NG_047871	NG_047871.1	NG_047871.1	Bibersteinia trehalosi pCCK13698 floR gene for chloramphenicol/florfenicol efflux MFS transporter FloR, complete CDS
+NG_047874	NG_047874.1	NG_047874.1	Aeromonas bestiarum 5S9 pAb5S9 floR gene for chloramphenicol/florfenicol efflux MFS transporter FloR, complete CDS
+NG_047876	NG_047876.1	NG_047876.1	Pasteurella multocida pCCK1900 floR gene for chloramphenicol/florfenicol efflux MFS transporter FloR, complete CDS
+NG_047877	NG_047877.1	NG_047877.1	Edwardsiella ictaluri pM07-1 floR gene for chloramphenicol/florfenicol efflux MFS transporter FloR, complete CDS
+NG_047878	NG_047878.1	NG_047878.1	Escherichia coli AR060302 pAR060302 floR gene for chloramphenicol/florfenicol efflux MFS transporter FloR, complete CDS
+NG_047891	NG_047891.1	NG_047891.1	Escherichia coli pHPA fosC2 gene for FosC2 family fosfomycin resistance glutathione transferase, complete CDS
+NG_047900	NG_047900.1	NG_047900.1	Staphylococcus aureus pUB101 fusB gene for fusidic acid resistance EF-G-binding protein FusB, complete CDS
+NG_047914	NG_047914.1	NG_047914.1	Staphylococcus aureus pBMSa1 lnu(A) gene for lincosamide nucleotidyltransferase Lnu(A), complete CDS
+NG_047915	NG_047915.1	NG_047915.1	Staphylococcus chromogenes pLNU1 lnu(A) gene for lincosamide nucleotidyltransferase Lnu(A), complete CDS
+NG_047916	NG_047916.1	NG_047916.1	Staphylococcus chromogenes pLNU4 lnu(A) gene for lincosamide nucleotidyltransferase Lnu(A), complete CDS
+NG_047917	NG_047917.1	NG_047917.1	Staphylococcus simulans pLNU5 (naturally occurring) lnu(A) gene for lincosamide nucleotidyltransferase Lnu(A), complete CDS
+NG_047918	NG_047918.1	NG_047918.1	Staphylococcus haemolyticus pLNU7 (naturally occurring) lnu(A) gene for lincosamide nucleotidyltransferase Lnu(A), complete CDS
+NG_047919	NG_047919.1	NG_047919.1	Staphylococcus epidermidis pLNU6 (naturally occurring) lnu(A) gene for lincosamide nucleotidyltransferase Lnu(A), complete CDS
+NG_047923	NG_047923.1	NG_047923.1	Enterococcus faecalis 418 pEF418 lnu(B) gene for lincosamide nucleotidyltransferase Lnu(B), complete CDS
+NG_047929	NG_047929.1	NG_047929.1	Clostridium perfringens 95-949 pJIR2774 lnu(P) gene for lincosamide nucleotidyltransferase Lnu(P), complete CDS
+NG_047933	NG_047933.1	NG_047933.1	Staphylococcus sciuri pSCFS1 lsa(B) gene for ABC-F type ribosomal protection protein Lsa(B), complete CDS
+NG_047935	NG_047935.1	NG_047935.1	Enterococcus faecalis 418 pEF418 lsa(E) gene for ABC-F type ribosomal protection protein Lsa(E), complete CDS
+NG_047977	NG_047977.1	NG_047977.1	Exiguobacterium sp. S3-2 pMC1 mef(A) gene for macrolide efflux MFS transporter Mef(A), complete CDS
+NG_047978	NG_047978.1	NG_047978.1	Escherichia coli P286.10.99.C3 pP286 mef(B) gene for macrolide efflux MFS transporter Mef(B), complete CDS
+NG_047979	NG_047979.1	NG_047979.1	Photobacterium damselae subsp. damselae 04Ya311 pAQU1 mef(C) gene for macrolide efflux MFS transporter Mef(C), complete CDS
+NG_047998	NG_047998.1	NG_047998.1	Photobacterium damselae subsp. damselae 04Ya311 pAQU1 mph(G) gene for Mph(G) family macrolide 2'-phosphotransferase, complete CDS
+NG_048001	NG_048001.1	NG_048001.1	Staphylococcus aureus pEP2104 msr(A) gene for ABC-F type ribosomal protection protein Msr(A), complete CDS
+NG_048007	NG_048007.1	NG_048007.1	Citrobacter freundii pCTX-M3 msr(E) gene for ABC-F type ribosomal protection protein Msr(E), complete CDS
+NG_048008	NG_048008.1	NG_048008.1	Staphylococcus aureus HUNSC491 pPR9 mupA gene for mupirocin-resistant isoleucine--tRNA ligase MupA, complete CDS
+NG_048011	NG_048011.1	NG_048011.1	Bacteroides vulgatus BV17 pIP417 nimA gene for nitroimidazole resistance protein NimA, complete CDS
+NG_048018	NG_048018.1	NG_048018.1	Escherichia coli pARS3 npmA gene for 16S rRNA (adenine(1408)-N(1))-methyltransferase NpmA, complete CDS
+NG_048023	NG_048023.1	NG_048023.1	Enterococcus faecalis E394 pE394 optrA gene for ABC-F type ribosomal protection protein OptrA, complete CDS
+NG_048024	NG_048024.1	NG_048024.1	Escherichia coli pOLA52 oqxA gene for multidrug efflux RND transporter periplasmic adaptor subunit OqxA, complete CDS
+NG_048025	NG_048025.1	NG_048025.1	Escherichia coli pOLA52 oqxB gene for multidrug efflux RND transporter permease subunit OqxB, complete CDS
+NG_048037	NG_048037.1	NG_048037.1	Staphylococcus aureus TPS89 pTZ2089 qacA gene for quaternary ammonium compound efflux MFS transporter QacA, complete CDS
+NG_048041	NG_048041.1	NG_048041.1	[Enterobacter] aerogenes R751 qacE gene for quaternary ammonium compound efflux SMR transporter QacE, complete CDS
+NG_048046	NG_048046.1	NG_048046.1	Staphylococcus aureus pNVH01 qacJ gene for quaternary ammonium compound efflux SMR transporter QacJ, complete CDS
+NG_048048	NG_048048.1	NG_048048.1	Vibrio cholerae p3iANG qacL gene for quaternary ammonium compound efflux SMR transporter QacL, complete CDS
+NG_048054	NG_048054.1	NG_048054.1	Proteus mirabilis 06-489 pHS10 qnrC gene for QnrC family quinolone resistance pentapeptide repeat protein, complete CDS
+NG_048069	NG_048069.1	NG_048069.1	Escherichia coli pIE639 sat3 gene for streptothricin N-acetyltransferase Sat3, complete CDS
+NG_048073	NG_048073.1	NG_048073.1	Campylobacter jejuni pCJE8480 sat4 gene for streptothricin N-acetyltransferase Sat4, complete CDS
+NG_048074	NG_048074.1	NG_048074.1	Staphylococcus aureus ST398 pDJ91S spd gene for ANT(9) family aminoglycoside nucleotidyltransferase Spd, complete CDS
+NG_048078	NG_048078.1	NG_048078.1	Lactococcus lactis subsp. lactis K214 pK214 str gene for streptomycin adenylyltransferase Str, complete CDS
+NG_048081	NG_048081.1	NG_048081.1	Escherichia coli R46 sul1 gene for sulfonamide-resistant dihydropteroate synthase Sul1, complete CDS
+NG_048082	NG_048082.1	NG_048082.1	Pseudomonas aeruginosa R1033 sul1 gene for sulfonamide-resistant dihydropteroate synthase Sul1, complete CDS
+NG_048086	NG_048086.1	NG_048086.1	Aeromonas salmonicida Ar-32 pAr-32 sul1 gene for sulfonamide-resistant dihydropteroate synthase Sul1, complete CDS
+NG_048088	NG_048088.1	NG_048088.1	Morganella morganii subsp. morganii PP16 pM16 sul1 gene for sulfonamide-resistant dihydropteroate synthase Sul1, complete CDS
+NG_048090	NG_048090.1	NG_048090.1	Salmonella enterica subsp. enterica serovar Typhimurium t-ST4 sul1 gene for sulfonamide-resistant dihydropteroate synthase Sul1, complete CDS
+NG_048093	NG_048093.1	NG_048093.1	Klebsiella oxytoca MPDHA pMPDHA sul1 gene for sulfonamide-resistant dihydropteroate synthase Sul1, complete CDS
+NG_048095	NG_048095.1	NG_048095.1	Salmonella enterica subsp. enterica serovar Typhimurium 04-9275 unnamed sul1 gene for sulfonamide-resistant dihydropteroate synthase Sul1, complete CDS
+NG_048096	NG_048096.1	NG_048096.1	Klebsiella pneumoniae pKP227 sul1 gene for sulfonamide-resistant dihydropteroate synthase Sul1, complete CDS
+NG_048097	NG_048097.1	NG_048097.1	Salmonella enterica subsp. enterica serovar Brandenburg pUO-SbR5 sul1 gene for sulfonamide-resistant dihydropteroate synthase Sul1, complete CDS
+NG_048099	NG_048099.1	NG_048099.1	Klebsiella pneumoniae 12836 unnamed sul1 gene for sulfonamide-resistant dihydropteroate synthase Sul1, complete CDS
+NG_048100	NG_048100.1	NG_048100.1	Klebsiella pneumoniae pKT51748 sul1 gene for sulfonamide-resistant dihydropteroate synthase Sul1, complete CDS
+NG_048101	NG_048101.1	NG_048101.1	Enterobacter cloacae pEC-IMP sul1 gene for sulfonamide-resistant dihydropteroate synthase Sul1, complete CDS
+NG_048106	NG_048106.1	NG_048106.1	Pasteurella multocida Pm1096 pIG1 sul2 gene for sulfonamide-resistant dihydropteroate synthase Sul2, complete CDS
+NG_048108	NG_048108.1	NG_048108.1	Aliivibrio salmonicida VS224 pRVS1 sul2 gene for sulfonamide-resistant dihydropteroate synthase Sul2, complete CDS
+NG_048109	NG_048109.1	NG_048109.1	Mannheimia varigena pMVSCS1 sul2 gene for sulfonamide-resistant dihydropteroate synthase Sul2, complete CDS
+NG_048110	NG_048110.1	NG_048110.1	Shigella sonnei pKKTET7 sul2 gene for sulfonamide-resistant dihydropteroate synthase Sul2, complete CDS
+NG_048111	NG_048111.1	NG_048111.1	Salmonella enterica subsp. enterica serovar Enteritidis expression vector pSY7K sul2 gene for sulfonamide-resistant dihydropteroate synthase Sul2, complete CDS
+NG_048112	NG_048112.1	NG_048112.1	Pasteurella multocida pVM111 sul2 gene for sulfonamide-resistant dihydropteroate synthase Sul2, complete CDS
+NG_048115	NG_048115.1	NG_048115.1	Actinobacillus porcitonsillarum pKMA505 sul2 gene for sulfonamide-resistant dihydropteroate synthase Sul2, complete CDS
+NG_048116	NG_048116.1	NG_048116.1	Actinobacillus pleuropneumoniae pPSAS1522 sul2 gene for sulfonamide-resistant dihydropteroate synthase Sul2, complete CDS
+NG_048117	NG_048117.1	NG_048117.1	Bibersteinia trehalosi pCCK13698 sul2 gene for sulfonamide-resistant dihydropteroate synthase Sul2, complete CDS
+NG_048118	NG_048118.1	NG_048118.1	Salmonella enterica subsp. enterica serovar Choleraesuis L-2454 pMAK1 sul2 gene for sulfonamide-resistant dihydropteroate synthase Sul2, complete CDS
+NG_048119	NG_048119.1	NG_048119.1	[Haemophilus] parasuis YC0093 pYC93 sul2 gene for sulfonamide-resistant dihydropteroate synthase Sul2, complete CDS
+NG_048120	NG_048120.1	NG_048120.1	Escherichia coli pVP440 sul3 gene for sulfonamide-resistant dihydropteroate synthase Sul3, complete CDS
+NG_048123	NG_048123.1	NG_048123.1	Aeromonas salmonicida subsp. salmonicida 92/2298 pRAS2 tet(31) gene for tetracycline efflux MFS transporter Tet(31), complete CDS
+NG_048127	NG_048127.1	NG_048127.1	Corynebacterium glutamicum LP-6 pTET3 tet(33) gene for tetracycline efflux MFS transporter Tet(33), complete CDS
+NG_048137	NG_048137.1	NG_048137.1	Acinetobacter sp. LUH5605 ptet5605 tet(39) gene for tetracycline efflux MFS transporter Tet(39), complete CDS
+NG_048148	NG_048148.1	NG_048148.1	Pseudomonas aeruginosa RP4 tet(A) gene for tetracycline efflux MFS transporter Tet(A), complete CDS
+NG_048151	NG_048151.1	NG_048151.1	Escherichia coli pTOJO2 tet(A) gene for tetracycline efflux MFS transporter Tet(A), complete CDS
+NG_048152	NG_048152.1	NG_048152.1	Escherichia coli pDEWT1 tet(A) gene for tetracycline efflux MFS transporter Tet(A), complete CDS
+NG_048153	NG_048153.1	NG_048153.1	Shigella sonnei pSS4 tet(A) gene for tetracycline efflux MFS transporter Tet(A), complete CDS
+NG_048154	NG_048154.1	NG_048154.1	Salmonella enterica subsp. enterica serovar Enteritidis expression vector pSY7K tet(A) gene for tetracycline efflux MFS transporter Tet(A), complete CDS
+NG_048157	NG_048157.1	NG_048157.1	Klebsiella pneumoniae pQKp274H tet(A) gene for tetracycline efflux MFS transporter Tet(A), complete CDS
+NG_048159	NG_048159.1	NG_048159.1	Klebsiella pneumoniae KP96 pKP96 tet(A) gene for tetracycline efflux MFS transporter Tet(A), complete CDS
+NG_048161	NG_048161.1	NG_048161.1	Shigella flexneri 2b 222 R100 tet(B) gene for tetracycline efflux MFS transporter Tet(B), complete CDS
+NG_048170	NG_048170.1	NG_048170.1	[Haemophilus] parasuis HS1543 pHS-Tet tet(B) gene for tetracycline efflux MFS transporter Tet(B), complete CDS
+NG_048171	NG_048171.1	NG_048171.1	Actinobacillus pleuropneumoniae APP11745 p11745 tet(B) gene for tetracycline efflux MFS transporter Tet(B), complete CDS
+NG_048173	NG_048173.1	NG_048173.1	Pasteurella multocida BB1034 pB1001 tet(B) gene for tetracycline efflux MFS transporter Tet(B), complete CDS
+NG_048174	NG_048174.1	NG_048174.1	Francisella tularensis LVS pOM1 tet(C) gene for tetracycline efflux MFS transporter Tet(C), complete CDS
+NG_048175	NG_048175.1	NG_048175.1	Salmonella enterica subsp. enterica serovar Typhimurium R46 tet(C) gene for tetracycline efflux MFS transporter Tet(C), complete CDS
+NG_048176	NG_048176.1	NG_048176.1	Aeromonas salmonicida subsp. salmonicida pRAS3.1 tet(C) gene for tetracycline efflux MFS transporter Tet(C), complete CDS
+NG_048177	NG_048177.1	NG_048177.1	Aeromonas salmonicida pRAS3.2 tet(C) gene for tetracycline efflux MFS transporter Tet(C), complete CDS
+NG_048179	NG_048179.1	NG_048179.1	Escherichia coli invasion plasmid pIS2 tet(C) gene for tetracycline efflux MFS transporter Tet(C), complete CDS
+NG_048187	NG_048187.1	NG_048187.1	Aliivibrio salmonicida VS201 pRVS1 tet(E) gene for tetracycline efflux MFS transporter Tet(E), complete CDS
+NG_048188	NG_048188.1	NG_048188.1	Aeromonas salmonicida 90644 pYA90644 tet(E) gene for tetracycline efflux MFS transporter Tet(E), complete CDS
+NG_048191	NG_048191.1	NG_048191.1	Vibrio anguillarum pJA8122 tet(G) gene for tetracycline efflux MFS transporter Tet(G), complete CDS
+NG_048194	NG_048194.1	NG_048194.1	Pasteurella multocida pPMT1 tet(H) gene for tetracycline efflux MFS transporter Tet(H), complete CDS
+NG_048195	NG_048195.1	NG_048195.1	Mannheimia haemolytica pPHT1 tet(H) gene for tetracycline efflux MFS transporter Tet(H), complete CDS
+NG_048197	NG_048197.1	NG_048197.1	Psychrobacter maritimus MR29-12 pKLH80 tet(H) gene for tetracycline efflux MFS transporter Tet(H), complete CDS
+NG_048200	NG_048200.1	NG_048200.1	Staphylococcus aureus pT181 tet(K) gene for tetracycline efflux MFS transporter Tet(K), complete CDS
+NG_048203	NG_048203.1	NG_048203.1	Streptococcus agalactiae pLS1 tet(L) gene for tetracycline efflux MFS transporter Tet(L), complete CDS
+NG_048205	NG_048205.1	NG_048205.1	Staphylococcus hyicus pSTE1 tet(L) gene for tetracycline efflux MFS transporter Tet(L), complete CDS
+NG_048207	NG_048207.1	NG_048207.1	Streptococcus agalactiae pMV158 tet(L) gene for tetracycline efflux MFS transporter Tet(L), complete CDS
+NG_048208	NG_048208.1	NG_048208.1	Lactobacillus sakei Rits9 pLS55 tet(L) gene for tetracycline efflux MFS transporter Tet(L), complete CDS
+NG_048209	NG_048209.1	NG_048209.1	Paenibacillus larvae 67E pMA67 tet(L) gene for tetracycline efflux MFS transporter Tet(L), complete CDS
+NG_048210	NG_048210.1	NG_048210.1	Bacillus sp. 24 pBHS24 tet(L) gene for tetracycline efflux MFS transporter Tet(L), complete CDS
+NG_048225	NG_048225.1	NG_048225.1	Lactobacillus plantarum 5057 pMD5057 tet(M) gene for tetracycline resistance ribosomal protection protein Tet(M), complete CDS
+NG_048233	NG_048233.1	NG_048233.1	Enterococcus faecium pYA470-4 tet(M) gene for tetracycline resistance ribosomal protection protein Tet(M), complete CDS
+NG_048256	NG_048256.1	NG_048256.1	Campylobacter jejuni pCjA13 tet(O) gene for tetracycline resistance ribosomal protection protein Tet(O), complete CDS
+NG_048259	NG_048259.1	NG_048259.1	Campylobacter coli pCC31 tet(O) gene for tetracycline resistance ribosomal protection protein Tet(O), complete CDS
+NG_048260	NG_048260.1	NG_048260.1	Campylobacter jejuni subsp. jejuni 81-176 pTet tet(O) gene for tetracycline resistance ribosomal protection protein Tet(O), complete CDS
+NG_048263	NG_048263.1	NG_048263.1	Campylobacter jejuni CG8245 pCG8245 tet(O) gene for tetracycline resistance ribosomal protection protein Tet(O), complete CDS
+NG_048264	NG_048264.1	NG_048264.1	Actinobacillus pleuropneumoniae 13142 p13142 tet(O) gene for tetracycline resistance ribosomal protection protein Tet(O), complete CDS
+NG_048272	NG_048272.1	NG_048272.1	Bifidobacterium longum B200304 pBIF10 tet(Q) gene for tetracycline resistance ribosomal protection protein Tet(Q), complete CDS
+NG_048311	NG_048311.1	NG_048311.1	Corynebacterium glutamicum 22243 R-plasmid pAG1 tet(Z) gene for tetracycline efflux MFS transporter Tet(Z), complete CDS
+NG_048317	NG_048317.1	NG_048317.1	Corynebacterium striatum M82B pTP10 tetAB_B gene for tetracycline efflux ABC transporter TetAB subunit B, complete CDS
+NG_048331	NG_048331.1	NG_048331.1	Enterococcus faecalis BM4382 pIP834 vanB gene for D-alanine--(R)-lactate ligase VanB, complete CDS
+NG_048341	NG_048341.1	NG_048341.1	Enterococcus faecalis pMG2200 vanB gene for D-alanine--(R)-lactate ligase VanB, complete CDS
+NG_048372	NG_048372.1	NG_048372.1	Enterococcus faecalis pSL1 vanH-A gene for D-lactate dehydrogenase VanH-A, complete CDS
+NG_048376	NG_048376.1	NG_048376.1	Enterococcus faecalis BM4382 pIP834 vanH-B gene for D-lactate dehydrogenase VanH-B, complete CDS
+NG_048378	NG_048378.1	NG_048378.1	Enterococcus faecalis pMG2200 vanH-B gene for D-lactate dehydrogenase VanH-B, complete CDS
+NG_048429	NG_048429.1	NG_048429.1	Enterococcus faecalis BM4382 pIP834 vanS gene for VanB-type vancomycin resistance histidine kinase VanS, complete CDS
+NG_048449	NG_048449.1	NG_048449.1	Enterococcus faecalis pMG2200 vanS gene for VanB-type vancomycin resistance histidine kinase VanS, complete CDS
+NG_048476	NG_048476.1	NG_048476.1	Enterococcus faecium pUW786 vanX-A gene for D-Ala-D-Ala dipeptidase VanX-A, complete CDS
+NG_048477	NG_048477.1	NG_048477.1	Enterococcus faecalis pSL1 vanX-A gene for D-Ala-D-Ala dipeptidase VanX-A, complete CDS
+NG_048482	NG_048482.1	NG_048482.1	Enterococcus faecalis BM4382 pIP834 vanX-B gene for D-Ala-D-Ala dipeptidase VanX-B, complete CDS
+NG_048486	NG_048486.1	NG_048486.1	Enterococcus faecalis pMG2200 vanX-B gene for D-Ala-D-Ala dipeptidase VanX-B, complete CDS
+NG_048519	NG_048519.1	NG_048519.1	Enterococcus faecalis BM4382 pIP834 vanY-B gene for D-Ala-D-Ala carboxypeptidase VanY-B, complete CDS
+NG_048534	NG_048534.1	NG_048534.1	Enterococcus faecalis pSL1 vanZ-A gene for glycopeptide resistance protein VanZ-A, complete CDS
+NG_048539	NG_048539.1	NG_048539.1	Staphylococcus cohnii BM10711 pIP1714 vat(C) gene for streptogramin A O-acetyltransferase Vat(C), complete CDS
+NG_048543	NG_048543.1	NG_048543.1	Enterococcus faecium K14 pIP1803 vat(E) gene for streptogramin A O-acetyltransferase Vat(E), complete CDS
+NG_048555	NG_048555.1	NG_048555.1	Staphylococcus aureus 07SA-CLR1 pSA-CLR vga(A) gene for ABC-F type ribosomal protection protein Vga(A), complete CDS
+NG_048556	NG_048556.1	NG_048556.1	Staphylococcus aureus pCPS32 vga(A) gene for ABC-F type ribosomal protection protein Vga(A), complete CDS
+NG_048557	NG_048557.1	NG_048557.1	Staphylococcus epidermidis S7 pIP1890 vga(A) gene for ABC-F type ribosomal protection protein Vga(A), complete CDS
+NG_048558	NG_048558.1	NG_048558.1	Staphylococcus aureus BM3385 pIP1633 vga(B) gene for ABC-F type ribosomal protection protein Vga(B), complete CDS
+NG_048559	NG_048559.1	NG_048559.1	Staphylococcus aureus subsp. aureus ST398 pKKS825 vga(C) gene for ABC-F type ribosomal protection protein Vga(C), complete CDS
+NG_048564	NG_048564.1	NG_048564.1	Staphylococcus cohnii BM10711 pIP1714 vgb(B) gene for streptogramin B lyase Vgb(B), complete CDS
+NG_048588	NG_048588.1	NG_048588.1	Klebsiella pneumoniae unnamed blaACC gene for cephalosporin-hydrolyzing class C beta-lactamase ACC-1, complete CDS
+NG_048628	NG_048628.1	NG_048628.1	Escherichia coli 882 EBC882 blaACT gene for cephalosporin-hydrolyzing class C beta-lactamase ACT-5, complete CDS
+NG_048629	NG_048629.1	NG_048629.1	Klebsiella pneumoniae 701 EBC701 blaACT gene for cephalosporin-hydrolyzing class C beta-lactamase ACT-6, complete CDS
+NG_048630	NG_048630.1	NG_048630.1	Klebsiella pneumoniae 1464 EBC1464 blaACT gene for cephalosporin-hydrolyzing class C beta-lactamase ACT-7, complete CDS
+NG_048632	NG_048632.1	NG_048632.1	Pantoea agglomerans PA1 pTV1422 blaACT gene for cephalosporin-hydrolyzing class C beta-lactamase ACT-9, complete CDS
+NG_048707	NG_048707.1	NG_048707.1	Serratia marcescens pRio-5 blaBES gene for class A extended spectrum beta-lactamase BES-1, complete CDS
+NG_048710	NG_048710.1	NG_048710.1	Klebsiella pneumoniae A60136 p60136 blaBKC gene for carbapenem-hydrolyzing class A beta-lactamase BKC-1, complete CDS
+NG_048718	NG_048718.1	NG_048718.1	Psychrobacter maritimus MR29-12 pKLH80 blaRTG gene for RTG family carbenicillin-hydrolyzing class A beta-lactamase CARB-16, complete CDS
+NG_048742	NG_048742.1	NG_048742.1	Pseudomonas aeruginosa p83372 pUD12 blaPSE gene for PSE family carbenicillin-hydrolyzing class A beta-lactamase CARB-4, complete CDS
+NG_048751	NG_048751.1	NG_048751.1	Vibrio cholerae non O1, non O139 uncharacterized blaPSE gene for PSE family carbenicillin-hydrolyzing class A beta-lactamase CARB-6, complete CDS
+NG_048757	NG_048757.1	NG_048757.1	Escherichia coli KU6400 plasmid blaCFE gene for CMY-2 family cephalosporin-hydrolyzing class C beta-lactamase CFE-1, complete CDS
+NG_048766	NG_048766.1	NG_048766.1	Enterobacter cloacae 6 unnamed blaCMH gene for class C beta-lactamase CMH-1, complete CDS
+NG_048768	NG_048768.1	NG_048768.1	Klebsiella pneumoniae CHO pMVP-1 blaMOX gene for class C beta-lactamase CMY-1, complete CDS
+NG_048777	NG_048777.1	NG_048777.1	Escherichia coli EL-495 pEL495 blaCMY gene for class C beta-lactamase CMY-107, complete CDS
+NG_048799	NG_048799.1	NG_048799.1	Escherichia coli p541 blaCMY gene for class C beta-lactamase CMY-13, complete CDS
+NG_048807	NG_048807.1	NG_048807.1	Escherichia coli CNR1238 unnamed blaCMY gene for class C beta-lactamase CMY-139, complete CDS
+NG_048811	NG_048811.1	NG_048811.1	Escherichia coli unnamed blaCMY gene for class C beta-lactamase CMY-17, complete CDS
+NG_048819	NG_048819.1	NG_048819.1	Escherichia coli DM1759/05 CMY-24 blaCMY gene for class C beta-lactamase CMY-24, complete CDS
+NG_048831	NG_048831.1	NG_048831.1	Klebsiella pneumoniae HP205 pH205 blaCMY gene for class C beta-lactamase CMY-36, complete CDS
+NG_048838	NG_048838.1	NG_048838.1	Escherichia coli pK0739377 blaCMY gene for class C beta-lactamase CMY-43, complete CDS
+NG_048845	NG_048845.1	NG_048845.1	Klebsiella oxytoca KH11 pTKH11 blaCMY gene for class C beta-lactamase CMY-5, complete CDS
+NG_048848	NG_048848.1	NG_048848.1	Escherichia coli unnamed blaCMY gene for class C beta-lactamase CMY-53, complete CDS
+NG_048849	NG_048849.1	NG_048849.1	Escherichia coli 71041 unnamed blaCMY gene for class C beta-lactamase CMY-54, complete CDS
+NG_048850	NG_048850.1	NG_048850.1	Escherichia coli 71047 unnamed blaCMY gene for class C beta-lactamase CMY-55, complete CDS
+NG_048851	NG_048851.1	NG_048851.1	Klebsiella pneumoniae 34012 pHVH-2385 blaCMY gene for class C beta-lactamase CMY-56, complete CDS
+NG_048853	NG_048853.1	NG_048853.1	Escherichia coli 10158/10184 unnamed blaCMY gene for class C beta-lactamase CMY-58, complete CDS
+NG_048854	NG_048854.1	NG_048854.1	Escherichia coli EC-19 megaplasmid, unnamed blaCMY gene for class C beta-lactamase CMY-59, complete CDS
+NG_048856	NG_048856.1	NG_048856.1	Escherichia coli 08515 unknown blaCMY gene for class C beta-lactamase CMY-60, complete CDS
+NG_048857	NG_048857.1	NG_048857.1	Escherichia coli N8091181 unknown blaCMY gene for class C beta-lactamase CMY-61, complete CDS
+NG_048858	NG_048858.1	NG_048858.1	Escherichia coli 09044 unknown blaCMY gene for class C beta-lactamase CMY-62, complete CDS
+NG_048861	NG_048861.1	NG_048861.1	Citrobacter sp. 913 unknown blaCMY gene for class C beta-lactamase CMY-65, complete CDS
+NG_048865	NG_048865.1	NG_048865.1	Escherichia coli 9592 p9592CMY blaCMY gene for class C beta-lactamase CMY-69, complete CDS
+NG_048877	NG_048877.1	NG_048877.1	Klebsiella pneumoniae KPW142 pKPW142 blaMOX gene for CMY-1/MOX family class C extended-spectrum beta-lactamase CMY-8, complete CDS
+NG_048887	NG_048887.1	NG_048887.1	Klebsiella pneumoniae KPN3337 pIP605 blaMOX gene for CMY-1/MOX family class C beta-lactamase CMY-8b, complete CDS
+NG_048888	NG_048888.1	NG_048888.1	Escherichia coli HKYM68 pCMXR1 blaMOX gene for CMY-1/MOX family class C extended-spectrum beta-lactamase CMY-9, complete CDS
+NG_048897	NG_048897.1	NG_048897.1	Escherichia coli GRI-1 pMVP-3 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-1, complete CDS
+NG_048898	NG_048898.1	NG_048898.1	Klebsiella pneumoniae Kp4aC pRYCE21 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-10, complete CDS
+NG_048899	NG_048899.1	NG_048899.1	Escherichia coli NMI:5115/09 pCTX-M-100 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-100, complete CDS
+NG_048904	NG_048904.1	NG_048904.1	Escherichia coli RD125 pRD125 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-105, complete CDS
+NG_048910	NG_048910.1	NG_048910.1	Acinetobacter baumannii B-5 IncA/C blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-115, complete CDS
+NG_048911	NG_048911.1	NG_048911.1	Proteus mirabilis K-27 unknown blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-116, complete CDS
+NG_048912	NG_048912.1	NG_048912.1	Escherichia coli RD142 unnamed blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-117, complete CDS
+NG_048914	NG_048914.1	NG_048914.1	Escherichia coli FKP165 pFKP165 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-121, complete CDS
+NG_048915	NG_048915.1	NG_048915.1	Escherichia coli PYMP36-1 pPYMP36-1 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-122, complete CDS
+NG_048916	NG_048916.1	NG_048916.1	Escherichia coli FKP358 pFKP358 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-123, complete CDS
+NG_048918	NG_048918.1	NG_048918.1	Enterobacter cloacae 08-175 pHS24 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-125, complete CDS
+NG_048920	NG_048920.1	NG_048920.1	Escherichia coli CBPC5 pHNZL1 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-129, complete CDS
+NG_048921	NG_048921.1	NG_048921.1	Klebsiella pneumoniae ACH17 pOZ175 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-13, complete CDS
+NG_048922	NG_048922.1	NG_048922.1	Escherichia coli YJCC4 pHNZL2 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-130, complete CDS
+NG_048926	NG_048926.1	NG_048926.1	Proteus mirabilis K-28 unnamed blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-136, complete CDS
+NG_048929	NG_048929.1	NG_048929.1	Escherichia coli ACH13 pOZ174 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-14, complete CDS
+NG_048932	NG_048932.1	NG_048932.1	Escherichia coli SZC10 pHNSZC10 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-144, complete CDS
+NG_048934	NG_048934.1	NG_048934.1	Escherichia coli Echg0 pHN112121 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-148, complete CDS
+NG_048955	NG_048955.1	NG_048955.1	Klebsiella pneumoniae BM4493 pIP843 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-17, complete CDS
+NG_048956	NG_048956.1	NG_048956.1	Escherichia coli 1126619 unnamed blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-170, complete CDS
+NG_048968	NG_048968.1	NG_048968.1	Salmonella enterica subsp. enterica serovar Typhimurium CAS-5 pMVP-4 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-2, complete CDS
+NG_048980	NG_048980.1	NG_048980.1	Citrobacter freundii pCTX-M30 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-30, complete CDS
+NG_048982	NG_048982.1	NG_048982.1	Escherichia coli pMC-2 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-32, complete CDS
+NG_048983	NG_048983.1	NG_048983.1	Escherichia coli pGR2439 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-33, complete CDS
+NG_048986	NG_048986.1	NG_048986.1	Escherichia coli pHSG-1 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-36, complete CDS
+NG_048987	NG_048987.1	NG_048987.1	Enterobacter cloacae pCTX-M-37 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-37, complete CDS
+NG_048988	NG_048988.1	NG_048988.1	Klebsiella pneumoniae kp462 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-38, complete CDS
+NG_048990	NG_048990.1	NG_048990.1	Salmonella enterica subsp. enterica serovar Typhimurium pMSL blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-4, complete CDS
+NG_048993	NG_048993.1	NG_048993.1	Escherichia coli pCTX-M42 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-42, complete CDS
+NG_048996	NG_048996.1	NG_048996.1	Klebsiella pneumoniae Kpn301 unnamed blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-46, complete CDS
+NG_048997	NG_048997.1	NG_048997.1	Escherichia coli Eco182 unnamed blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-47, complete CDS
+NG_048998	NG_048998.1	NG_048998.1	Klebsiella pneumoniae Kpn9 unnamed blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-48, complete CDS
+NG_048999	NG_048999.1	NG_048999.1	Klebsiella pneumoniae Kpn247 unnamed blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-49, complete CDS
+NG_049001	NG_049001.1	NG_049001.1	Klebsiella pneumoniae Kpn52 unnamed blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-50, complete CDS
+NG_049002	NG_049002.1	NG_049002.1	Escherichia coli pMSP520 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-51, complete CDS
+NG_049003	NG_049003.1	NG_049003.1	Klebsiella pneumoniae unnamed blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-52, complete CDS
+NG_049004	NG_049004.1	NG_049004.1	Salmonella enterica subsp. enterica serovar Westhampton 05-686 pWES-1 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-53, complete CDS
+NG_049010	NG_049010.1	NG_049010.1	Salmonella enterica subsp. enterica serovar Typhimurium pAS30 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-6, complete CDS
+NG_049013	NG_049013.1	NG_049013.1	Klebsiella pneumoniae pJIE137 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-62, complete CDS
+NG_049017	NG_049017.1	NG_049017.1	Proteus mirabilis PM341/03 pPM341/03 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-66, complete CDS
+NG_049018	NG_049018.1	NG_049018.1	Escherichia coli eco2865 unnamed blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-67, complete CDS
+NG_049021	NG_049021.1	NG_049021.1	Salmonella enterica subsp. enterica serovar Typhimurium pAS31 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-7, complete CDS
+NG_049023	NG_049023.1	NG_049023.1	Klebsiella pneumoniae AH24-270 pAH24-270 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-71, complete CDS
+NG_049024	NG_049024.1	NG_049024.1	Klebsiella pneumoniae Kpn308 pKP308 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-72, complete CDS
+NG_049032	NG_049032.1	NG_049032.1	Citrobacter amalonaticus Rio-2 pRio-2 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-8, complete CDS
+NG_049040	NG_049040.1	NG_049040.1	Escherichia coli pKP168 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-87, complete CDS
+NG_049043	NG_049043.1	NG_049043.1	Escherichia coli 785-D pMSP071 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-9, complete CDS
+NG_049047	NG_049047.1	NG_049047.1	Escherichia coli Bre-1 pNBRE-1 blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-93, complete CDS
+NG_049057	NG_049057.1	NG_049057.1	Proteus mirabilis wild type plasmid blaDHA gene for class C beta-lactamase DHA-12, complete CDS
+NG_049070	NG_049070.1	NG_049070.1	Klebsiella oxytoca CNR1240 unnamed blaDHA gene for class C beta-lactamase DHA-24, complete CDS
+NG_049071	NG_049071.1	NG_049071.1	Klebsiella pneumoniae pKP3 blaDHA gene for class C beta-lactamase DHA-3, complete CDS
+NG_049074	NG_049074.1	NG_049074.1	Escherichia coli 30021 pHVH-2885 blaDHA gene for class C beta-lactamase DHA-6, complete CDS
+NG_049075	NG_049075.1	NG_049075.1	Enterobacter cloacae 30034 pHVH-1986 blaDHA gene for class C beta-lactamase DHA-7, complete CDS
+NG_049099	NG_049099.1	NG_049099.1	Klebsiella pneumoniae 10982 p10982FOX blaFOX gene for cephalosporin-hydrolyzing class C beta-lactamase FOX-10, complete CDS
+NG_049101	NG_049101.1	NG_049101.1	Providencia rettgeri 2032rut pHVH2032 blaFOX gene for cephalosporin-hydrolyzing class C beta-lactamase FOX-13, complete CDS
+NG_049102	NG_049102.1	NG_049102.1	Escherichia coli BW U2206 pMVP-7 blaFOX gene for cephalosporin-hydrolyzing class C beta-lactamase FOX-2, complete CDS
+NG_049105	NG_049105.1	NG_049105.1	Klebsiella pneumoniae p5064 blaFOX gene for cephalosporin-hydrolyzing class C beta-lactamase FOX-5, complete CDS
+NG_049107	NG_049107.1	NG_049107.1	Escherichia coli 42/015 unnamed blaFOX gene for cephalosporin-hydrolyzing class C beta-lactamase FOX-8, complete CDS
+NG_049108	NG_049108.1	NG_049108.1	Klebsiella pneumoniae 2170454 unnamed blaFOX gene for cephalosporin-hydrolyzing class C beta-lactamase FOX-9, complete CDS
+NG_049109	NG_049109.1	NG_049109.1	Enterobacter cloacae DUB pDUB blaFRI gene for carbapenem-hydrolyzing class A beta-lactamase FRI-1, complete CDS
+NG_049117	NG_049117.1	NG_049117.1	Pseudomonas aeruginosa WUM677 pAL677 blaGES gene for carbapenem-hydrolyzing class A beta-lactamase GES-15, complete CDS
+NG_049118	NG_049118.1	NG_049118.1	Serratia marcescens SM190 pSM190 blaGES gene for carbapenem-hydrolyzing class A beta-lactamase GES-16, complete CDS
+NG_049119	NG_049119.1	NG_049119.1	Escherichia coli 09240 pINCan1 blaGES gene for class A beta-lactamase GES-17, complete CDS
+NG_049121	NG_049121.1	NG_049121.1	Escherichia coli 01298 pHCG11 blaGES gene for class A beta-lactamase GES-19, complete CDS
+NG_049123	NG_049123.1	NG_049123.1	Escherichia coli 01298 pHCG11 blaGES gene for carbapenem-hydrolyzing class A beta-lactamase GES-20, complete CDS
+NG_049137	NG_049137.1	NG_049137.1	Escherichia coli pEC365 blaGES gene for carbapenem-hydrolyzing class A beta-lactamase GES-5, complete CDS
+NG_049168	NG_049168.1	NG_049168.1	Raoultella ornithinolytica RJ46C pRJ46C blaIMI gene for carbapenem-hydrolyzing class A beta-lactamase IMI-6, complete CDS
+NG_049173	NG_049173.1	NG_049173.1	Pseudomonas aeruginosa PAI134 pMS455 blaIMP gene for subclass B1 metallo-beta-lactamase IMP-10, complete CDS
+NG_049174	NG_049174.1	NG_049174.1	Acinetobacter baumannii ABI1 pMS450 blaIMP gene for subclass B1 metallo-beta-lactamase IMP-11, complete CDS
+NG_049182	NG_049182.1	NG_049182.1	Aeromonas caviae A324R pJDB2 blaIMP gene for subclass B1 metallo-beta-lactamase IMP-19, complete CDS
+NG_049189	NG_049189.1	NG_049189.1	Pseudomonas aeruginosa KMP0701 pKMP0701 blaIMP gene for subclass B1 metallo-beta-lactamase IMP-25, complete CDS
+NG_049202	NG_049202.1	NG_049202.1	Klebsiella pneumoniae pHNCS299 blaIMP gene for subclass B1 metallo-beta-lactamase IMP-38, complete CDS
+NG_049217	NG_049217.1	NG_049217.1	Acinetobacter baumannii 56 unnamed blaIMP gene for subclass B1 metallo-beta-lactamase IMP-55, complete CDS
+NG_049218	NG_049218.1	NG_049218.1	Pseudomonas aeruginosa 1207312 unnamed blaIMP gene for subclass B1 metallo-beta-lactamase IMP-56, complete CDS
+NG_049222	NG_049222.1	NG_049222.1	Klebsiella pneumoniae KP-0787 pEKP0787-1 blaIMP gene for subclass B1 metallo-beta-lactamase IMP-8, complete CDS
+NG_049223	NG_049223.1	NG_049223.1	Pseudomonas aeruginosa PA96 pOZ176 blaIMP gene for subclass B1 metallo-beta-lactamase IMP-9, complete CDS
+NG_049240	NG_049240.1	NG_049240.1	Citrobacter freundii pCF243 blaKHM gene for subclass B1 metallo-beta-lactamase KHM-1, complete CDS
+NG_049242	NG_049242.1	NG_049242.1	Enterobacter cloacae unnamed blaKLUC gene for class A extended-spectrum beta-lactamase KLUC-2, complete CDS
+NG_049244	NG_049244.1	NG_049244.1	Klebsiella pneumoniae Kp10-26 pKp10-26 blaKPC gene for carbapenem-hydrolyzing class A beta-lactamase KPC-11, complete CDS
+NG_049246	NG_049246.1	NG_049246.1	Enterobacter cloacae EN038 EcKPC12 blaKPC gene for carbapenem-hydrolyzing class A beta-lactamase KPC-13, complete CDS
+NG_049248	NG_049248.1	NG_049248.1	Klebsiella pneumoniae kp1241 unnamed blaKPC gene for carbapenem-hydrolyzing class A beta-lactamase KPC-15, complete CDS
+NG_049256	NG_049256.1	NG_049256.1	Klebsiella pneumoniae UC331 unnamed blaKPC gene for carbapenem-hydrolyzing class A beta-lactamase KPC-24, complete CDS
+NG_049263	NG_049263.1	NG_049263.1	Enterobacter cloacae S3 unknown blaLAP gene for class A beta-lactamase LAP-1, complete CDS
+NG_049267	NG_049267.1	NG_049267.1	Pseudomonas aeruginosa 2293E 2293E blaLCR gene for oxacillin-hydrolyzing class D beta-lactamase LCR-1, complete CDS
+NG_049282	NG_049282.1	NG_049282.1	Klebsiella pneumoniae K26 pk26 blaLEN gene for class A beta-lactamase LEN-5, complete CDS
+NG_049293	NG_049293.1	NG_049293.1	Klebsiella pneumoniae pMG230 blaMIR gene for cephalosporin-hydrolyzing class C beta-lactamase MIR-1, complete CDS
+NG_049305	NG_049305.1	NG_049305.1	Escherichia coli 384 unnamed blaMIR gene for cephalosporin-hydrolyzing class C beta-lactamase MIR-4, complete CDS
+NG_049306	NG_049306.1	NG_049306.1	Klebsiella pneumoniae 801 EBC801 blaMIR gene for cephalosporin-hydrolyzing class C beta-lactamase MIR-5, complete CDS
+NG_049311	NG_049311.1	NG_049311.1	Klebsiella pneumoniae NU2936 Plasmid pRMOX-1 blaMOX gene for CMY-1/MOX family class C beta-lactamase MOX-1, complete CDS
+NG_049315	NG_049315.1	NG_049315.1	Klebsiella pneumoniae KOL pLRB01 blaMOX gene for CMY-1/MOX family class C beta-lactamase MOX-2, complete CDS
+NG_049326	NG_049326.1	NG_049326.1	Klebsiella pneumoniae pKpANDM-1 blaNDM gene for subclass B1 metallo-beta-lactamase NDM-1, complete CDS
+NG_049329	NG_049329.1	NG_049329.1	Escherichia coli IOMTU 388.1 pIOMTU388-NDM blaNDM gene for subclass B1 metallo-beta-lactamase NDM-12, complete CDS
+NG_049330	NG_049330.1	NG_049330.1	Escherichia coli IOMTU 558 pIOMTU558-NDM blaNDM gene for subclass B1 metallo-beta-lactamase NDM-13, complete CDS
+NG_049331	NG_049331.1	NG_049331.1	Acinetobacter lwoffii JN49-1 pNDM-JN01 blaNDM gene for subclass B1 metallo-beta-lactamase NDM-14, complete CDS
+NG_049335	NG_049335.1	NG_049335.1	Escherichia coli QECAU3 pHS-NDM-3 blaNDM gene for subclass B1 metallo-beta-lactamase NDM-3, complete CDS
+NG_049338	NG_049338.1	NG_049338.1	Escherichia coli 1100101 unnamed blaNDM gene for subclass B1 metallo-beta-lactamase NDM-6, complete CDS
+NG_049339	NG_049339.1	NG_049339.1	Escherichia coli N11-02566 pNDM-Ec112566 blaNDM gene for subclass B1 metallo-beta-lactamase NDM-7, complete CDS
+NG_049340	NG_049340.1	NG_049340.1	Escherichia coli NCGM37 pNDM-8 blaNDM gene for subclass B1 metallo-beta-lactamase NDM-8, complete CDS
+NG_049341	NG_049341.1	NG_049341.1	Klebsiella pneumoniae subsp. pneumoniae PPH1303 pNDM-pph1303 blaNDM gene for subclass B1 metallo-beta-lactamase NDM-9, complete CDS
+NG_049343	NG_049343.1	NG_049343.1	Pseudomonas aeruginosa M302 pMLH50 blaNPS gene for oxacillin-hydrolyzing class D beta-lactamase NPS-1, complete CDS
+NG_049393	NG_049393.1	NG_049393.1	Pseudomonas aeruginosa R388-R151 hybrid blaOXA gene for oxacillin-hydrolyzing class D beta-lactamase OXA-10, complete CDS
+NG_049464	NG_049464.1	NG_049464.1	Acinetobacter baumannii AB58 pAB58 blaOXA gene for OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-165, complete CDS
+NG_049465	NG_049465.1	NG_049465.1	Acinetobacter baumannii AB79 pAB79 blaOXA gene for OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-166, complete CDS
+NG_049466	NG_049466.1	NG_049466.1	Acinetobacter baumannii AB167 pAB167 blaOXA gene for OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-167, complete CDS
+NG_049467	NG_049467.1	NG_049467.1	Acinetobacter baumannii AB171 pAB171 blaOXA gene for OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-168, complete CDS
+NG_049468	NG_049468.1	NG_049468.1	Acinetobacter baumannii AB286 pAB286 blaOXA gene for OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-169, complete CDS
+NG_049470	NG_049470.1	NG_049470.1	Acinetobacter baumannii AB315 pAB315 blaOXA gene for OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-170, complete CDS
+NG_049471	NG_049471.1	NG_049471.1	Acinetobacter baumannii AB322 pAB322 blaOXA gene for OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-171, complete CDS
+NG_049482	NG_049482.1	NG_049482.1	Klebsiella pneumoniae KP3 pKP3-A blaOXA gene for OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-181, complete CDS
+NG_049496	NG_049496.1	NG_049496.1	Salmonella enterica subsp. enterica serovar Typhimurium R46 blaOXA gene for oxacillin-hydrolyzing class D beta-lactamase OXA-2, complete CDS
+NG_049502	NG_049502.1	NG_049502.1	Klebsiella pneumoniae 204 p204-B blaOXA gene for OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-204, complete CDS
+NG_049507	NG_049507.1	NG_049507.1	Riemerella anatipestifer 0726 pRA0726 blaOXA gene for class D beta-lactamase OXA-209, complete CDS
+NG_049539	NG_049539.1	NG_049539.1	Klebsiella pneumoniae K-754 unnamed blaOXA gene for OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-244, complete CDS
+NG_049540	NG_049540.1	NG_049540.1	Klebsiella pneumoniae K-943 unnamed blaOXA gene for OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-245, complete CDS
+NG_049542	NG_049542.1	NG_049542.1	Klebsiella pneumoniae Kpn247 unnamed blaOXA gene for OXA-48 family carbapenem-hydrolyzing class D beta-lactamase OXA-247, complete CDS
+NG_049735	NG_049735.1	NG_049735.1	Pseudomonas aeruginosa 07-406 pMATTx blaOXA gene for oxacillin-hydrolyzing class D extended-spectrum beta-lactamase OXA-45, complete CDS
+NG_049776	NG_049776.1	NG_049776.1	Pseudomonas aeruginosa 76072601 pMON812 blaOXA gene for oxacillin-hydrolyzing class D beta-lactamase OXA-5, complete CDS
+NG_049814	NG_049814.1	NG_049814.1	Klebsiella pneumoniae Kp1239 pJIBE401 blaOXA gene for OXA-23 family carbapenem-hydrolyzing class D beta-lactamase OXA-73, complete CDS
+NG_049827	NG_049827.1	NG_049827.1	Acinetobacter baumannii pAOX1 blaOXA gene for OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-87, complete CDS
+NG_049977	NG_049977.1	NG_049977.1	Haemophilus influenzae type b RRob blaROB gene for cephalosporin-hydrolyzing class A beta-lactamase ROB-1, complete CDS
+NG_049982	NG_049982.1	NG_049982.1	Enterobacter cloacae pFCX300L blaFONA gene for class A extended-spectrum beta-lactamase SFO-1, complete CDS
+NG_049994	NG_049994.1	NG_049994.1	Klebsiella pneumoniae pML2011 blaSHV gene for class A extended-spectrum beta-lactamase SHV-104, complete CDS
+NG_050004	NG_050004.1	NG_050004.1	Escherichia coli SEC09 pSEC09-qnrS blaSHV gene for class A beta-lactamase SHV-120, complete CDS
+NG_050006	NG_050006.1	NG_050006.1	Enterobacter cloacae pBF1417 blaSHV gene for class A extended-spectrum beta-lactamase SHV-128, complete CDS
+NG_050007	NG_050007.1	NG_050007.1	Escherichia coli Ec6-66 pEc6-66 blaSHV gene for class A extended-spectrum beta-lactamase SHV-129, complete CDS
+NG_050059	NG_050059.1	NG_050059.1	Klebsiella pneumoniae Kpn32 pKP32 blaSHV gene for class A beta-lactamase SHV-1b-b, complete CDS
+NG_050069	NG_050069.1	NG_050069.1	Enterobacter cloacae unnamed blaSHV gene for class A extended-spectrum beta-lactamase SHV-30, complete CDS
+NG_050073	NG_050073.1	NG_050073.1	Escherichia coli pOZ185 blaSHV gene for class A extended-spectrum beta-lactamase SHV-34, complete CDS
+NG_050074	NG_050074.1	NG_050074.1	Klebsiella pneumoniae p0z186 blaSHV gene for class A beta-lactamase SHV-35, complete CDS
+NG_050075	NG_050075.1	NG_050075.1	Klebsiella pneumoniae G122 pOZ187 blaSHV gene for class A beta-lactamase SHV-36, complete CDS
+NG_050081	NG_050081.1	NG_050081.1	Klebsiella pneumoniae pch4 blaSHV gene for class A broad-spectrum beta-lactamase SHV-43, complete CDS
+NG_050093	NG_050093.1	NG_050093.1	Escherichia coli 981223 pMTY512 blaSHV gene for class A extended-spectrum beta-lactamase SHV-57, complete CDS
+NG_050094	NG_050094.1	NG_050094.1	Klebsiella pneumoniae kp132 kp132-2 blaSHV gene for class A beta-lactamase SHV-59, complete CDS
+NG_050105	NG_050105.1	NG_050105.1	Enterobacter cloacae pEC04 blaSHV gene for class A extended-spectrum beta-lactamase SHV-70, complete CDS
+NG_050120	NG_050120.1	NG_050120.1	Klebsiella pneumoniae unnamed blaSHV gene for class A extended-spectrum beta-lactamase SHV-86, complete CDS
+NG_050121	NG_050121.1	NG_050121.1	Klebsiella pneumoniae pKP24 blaSHV gene for class A broad-spectrum beta-lactamase SHV-89, complete CDS
+NG_050122	NG_050122.1	NG_050122.1	Klebsiella pneumoniae pK318-2 blaSHV gene for class A beta-lactamase SHV-9, complete CDS
+NG_050123	NG_050123.1	NG_050123.1	Klebsiella pneumoniae pMVH203 blaSHV gene for class A beta-lactamase SHV-92, complete CDS
+NG_050147	NG_050147.1	NG_050147.1	Escherichia coli pBP311 blaTEM gene for class A extended-spectrum beta-lactamase TEM-101, complete CDS
+NG_050162	NG_050162.1	NG_050162.1	Staphylococcus aureus pJ3356::POX7 blaTEM gene for class A broad-spectrum beta-lactamase TEM-116, complete CDS
+NG_050171	NG_050171.1	NG_050171.1	Escherichia coli unnamed blaTEM gene for class A broad-spectrum beta-lactamase TEM-127, complete CDS
+NG_050172	NG_050172.1	NG_050172.1	Escherichia coli unnamed blaTEM gene for class A broad-spectrum beta-lactamase TEM-128, complete CDS
+NG_050176	NG_050176.1	NG_050176.1	Klebsiella pneumoniae unnamed blaTEM gene for class A extended-spectrum beta-lactamase TEM-132, complete CDS
+NG_050179	NG_050179.1	NG_050179.1	Salmonella enterica subsp. enterica serovar Typhimurium pFPTB1 blaTEM gene for class A broad-spectrum beta-lactamase TEM-135, complete CDS
+NG_050182	NG_050182.1	NG_050182.1	Salmonella enterica pCN2310 blaTEM gene for class A extended-spectrum beta-lactamase TEM-138, complete CDS
+NG_050183	NG_050183.1	NG_050183.1	Klebsiella pneumoniae conjugative plasmid blaTEM gene for class A extended-spectrum beta-lactamase TEM-139, complete CDS
+NG_050184	NG_050184.1	NG_050184.1	Enterobacter cloacae EC002 blaTEM gene for class A broad-spectrum beta-lactamase TEM-141, complete CDS
+NG_050185	NG_050185.1	NG_050185.1	Escherichia coli pPHBTEM-142 blaTEM gene for class A beta-lactamase TEM-142, complete CDS
+NG_050190	NG_050190.1	NG_050190.1	Pseudomonas aeruginosa pPA4-141 blaTEM gene for class A extended-spectrum beta-lactamase TEM-147, complete CDS
+NG_050193	NG_050193.1	NG_050193.1	Haemophilus parainfluenzae pSF2 blaTEM gene for class A extended-spectrum beta-lactamase TEM-15, complete CDS
+NG_050201	NG_050201.1	NG_050201.1	Enterobacter cloacae pEC005 blaTEM gene for class A extended-spectrum beta-lactamase TEM-157, complete CDS
+NG_050206	NG_050206.1	NG_050206.1	Acinetobacter haemolyticus pUPI191 blaTEM gene for class A beta-lactamase TEM-162, complete CDS
+NG_050208	NG_050208.1	NG_050208.1	Klebsiella pneumoniae pML1708 blaTEM gene for class A extended-spectrum beta-lactamase TEM-164, complete CDS
+NG_050214	NG_050214.1	NG_050214.1	Escherichia coli pAm08CQ6130 blaTEM gene for class A beta-lactamase TEM-171, complete CDS
+NG_050221	NG_050221.1	NG_050221.1	Escherichia coli PI-12197 pCT-1 blaTEM gene for class A extended-spectrum beta-lactamase TEM-184, complete CDS
+NG_050223	NG_050223.1	NG_050223.1	Escherichia coli RS60 unnamed blaTEM gene for class A broad-spectrum beta-lactamase TEM-186, complete CDS
+NG_050224	NG_050224.1	NG_050224.1	Proteus mirabilis 7001324 unnamed blaTEM gene for class A extended-spectrum beta-lactamase TEM-187, complete CDS
+NG_050236	NG_050236.1	NG_050236.1	Escherichia coli WDR-13 unnamed blaTEM gene for class A beta-lactamase TEM-201, complete CDS
+NG_050238	NG_050238.1	NG_050238.1	Escherichia coli S2.2-EK pEC-S2.2 blaTEM gene for class A broad-spectrum beta-lactamase TEM-206, complete CDS
+NG_050243	NG_050243.1	NG_050243.1	Escherichia coli pH1519-88 blaTEM gene for class A beta-lactamase TEM-210, complete CDS
+NG_050258	NG_050258.1	NG_050258.1	Pseudomonas aeruginosa pPA3-104 blaTEM gene for class A extended-spectrum beta-lactamase TEM-29, complete CDS
+NG_050259	NG_050259.1	NG_050259.1	Klebsiella pneumoniae CF104 pCFF04 blaTEM gene for class A extended-spectrum beta-lactamase TEM-3, complete CDS
+NG_050260	NG_050260.1	NG_050260.1	Escherichia coli pINSRA99 blaTEM gene for inhibitor-resistant class A broad-spectrum beta-lactamase TEM-30, complete CDS
+NG_050262	NG_050262.1	NG_050262.1	Escherichia coli B24 pEC_B24 blaTEM gene for inhibitor-resistant class A broad-spectrum beta-lactamase TEM-33, complete CDS
+NG_050263	NG_050263.1	NG_050263.1	Haemophilus parainfluenzae 72322 unnamed blaTEM gene for inhibitor-resistant class A broad-spectrum beta-lactamase TEM-34, complete CDS
+NG_050265	NG_050265.1	NG_050265.1	Klebsiella pneumoniae H67 pRYC11 blaTEM gene for class A extended-spectrum beta-lactamase TEM-4, complete CDS
+NG_050276	NG_050276.1	NG_050276.1	Escherichia coli F4-Zhengzhou unnamed blaTEM gene for class A broad-spectrum beta-lactamase TEM-57, complete CDS
+NG_050278	NG_050278.1	NG_050278.1	Providencia stuartii VR-1 blaTEM gene for class A extended-spectrum beta-lactamase TEM-60, complete CDS
+NG_050280	NG_050280.1	NG_050280.1	Proteus mirabilis NEL-1 pANG-1 blaTEM gene for inhibitor-resistant class A broad-spectrum beta-lactamase TEM-67, complete CDS
+NG_050283	NG_050283.1	NG_050283.1	Klebsiella pneumoniae 3635 pMG259 blaTEM gene for class A extended-spectrum beta-lactamase TEM-71, complete CDS
+NG_050284	NG_050284.1	NG_050284.1	Morganella morganii FI-13 pMNFI-13 blaTEM gene for class A extended-spectrum beta-lactamase TEM-72, complete CDS
+NG_050295	NG_050295.1	NG_050295.1	Klebsiella pneumoniae CLSiS 2949/98 pbla-TEM-85 blaTEM gene for class A extended-spectrum beta-lactamase TEM-85, complete CDS
+NG_050296	NG_050296.1	NG_050296.1	Klebsiella pneumoniae CLSiS 2946/98 pbla-TEM-86 blaTEM gene for class A extended-spectrum beta-lactamase TEM-86, complete CDS
+NG_050297	NG_050297.1	NG_050297.1	Proteus mirabilis pPm87 blaTEM gene for class A extended-spectrum beta-lactamase TEM-87, complete CDS
+NG_050298	NG_050298.1	NG_050298.1	Klebsiella pneumoniae K28 pMG272 blaTEM gene for class A extended-spectrum beta-lactamase TEM-88, complete CDS
+NG_050299	NG_050299.1	NG_050299.1	Escherichia coli 7604 pMG204b blaTEM gene for class A broad-spectrum beta-lactamase TEM-90, complete CDS
+NG_050302	NG_050302.1	NG_050302.1	Escherichia coli CLSiS 3445/98 pblaTEM-93 blaTEM gene for class A extended-spectrum beta-lactamase TEM-93, complete CDS
+NG_050303	NG_050303.1	NG_050303.1	Escherichia coli CLSiS 3657/98 pblaTEM-94 blaTEM gene for class A extended-spectrum beta-lactamase TEM-94, complete CDS
+NG_050305	NG_050305.1	NG_050305.1	Escherichia coli H28 pOZ188 blaTEM gene for class A beta-lactamase TEM-96, complete CDS
+NG_050311	NG_050311.1	NG_050311.1	Escherichia coli R170 pRZA92 blaTLA gene for class A extended-spectrum beta-lactamase TLA-1, complete CDS
+NG_050312	NG_050312.1	NG_050312.1	Serratia marcescens 11663 p11663 blaTLA gene for class A extended-spectrum beta-lactamase TLA-3, complete CDS
+NG_050351	NG_050351.1	NG_050351.1	Proteus mirabilis P13 unnamed blaVIM gene for subclass B1 metallo-beta-lactamase VIM-25, complete CDS
+NG_050355	NG_050355.1	NG_050355.1	Escherichia coli 957 unnamed blaVIM gene for subclass B1 metallo-beta-lactamase VIM-29, complete CDS
+NG_050404	NG_050404.1	NG_050404.1	Providencia stuartii pLQ1723 ere(A) gene for inactive erythromycin esterase Ere(A2), complete CDS
+NG_050407	NG_050407.1	NG_050407.1	Escherichia coli p06607 fosA gene for fosfomycin resistance glutathione transferase FosA3, complete CDS
+NG_050409	NG_050409.1	NG_050409.1	Klebsiella pneumoniae KP96 pKP96 fosA gene for fosfomycin resistance glutathione transferase FosA5, complete CDS
+NG_050416	NG_050416.1	NG_050416.1	Staphylococcus haemolyticus pLNU3 lnu(A) gene for lincosamide nucleotidyltransferase Lnu(A)', complete CDS
+NG_050459	NG_050459.1	NG_050459.1	Escherichia coli pHPA qepA gene for fluoroquinolone efflux MFS transporter QepA1, complete CDS
+NG_050460	NG_050460.1	NG_050460.1	Escherichia coli BicA pQep qepA gene for fluoroquinolone efflux MFS transporter QepA2, complete CDS
+NG_050461	NG_050461.1	NG_050461.1	[Enterobacter] aerogenes EA3201 pEA3201 qepA gene for fluoroquinolone efflux MFS transporter QepA3, complete CDS
+NG_050462	NG_050462.1	NG_050462.1	Klebsiella pneumoniae pMG252 qnrA gene for quinolone resistance pentapeptide repeat protein QnrA1, complete CDS
+NG_050463	NG_050463.1	NG_050463.1	Klebsiella oxytoca unnamed qnrA gene for quinolone resistance pentapeptide repeat protein QnrA2, complete CDS
+NG_050467	NG_050467.1	NG_050467.1	Proteus mirabilis PS16 unnamed qnrA gene for quinolone resistance pentapeptide repeat protein QnrA6, complete CDS
+NG_050468	NG_050468.1	NG_050468.1	Shewanella algae unnamed qnrA gene for quinolone resistance pentapeptide repeat protein QnrA7, complete CDS
+NG_050469	NG_050469.1	NG_050469.1	Klebsiella pneumoniae pMG298 qnrB gene for quinolone resistance pentapeptide repeat protein QnrB1, complete CDS
+NG_050470	NG_050470.1	NG_050470.1	Citrobacter freundii V1 pCFV1 qnrB gene for quinolone resistance pentapeptide repeat protein QnrB10, complete CDS
+NG_050480	NG_050480.1	NG_050480.1	Citrobacter koseri pMG301 qnrB gene for quinolone resistance pentapeptide repeat protein QnrB2, complete CDS
+NG_050482	NG_050482.1	NG_050482.1	Escherichia coli 753 unnamed qnrB gene for quinolone resistance pentapeptide repeat protein QnrB21, complete CDS
+NG_050484	NG_050484.1	NG_050484.1	Citrobacter freundii S008 pS008 qnrB gene for quinolone resistance pentapeptide repeat protein QnrB23, complete CDS
+NG_050485	NG_050485.1	NG_050485.1	Citrobacter freundii ay09-906546 Pcfay09-906546 qnrB gene for quinolone resistance pentapeptide repeat protein QnrB24, complete CDS
+NG_050486	NG_050486.1	NG_050486.1	Citrobacter freundii RSPMQR-237-09 unnamed qnrB gene for quinolone resistance pentapeptide repeat protein QnrB25, complete CDS
+NG_050488	NG_050488.1	NG_050488.1	Citrobacter braakii S08-IJ52 pS08-IJ52 qnrB gene for quinolone resistance pentapeptide repeat protein QnrB27, complete CDS
+NG_050489	NG_050489.1	NG_050489.1	Citrobacter freundii S08-IJ77 pS08-IJ77 qnrB gene for quinolone resistance pentapeptide repeat protein QnrB28, complete CDS
+NG_050492	NG_050492.1	NG_050492.1	Citrobacter braakii S08-GS31 pS08-GS31 qnrB gene for quinolone resistance pentapeptide repeat protein QnrB30, complete CDS
+NG_050493	NG_050493.1	NG_050493.1	Klebsiella pneumoniae 3606 p072581 qnrB gene for quinolone resistance pentapeptide repeat protein QnrB31, complete CDS
+NG_050503	NG_050503.1	NG_050503.1	Citrobacter braakii S08-KM99 pS08-KM99 qnrB gene for quinolone resistance pentapeptide repeat protein QnrB40, complete CDS
+NG_050515	NG_050515.1	NG_050515.1	Proteus mirabilis unnamed qnrB gene for quinolone resistance pentapeptide repeat protein QnrB52, complete CDS
+NG_050516	NG_050516.1	NG_050516.1	Klebsiella pneumoniae Kp4047 pKp4047 qnrB gene for quinolone resistance pentapeptide repeat protein QnrB53, complete CDS
+NG_050518	NG_050518.1	NG_050518.1	Raoultella terrigena CLEC38 pCLEC38 qnrB gene for quinolone resistance pentapeptide repeat protein QnrB55, complete CDS
+NG_050523	NG_050523.1	NG_050523.1	Pantoea agglomerans HX05015076 pWCH-LM2 qnrB gene for quinolone resistance pentapeptide repeat protein QnrB6, complete CDS
+NG_050540	NG_050540.1	NG_050540.1	Citrobacter freundii pCF41 qnrB gene for quinolone resistance pentapeptide repeat protein QnrB9, complete CDS
+NG_050541	NG_050541.1	NG_050541.1	Salmonella enterica subsp. enterica serovar Bovismorbificans GSS-HN-2007057 p2007057 qnrD gene for quinolone resistance pentapeptide repeat protein QnrD1, complete CDS
+NG_050542	NG_050542.1	NG_050542.1	Salmonella enterica subsp. enterica serovar Hadar N08-2312 pQnrD2 qnrD gene for quinolone resistance pentapeptide repeat protein QnrD2, complete CDS
+NG_050543	NG_050543.1	NG_050543.1	Shigella flexneri pAH0376 qnrS gene for quinolone resistance pentapeptide repeat protein QnrS1, complete CDS
+NG_050544	NG_050544.1	NG_050544.1	Salmonella enterica subsp. enterica serovar Anatum pMG308 qnrS gene for quinolone resistance pentapeptide repeat protein QnrS2, complete CDS
+NG_050546	NG_050546.1	NG_050546.1	Aeromonas sobria SNUFPC-A4 pAQ1-1 qnrS gene for quinolone resistance pentapeptide repeat protein QnrS5, complete CDS
+NG_050547	NG_050547.1	NG_050547.1	Aeromonas hydrophila SNUFPC-A5 pAQ2-2 qnrS gene for quinolone resistance pentapeptide repeat protein QnrS6, complete CDS
+NG_050548	NG_050548.1	NG_050548.1	Escherichia coli SEC09 pSEC09 qnrS gene for quinolone resistance pentapeptide repeat protein QnrS7, complete CDS
+NG_050549	NG_050549.1	NG_050549.1	Klebsiella pneumoniae CLEC82 pCLEC82 qnrS gene for quinolone resistance pentapeptide repeat protein QnrS8, complete CDS
+NG_050555	NG_050555.1	NG_050555.1	Vibrio parahaemolyticus vp pVP1 qnrVC gene for quinolone resistance pentapeptide repeat protein QnrVC6, complete CDS
+NG_050559	NG_050559.1	NG_050559.1	Escherichia coli S68 IncI1ST898 rmtE gene for 16S rRNA (guanine(1405)-N(7))-methyltransferase RmtE2, complete CDS
+NG_050590	NG_050590.1	NG_050590.1	Enterobacter cloacae CRE727 pNDM-HF727 blaSHV gene for class A extended-spectrum beta-lactamase SHV-12, complete CDS
+NG_047285	NG_047285.1	NG_047285.1	Plasmid pJHC-MW1 aac(6')-Ib gene for AAC(6')-Ib family aminoglycoside 6'-N-acetyltransferase, complete CDS
+NG_047326	NG_047326.1	NG_047326.1	Plasmid R46 aadA1 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1, complete CDS
+NG_047442	NG_047442.1	NG_047442.1	Plasmid RP4 aph(3')-Ib gene for aminoglycoside O-phosphotransferase APH(3')-Ib, complete CDS
+NG_047463	NG_047463.1	NG_047463.1	Salmonella enterica subsp. enterica serovar Heidelberg 111 pSH111_227 aph(6)-Ic gene for aminoglycoside O-phosphotransferase APH(6)-Ic, complete CDS
+NG_047726	NG_047726.1	NG_047726.1	Plasmid pAZ1 dfrA3 gene for trimethoprim-resistant dihydrofolate reductase DfrA3, complete CDS
+NG_047795	NG_047795.1	NG_047795.1	Plasmid pAM77 erm(B) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B), complete CDS
+NG_047796	NG_047796.1	NG_047796.1	Plasmid pIP1527 erm(B) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B), complete CDS
+NG_047808	NG_047808.1	NG_047808.1	Plasmid pE5 erm(C) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(C), complete CDS
+NG_047838	NG_047838.1	NG_047838.1	Plasmid pGT633 erm(T) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(T), complete CDS
+NG_047848	NG_047848.1	NG_047848.1	Plasmid pNG2 erm(X) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(X), complete CDS
+NG_047991	NG_047991.1	NG_047991.1	Staphylococcus aureus 01A1032 pSR1 mph(C) gene for Mph(C) family macrolide 2'-phosphotransferase, complete CDS
+NG_047997	NG_047997.1	NG_047997.1	uncultured bacterium pRSB111 mph(F) gene for Mph(F) family macrolide 2'-phosphotransferase, complete CDS
+NG_048036	NG_048036.1	NG_048036.1	uncultured bacterium pB8 qac gene for Qac-pB8 family quaternary ammonium compound efflux SMR transporter, complete CDS
+NG_048156	NG_048156.1	NG_048156.1	uncultured bacterium pRSB101 tet(A) gene for tetracycline efflux MFS transporter Tet(A), complete CDS
+NG_048162	NG_048162.1	NG_048162.1	[Pasteurella] aerogenes pPAT2 tet(B) gene for tetracycline efflux MFS transporter Tet(B), complete CDS
+NG_048196	NG_048196.1	NG_048196.1	[Pasteurella] aerogenes pPAT1 tet(H) gene for tetracycline efflux MFS transporter Tet(H), complete CDS
+NG_048562	NG_048562.1	NG_048562.1	Plasmid pIP630 vgb(A) gene for streptogramin B lyase Vgb(A), complete CDS
+NG_050145	NG_050145.1	NG_050145.1	Escherichia coli pC15-1a blaTEM gene for class A broad-spectrum beta-lactamase TEM-1, complete CDS
+NG_050148	NG_050148.1	NG_050148.1	Plasmid pWW100 blaTEM gene for class A extended-spectrum beta-lactamase TEM-102, complete CDS
+NG_050212	NG_050212.1	NG_050212.1	Escherichia coli U184 pUE184 blaTEM gene for class A extended-spectrum beta-lactamase TEM-169, complete CDS
+NG_050218	NG_050218.1	NG_050218.1	Escherichia sp. Sflu5 pAK51 blaTEM gene for class A beta-lactamase TEM-181, complete CDS
+NG_050948	NG_050948.1	NG_050948.1	Klebsiella pneumoniae 6234 p6234-178.193kb catB gene for type B-2 chloramphenicol O-acetyltransferase CatB11, complete CDS
+NG_051170	NG_051170.1	NG_051170.1	Klebsiella pneumoniae KP-6884 unnamed5 mcr-1 gene for phosphoethanolamine--lipid A transferase MCR-1.2, complete CDS
+NG_051319	NG_051319.1	NG_051319.1	Vibrio parahaemolyticus VPS72 pVPS72-VEB blaVEB gene for class A extended-spectrum beta-lactamase VEB-18, complete CDS
+NG_047245	NG_047245.1	NG_047245.1	Plasmid pWP113a aac(3)-IIa gene for aminoglycoside N-acetyltransferase AAC(3)-IIa, complete CDS
+NG_047432	NG_047432.1	NG_047432.1	Plasmid pFA6 aph(3')-Ia gene for aminoglycoside O-phosphotransferase APH(3')-Ia, complete CDS
+NG_047597	NG_047597.1	NG_047597.1	Plasmid R387 catA3 gene for type A-3 chloramphenicol O-acetyltransferase CatIII, complete CDS
+NG_049126	NG_049126.1	NG_049126.1	Pseudomonas aeruginosa E215 unnamed blaGES gene for class A extended-spectrum beta-lactamase GES-23, complete CDS
+NG_049266	NG_049266.1	NG_049266.1	Salmonella enterica subsp. enterica serovar Senftenberg SENF pSENF blaLAT gene for CMY-2 family cephalosporin-hydrolyzing class C beta-lactamase LAT-3, complete CDS
+NG_051167	NG_051167.1	NG_051167.1	Klebsiella pneumoniae JMI#21 unnamed blaKPC gene for carbapenem-hydrolyzing class A beta-lactamase KPC-25, complete CDS
+NG_048181	NG_048181.1	NG_048181.1	Escherichia coli SE11 pSE11-1 tet(C) gene for tetracycline efflux MFS transporter Tet(C), complete CDS
+NG_049015	NG_049015.1	NG_049015.1	Shigella sonnei UIH-1 pfmcSS blaCTX-M gene for class A extended-spectrum beta-lactamase CTX-M-64, complete CDS
+NG_051436	NG_051436.1	NG_051436.1	Klebsiella pneumoniae pCC416 cmlA5 gene for chloramphenicol efflux MFS transporter CmlA5, complete CDS
+NG_051437	NG_051437.1	NG_051437.1	Corynebacterium striatum M82B pTP10 tetA gene for tetracycline efflux ABC transporter TetAB subunit A, complete CDS
+NG_051497	NG_051497.1	NG_051497.1	Escherichia coli YD786 pYD786-2 fosA gene for fosfomycin resistance glutathione transferase FosA6, complete CDS
+NG_047532	NG_047532.1	NG_047532.1	Staphylococcus haemolyticus 288/96 pNVH96 blaZ gene for penicillin-hydrolyzing class A beta-lactamase BlaZ, complete CDS
+NG_047533	NG_047533.1	NG_047533.1	Staphylococcus aureus subsp. aureus N315 pN315 blaZ gene for penicillin-hydrolyzing class A beta-lactamase BlaZ, complete CDS
+NG_047534	NG_047534.1	NG_047534.1	Staphylococcus aureus pMW2 blaZ gene for penicillin-hydrolyzing class A beta-lactamase BlaZ, complete CDS
+NG_047551	NG_047551.1	NG_047551.1	Staphylococcus aureus pUB102 blaZ gene for penicillin-hydrolyzing class A beta-lactamase BlaZ, complete CDS
+NG_047663	NG_047663.1	NG_047663.1	Corynebacterium glutamicum 1014 pXZ10145.1 cmx gene for chloramphenicol efflux MFS transporter Cmx, complete CDS
+NG_047664	NG_047664.1	NG_047664.1	Corynebacterium striatum M82B pTP10 cmx gene for chloramphenicol efflux MFS transporter Cmx, complete CDS
+NG_047665	NG_047665.1	NG_047665.1	Corynebacterium jeikeium A501 pA501 cmx gene for chloramphenicol efflux MFS transporter Cmx, complete CDS
+NG_048467	NG_048467.1	NG_048467.1	Enterococcus faecalis BM4382 pIP834 vanW gene for glycopeptide resistance accessory protein VanW-B, complete CDS
+NG_048472	NG_048472.1	NG_048472.1	Enterococcus faecalis pMG2200 vanW gene for glycopeptide resistance accessory protein VanW-B, complete CDS
+NG_051704	NG_051704.1	NG_051704.1	Photobacterium damselae subsp. piscicida PT99-018 pP99-018 catA1 gene for type A-1 chloramphenicol O-acetyltransferase, complete CDS
+NG_051881	NG_051881.1	NG_051881.1	[Enterobacter] aerogenes BM2688-I pIP833 qacF gene for quaternary ammonium compound efflux SMR transporter QacF, complete CDS
+NG_051911	NG_051911.1	NG_051911.1	Citrobacter freundii B38 pOZ172 qacG2 gene for quaternary ammonium compound efflux SMR transporter QacG2, complete CDS
+NC_032098	NC_032098.1	NC_032098.1	Enterobacter cloacae strain EC4365 plasmid pEC4365, complete sequence
+NG_051846	NG_051846.1	NG_051846.1	Klebsiella pneumoniae pY2 aadA2 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA2, complete CDS
+NG_051873	NG_051873.1	NG_051873.1	uncultured bacterium pKJK5 aadA11 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA11, complete CDS
+NG_051908	NG_051908.1	NG_051908.1	Klebsiella oxytoca CAV1099 pCAV1099-69 aphA16 gene for APH(3') family aminoglycoside O-phosphotransferase AphA16, complete CDS
+NG_051938	NG_051938.1	NG_051938.1	Staphylococcus aureus pAFS11 apmA gene for aminocyclitol acetyltransferase ApmA, complete CDS
+NG_051844	NG_051844.1	NG_051844.1	Pseudomonas aeruginosa pDG-1 aac(6')-Ib gene for aminoglycoside N-acetyltransferase AAC(6')-Ib4, complete CDS
+NG_052059	NG_052059.1	NG_052059.1	uncultured bacterium pEMB2 aac(6')-Ib gene for AAC(6')-Ib family aminoglycoside 6'-N-acetyltransferase, complete CDS
+NG_052082	NG_052082.1	NG_052082.1	Staphylococcus saprophyticus ST2H6 pST2H6 qacH gene for quaternary ammonium compound efflux SMR transporter QacH, complete CDS
+NG_052086	NG_052086.1	NG_052086.1	Escherichia coli Ecol_448 pEC448_OXA163 aac(6')-Ib-cr gene for fluoroquinolone-acetylating aminoglycoside 6'-N-acetyltransferase AAC(6')-Ib-cr7, complete CDS
+NG_052141	NG_052141.1	NG_052141.1	Escherichia coli K983533 pYMG-8 dfrA12 gene for trimethoprim-resistant dihydrofolate reductase DfrA12, complete CDS
+NG_052145	NG_052145.1	NG_052145.1	uncultured bacterium pHH3414 aadA1 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1, complete CDS
+NG_052227	NG_052227.1	NG_052227.1	Salmonella enterica subsp. enterica serovar Typhimurium incFI aadA1 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1, complete CDS
+NG_052247	NG_052247.1	NG_052247.1	Salmonella enterica subsp. enterica serovar Typhimurium pS06 aadA1 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1, complete CDS
+NG_052250	NG_052250.1	NG_052250.1	uncultured bacterium unnamed aadA1 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1, complete CDS
+NG_052252	NG_052252.1	NG_052252.1	uncultured bacterium pSm47 aadA1 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1, complete CDS
+NG_052253	NG_052253.1	NG_052253.1	uncultured bacterium pSp14 aadA5 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA5, complete CDS
+NG_052254	NG_052254.1	NG_052254.1	Escherichia coli TUM11259 IncN aac(6') gene for aminoglycoside 6'-N-acetyltransferase, complete CDS
+NG_052269	NG_052269.1	NG_052269.1	Escherichia coli rl0281 pVP2810 aadA2 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA2, complete CDS
+NG_052270	NG_052270.1	NG_052270.1	Acinetobacter pittii 3/TCVGH/19991022 unnamed aph(3')-XV gene for aminoglycoside O-phosphotransferase APH(3')-XV, complete CDS
+NG_052271	NG_052271.1	NG_052271.1	Acinetobacter pittii 3/TCVGH/19991022 unnamed aadA1 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1, complete CDS
+NG_052288	NG_052288.1	NG_052288.1	uncultured bacterium pRSB223 qacG2 gene for quaternary ammonium compound efflux SMR transporter QacG2, complete CDS
+NG_052314	NG_052314.1	NG_052314.1	uncultured bacterium pSp7 aadA1 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1, complete CDS
+NG_052317	NG_052317.1	NG_052317.1	Pasteurella multocida pJR2 aadA25 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA25, complete CDS
+NG_052324	NG_052324.1	NG_052324.1	uncultured bacterium pB3 aadA2 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA2, complete CDS
+NG_052417	NG_052417.1	NG_052417.1	Serratia marcescens A4Y426 pG5A4Y426 qacF gene for quaternary ammonium compound efflux SMR transporter QacF, complete CDS
+NG_052436	NG_052436.1	NG_052436.1	uncultured bacterium pB8 aadA5 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA5, complete CDS
+NG_052486	NG_052486.1	NG_052486.1	Salmonella enterica subsp. enterica serovar Virchow 1639SA00 unnamed aadA1 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1, complete CDS
+NG_052487	NG_052487.1	NG_052487.1	Salmonella enterica subsp. enterica serovar Typhimurium 04-9275 unnamed aadA2 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA2, complete CDS
+NG_052538	NG_052538.1	NG_052538.1	Salmonella enterica subsp. enterica serovar Newport str. SL254 pSN254 aadA25 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA25, complete CDS
+NG_047231	NG_047231.1	NG_047231.1	Enterobacter cloacae pEC-IMP aac(3)-II gene for AAC(3)-II family aminoglycoside N-acetyltransferase, complete CDS
+NG_047275	NG_047275.1	NG_047275.1	Escherichia coli MG-1 R751 aac(6')-Ia gene for aminoglycoside 6'-N-acetyltransferase AAC(6')-Ia, complete CDS
+NG_047292	NG_047292.1	NG_047292.1	Escherichia coli 1387 pHS1387 aac(6')-Ib-cr gene for fluoroquinolone-acetylating aminoglycoside 6'-N-acetyltransferase AAC(6')-Ib-cr6, complete CDS
+NG_047308	NG_047308.1	NG_047308.1	Klebsiella pneumoniae K1 pLQ1000 aac(6')-Iq gene for aminoglycoside 6'-N-acetyltransferase AAC(6')-Iq, complete CDS
+NG_047321	NG_047321.1	NG_047321.1	Klebsiella pneumoniae LT12 pLT12 aacA43 gene for AAC(6')-Ia family aminoglycoside 6'-N-acetyltransferase AacA43, complete CDS
+NG_047373	NG_047373.1	NG_047373.1	Staphylococcus aureus pUB110 aadD1 gene for aminoglycoside O-nucleotidyltransferase ANT(4')-Ia, complete CDS
+NG_047375	NG_047375.1	NG_047375.1	Staphylococcus aureus HUC19 pUB110 aadD1 gene for aminoglycoside O-nucleotidyltransferase ANT(4')-Ia, complete CDS
+NG_047376	NG_047376.1	NG_047376.1	Plasmid pUB110 aadD1 gene for aminoglycoside O-nucleotidyltransferase ANT(4')-Ia, complete CDS
+NG_047559	NG_047559.1	NG_047559.1	Escherichia coli ABC85 pABC85 ble gene for bleomycin binding protein Ble-MBL, complete CDS
+NG_047770	NG_047770.1	NG_047770.1	Klebsiella pneumoniae pKpANDM-1 ere(A) gene for EreA family erythromycin esterase, complete CDS
+NG_047842	NG_047842.1	NG_047842.1	Lactobacillus reuteri N16 pTE15 erm(B) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B), complete CDS
+NG_048042	NG_048042.1	NG_048042.1	Pseudomonas aeruginosa pVS1 qacE gene for quaternary ammonium compound efflux SMR transporter QacE delta 1, complete CDS
+NG_048062	NG_048062.1	NG_048062.1	Klebsiella pneumoniae BM4686 pIP849 rmtF gene for 16S rRNA (guanine(1405)-N(7))-methyltransferase RmtF1, complete CDS
+NG_048307	NG_048307.1	NG_048307.1	uncultured bacterium HH1107 pHH1107 tet(X) gene for tetracycline-inactivating monooxygenase Tet(X), complete CDS
+NG_048308	NG_048308.1	NG_048308.1	Riemerella anatipestifer 0511 pRA0511 tet(X) gene for tetracycline-inactivating monooxygenase Tet(X), complete CDS
+NG_050583	NG_050583.1	NG_050583.1	Novosphingobium aromaticivorans DSM 12444 pNL2 estDL136 gene for chloramphenicol hydrolase, complete CDS
+NG_051697	NG_051697.1	NG_051697.1	Escherichia coli pSa aac(6')-Ib gene for AAC(6')-Ib family aminoglycoside 6'-N-acetyltransferase, complete CDS
+NG_052030	NG_052030.1	NG_052030.1	Klebsiella pneumoniae subsp. pneumoniae KPNIH30 pKPN-b9c aadA1 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1, complete CDS
+NG_052648	NG_052648.1	NG_052648.1	Escherichia coli CNR1271 unnamed blaCMY gene for class C beta-lactamase CMY-146, complete CDS
+NG_050504	NG_050504.2	NG_050504.2	Citrobacter freundii S08-US18 pS08-US18 qnrB gene for quinolone resistance pentapeptide repeat protein QnrB41, complete CDS
+NG_052861	NG_052861.1	NG_052861.1	Escherichia coli HeN867 pHeNE867 mcr-1 gene for phosphoethanolamine--lipid A transferase MCR-1.3, complete CDS
+NG_052862	NG_052862.1	NG_052862.1	Klebsiella pneumoniae KPC-079 unnamed blaKPC gene for carbapenem-hydrolyzing class A beta-lactamase KPC-27, complete CDS
+NG_052893	NG_052893.1	NG_052893.1	Salmonella enterica subsp. enterica serovar Typhimurium YL14P053 pMCR16_P053 mcr-1 gene for phosphoethanolamine--lipid A transferase MCR-1.6, complete CDS
+NZ_CP013938	NZ_CP013938.1	NZ_CP013938.1	Weissella cibaria strain CMU plasmid unnamed2, complete sequence
+NZ_CP020583	NZ_CP020583.1	NZ_CP020583.1	Acinetobacter baumannii strain JBA13 plasmid pJBA13_2, complete sequence
+NG_054661	NG_054661.1	NG_054661.1	Staphylococcus aureus SA0406 pHSSA0406 fosB gene for fosfomycin resistance bacillithiol transferase FosB4, complete CDS
+NG_054662	NG_054662.1	NG_054662.1	Staphylococcus aureus SA1278 pHSSA1278 fosB gene for fosfomycin resistance bacillithiol transferase FosB6, complete CDS
+NG_054663	NG_054663.1	NG_054663.1	Staphylococcus aureus SA1280 pHSSA1280 fosB gene for fosfomycin resistance bacillithiol transferase FosB5, complete CDS
+NG_054676	NG_054676.1	NG_054676.1	Escherichia coli NR336 pNR336 blaIMP gene for subclass B1 metallo-beta-lactamase IMP-66, complete CDS
+NG_054677	NG_054677.1	NG_054677.1	Klebsiella pneumoniae Q1130 pKp1130 qnrE gene for quinolone resistance pentapeptide repeat protein QnrE1, complete CDS
+NG_054695	NG_054695.1	NG_054695.1	Enterobacter cloacae N13-1531 pIMI-5 blaIMI gene for carbapenem-hydrolyzing class A beta-lactamase IMI-5, complete CDS
+NG_054962	NG_054962.1	NG_054962.1	Staphylococcus xylosus JW2311 pJW2311 erm(48) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(48), complete CDS
+NZ_CP021993	NZ_CP021993.1	NZ_CP021993.1	Cryobacterium sp. LW097 plasmid unnamed2 sequence
+NZ_CP022430	NZ_CP022430.1	NZ_CP022430.1	Pantoea ananatis strain YJ76 plasmid p_unamed4 sequence
+NG_055267	NG_055267.1	NG_055267.1	Enterobacter asburiae TA6166 pTMTA61661 blaFRI gene for carbapenem-hydrolyzing class A beta-lactamase FRI-4, complete CDS
+NG_055489	NG_055489.1	NG_055489.1	Klebsiella pneumoniae 0593 pKp593 blaVIM gene for subclass B1 metallo-beta-lactamase VIM-52, complete CDS
+NG_055490	NG_055490.1	NG_055490.1	Klebsiella pneumoniae 1210 pKp1210 blaOXA gene for OXA-48 family class D beta-lactamase OXA-519, complete CDS
+NG_055491	NG_055491.1	NG_055491.1	Enterobacter asburiae 107E1 p107E1 blaIMI gene for carbapenem-hydrolyzing class A beta-lactamase IMI-13, complete CDS
+NG_055504	NG_055504.1	NG_055504.1	Enterobacter cloacae N17-00710 pN17710-1 blaIMI gene for carbapenem-hydrolyzing class A beta-lactamase IMI-16, complete CDS
+NG_055505	NG_055505.1	NG_055505.1	Escherichia coli WJ1 pWJ1 mcr-3 gene for phosphoethanolamine--lipid A transferase MCR-3.1, complete CDS
+NG_047266	NG_047266.1	NG_047266.1	Pseudomonas aeruginosa pV2GY3 aac(6') gene for aminoglycoside N-acetyltransferase AAC(6')-32, complete CDS
+NG_047279	NG_047279.1	NG_047279.1	Pseudomonas aeruginosa hh320 pLQ1001 aac(6') gene for aminoglycoside 6'-N-acetyltransferase AAC(6')-Iai, complete CDS
+NG_047337	NG_047337.1	NG_047337.1	Pasteurella multocida pCCK647 ant(3'')-Ia gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA14, complete CDS
+NG_047631	NG_047631.1	NG_047631.1	Staphylococcus sciuri pSCFS1 cfr gene for 23S rRNA (adenine(2503)-C(8))-methyltransferase Cfr, complete CDS
+NG_047632	NG_047632.1	NG_047632.1	Staphylococcus aureus pSCFS3 cfr gene for 23S rRNA (adenine(2503)-C(8))-methyltransferase Cfr, complete CDS
+NG_047655	NG_047655.1	NG_047655.1	Pseudomonas aeruginosa RPL11 cmlA gene for chloramphenicol efflux MFS transporter CmlA6, complete CDS
+NG_047723	NG_047723.1	NG_047723.1	Vibrio cholerae non-O1/non-O139 pRJ354C dfrA gene for trimethoprim-resistant dihydrofolate reductase DfrA27, complete CDS
+NG_047747	NG_047747.1	NG_047747.1	Klebsiella aerogenes R751 dfrB gene for trimethoprim-resistant dihydrofolate reductase DfrB3, complete CDS
+NG_047897	NG_047897.1	NG_047897.1	Mycobacterium abscessus subsp. bolletii F1725 BRA100 fosX gene for fosfomycin resistance thiol transferase FosI, complete CDS
+NG_048578	NG_048578.1	NG_048578.1	Salmonella enterica subsp. enterica serovar Typhimurium pSTI1 aac(6')-Ib11 gene for aminoglycoside N-acetyltransferase AAC(6')-Ib11, complete CDS
+NG_051879	NG_051879.1	NG_051879.1	Pseudomonas aeruginosa pae943 unnamed cmlA gene for chloramphenicol efflux MFS transporter CmlA8, complete CDS
+NG_051883	NG_051883.1	NG_051883.1	Salmonella enterica subsp. enterica serovar Derby SE246/04 pSE246/04-a lnu(F) gene for lincosamide nucleotidyltransferase Lnu(F), complete CDS
+NG_052065	NG_052065.1	NG_052065.1	Staphylococcus aureus pI258 blaZ gene for BlaZ family penicillin-hydrolyzing class A beta-lactamase PC1, complete CDS
+NG_052167	NG_052167.1	NG_052167.1	Enterobacter cloacae p068-50543A dfrB gene for trimethoprim-resistant dihydrofolate reductase DfrB9, complete CDS
+NG_052259	NG_052259.1	NG_052259.1	Chamaesiphon minutus PCC 6605 pCHA6605.01 aac(6') gene for aminoglycoside 6'-N-acetyltransferase AacA47, complete CDS
+NG_054660	NG_054660.1	NG_054660.1	Acinetobacter lwoffii ED23-35 pALWED1.8 aadA27 gene for ANT(3'')-II family aminoglycoside nucleotidyltransferase AadA27, complete CDS
+NZ_CP022493	NZ_CP022493.1	NZ_CP022493.1	Salmonella enterica subsp. enterica serovar Saintpaul strain SA20031783 plasmid unnamed2, complete sequence
+NZ_CP022496	NZ_CP022496.1	NZ_CP022496.1	Salmonella enterica subsp. enterica serovar Derby strain SA20035215 plasmid unnamed2, complete sequence
+NG_051171	NG_051171.1	NG_051171.1	Escherichia coli KP37 pKP37-BE mcr-2 gene for phosphoethanolamine--lipid A transferase MCR-2.1, complete CDS
+NG_047353	NG_047353.1	NG_047353.1	Plasmid NR79 aadA3 gene for ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA3, complete CDS
+NG_048309	NG_048309.1	NG_048309.1	IncQ plasmid pIE1120 tet(Y) gene for tetracycline efflux MFS transporter Tet(Y), complete CDS
+NG_049352	NG_049352.1	NG_049352.1	Plasmid PDS075 blaOHIO gene for class A extended-spectrum beta-lactamase OHIO-1, complete CDS
+NG_047784	NG_047784.1	NG_047784.2	Photobacterium damselae subsp. piscicida pPDP9106b erm(42) gene for 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(42), complete CDS
+NG_048128	NG_048128.1	NG_048128.2	Corynebacterium sp. L2-79-05 pLEW279a tet(33) gene for tetracycline efflux MFS transporter Tet(33), complete CDS
+NG_050281	NG_050281.1	NG_050281.1	Klebsiella pneumoniae CLSiS 3151/98 pbla-TEM-68 blaTEM gene for inhibitor-resistant class A extended-spectrum beta-lactamase TEM-68, complete CDS
+NG_050471	NG_050471.1	NG_050471.1	Citrobacter freundii pHM6-171 qnrB gene for quinolone resistance pentapeptide repeat protein QnrB11, complete CDS
+NG_050483	NG_050483.1	NG_050483.1	Citrobacter werkmanii PS012 pPS012 qnrB gene for quinolone resistance pentapeptide repeat protein QnrB22, complete CDS
+NG_052583	NG_052583.1	NG_052583.3	Escherichia coli APEC O1 pAPEC-O1-R aac(3)-VIa gene for aminoglycoside N-acetyltransferase AAC(3)-VIa, complete CDS
+NZ_CP020935	NZ_CP020935.1	NZ_CP020935.1	Escherichia coli strain HB-Coli0 plasmid unnamed2
+NZ_CP021055	NZ_CP021055.1	NZ_CP021055.1	Methylobacterium zatmanii strain PSBB041 plasmid unnamed sequence
+NG_047322	NG_047322.1	NG_047322.1	Campylobacter jejuni CG8245 pCG8245 aad9 gene for ANT(9) family aminoglycoside nucleotidyltransferase, complete CDS
+NG_047555	NG_047555.1	NG_047555.1	Escherichia coli DIJ1 pO86A1 ble gene for bleomycin binding protein BLMT, complete CDS
+NG_047892	NG_047892.1	NG_047892.1	Staphylococcus rostri pJP2 fosD gene for fosfomycin resistance bacillithiol transferase FosD, complete CDS
+NG_048052	NG_048052.1	NG_048052.1	Klebsiella aerogenes YS10 pYS10 qepA gene for fluoroquinolone efflux MFS transporter QepA5, complete CDS
+NG_049139	NG_049139.1	NG_049139.1	Enterobacter cloacae pHT9 blaGES gene for class A extended-spectrum beta-lactamase GES-7, complete CDS
+NG_049428	NG_049428.1	NG_049428.1	Salmonella enterica subsp. enterica serovar Bredeney 96 pSBre96 blaOXA gene for OXA-5 family class D beta-lactamase OXA-129, complete CDS
+NG_049469	NG_049469.1	NG_049469.1	Klebsiella pneumoniae chaK36 pGES-5 blaOXA gene for OXA-10 family oxacillin-hydrolyzing class D extended-spectrum beta-lactamase OXA-17, complete CDS
+NG_049551	NG_049551.1	NG_049551.1	Enterobacter cloacae pUL3AT blaOXA gene for OXA-10 family class D beta-lactamase OXA-256, complete CDS
+NG_049577	NG_049577.1	NG_049577.1	Pseudomonas aeruginosa pDG-1 blaOXA gene for OXA-10 family class D extended-spectrum beta-lactamase OXA-28, complete CDS
+NG_049605	NG_049605.1	NG_049605.1	Pseudomonas aeruginosa unnamed blaOXA gene for OXA-1 family class D extended-spectrum beta-lactamase OXA-31, complete CDS
+NG_050410	NG_050410.1	NG_050410.1	Staphylococcus epidermidis BM2641 pIP1842 fosB gene for fosfomycin resistance bacillithiol transferase FosB, complete CDS
+NG_050417	NG_050417.1	NG_050417.1	Escherichia coli SHP45 pHNSHP45 mcr-1 gene for phosphoethanolamine--lipid A transferase MCR-1.1, complete CDS
+NG_052366	NG_052366.1	NG_052366.1	Escherichia coli pAK33 smr gene for multidrug efflux SMR transporter Smr, complete CDS
+NG_049138	NG_049138.1	NG_049138.1	Klebsiella pneumoniae pKP78 blaGES gene for inhibitor-resistant carbapenem-hydrolyzing class A beta-lactamase GES-6, complete CDS
+NG_047372	NG_047372.1	NG_047372.1	Plasmid pTB913 aadD1 gene for aminoglycoside O-nucleotidyltransferase ANT(4')-Ia, complete CDS
+NG_050402	NG_050402.1	NG_050402.1	Salmonella enterica subsp. enterica serovar Typhimurium incFI dfrA19 gene for trimethoprim-resistant dihydrofolate reductase DfrA19, complete CDS
+NG_050403	NG_050403.1	NG_050403.1	Enterobacter cloacae pEC-IMP dfrA19 gene for trimethoprim-resistant dihydrofolate reductase DfrA19, complete CDS
+NG_048403	NG_048403.1	NG_048403.1	Enterococcus faecalis BM4382 pIP834 vanR gene for VanB-type vancomycin resistance response regulator transcription factor VanR, complete CDS
+NG_049247	NG_049247.1	NG_049247.1	Klebsiella pneumoniae BK13048 pBK13048 blaKPC gene for inhibitor-resistant class A extended-spectrum beta-lactamase KPC-14, complete CDS
+NZ_CP011626	NZ_CP011626.1	NZ_CP011626.1	Klebsiella oxytoca strain CAV1374 plasmid pCAV1374-6538, complete sequence
+NZ_CP013143	NZ_CP013143.1	NZ_CP013143.1	Alcaligenes faecalis strain ZD02 plasmid pZD02, complete sequence
+NZ_CP011638	NZ_CP011638.1	NZ_CP011638.1	Serratia marcescens strain CAV1492 plasmid pCAV1492-6393, complete sequence
+NG_049373	NG_049373.1	NG_049373.1	Klebsiella pneumoniae kp622 blaOKP-B gene for class A broad-spectrum beta-lactamase OKP-B-13, complete CDS
+NZ_CP011573	NZ_CP011573.1	NZ_CP011573.1	Klebsiella aerogenes strain CAV1320 plasmid pKPC_CAV1320, complete sequence
+NG_049104	NG_049104.1	NG_049104.1	Escherichia coli GCE pGC-2 blaFOX gene for inhbitor-resistant cephalosporin-hydrolyzing class C beta-lactamase FOX-4, complete CDS
+NZ_CP011333	NZ_CP011333.1	NZ_CP011333.1	Escherichia coli O104:H4 str. C227-11 isolate 368 shch plasmid unnamed, complete sequence
+NZ_CP011335	NZ_CP011335.1	NZ_CP011335.1	Escherichia coli O104:H4 str. C227-11 isolate 368 shch plasmid unnamed, complete sequence
+NZ_CP011336	NZ_CP011336.1	NZ_CP011336.1	Escherichia coli O104:H4 str. C227-11 isolate 368 shch plasmid unnamed, complete sequence
+NZ_CP011337	NZ_CP011337.1	NZ_CP011337.1	Escherichia coli O104:H4 str. C227-11 isolate 368 shch plasmid unnamed, complete sequence
+NZ_CP018981	NZ_CP018981.1	NZ_CP018981.1	Escherichia coli strain Ecol_867 plasmid pEC867_KPC, complete sequence
+NZ_CP019138	NZ_CP019138.1	NZ_CP019138.1	Brevirhabdus pacifica strain DY6-4 plasmid unnamed
+NG_047232	NG_047232.1	NG_047232.1	Serratia marcescens pUO901 aac(3)-Ia gene for aminoglycoside N-acetyltransferase AAC(3)-Ia, complete CDS
+NG_047233	NG_047233.1	NG_047233.1	Salmonella enterica subsp. enterica serovar Typhimurium pSEM aac(3)-Ia gene for aminoglycoside N-acetyltransferase AAC(3)-Ia, complete CDS
+NG_047248	NG_047248.1	NG_047248.1	uncultured bacterium HHV35 pHHV35 aac(3)-IIe gene for aminoglycoside N-acetyltransferase AAC(3)-IIe, complete CDS
+NG_047250	NG_047250.1	NG_047250.1	Escherichia coli clinical isolate 164 R aac(3)-IIc gene for aminoglycoside N-acetyltransferase AAC(3)-IIc, complete CDS
+NG_047251	NG_047251.1	NG_047251.1	Citrobacter freundii pCTX-M3 aac(3)-IId gene for aminoglycoside N-acetyltransferase AAC(3)-IId, complete CDS
+NG_047246	NG_047246.1	NG_047246.1	Plasmid R aac(3)-IId gene for aminoglycoside N-acetyltransferase AAC(3)-IId, complete CDS
+NC_017329	NC_017329.1	NC_017329.1	Shigella flexneri 2002017 plasmid pSFxv_3, complete sequence
+NZ_CP014097	NZ_CP014097.1	NZ_CP014097.2	Shigella sonnei strain FDAARGOS_90 plasmid unnamed2
+NZ_CP014100	NZ_CP014100.1	NZ_CP014100.1	Shigella sonnei strain FDAARGOS_90 plasmid unnamed4, complete sequence
+NZ_CP014101	NZ_CP014101.1	NZ_CP014101.1	Shigella sonnei strain FDAARGOS_90 plasmid unnamed5, complete sequence
+NZ_CP007485	NZ_CP007485.1	NZ_CP007485.1	Salmonella enterica subsp. enterica strain SA972816 plasmid p972816
+NZ_CP014087	NZ_CP014087.1	NZ_CP014087.2	Escherichia coli strain FDAARGOS_95 plasmid unnamed
+NC_011602	NC_011602.1	NC_011602.1	Escherichia coli O127:H6 str. E2348/69 plasmid pE2348-2, complete sequence
