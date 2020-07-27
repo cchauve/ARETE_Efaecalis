@@ -1,0 +1,1528 @@
+#FILE	GENE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
+SS-0005_assembly.fasta	dfrE	98.99	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0005_assembly.fasta	lsa(A)	98.66	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+SWEntR-0295_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEntR-0295_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0747_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0747_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0747_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0747_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+BP-G138E-2_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-G138E-2_assembly.fasta	lsa(A)	99.33	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1318_assembly.fasta	dfrE	99.80	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1318_assembly.fasta	tet(M)	99.17	ncbi	NG_048218.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1318_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1318_assembly.fasta	dfrF	99.80	ncbi	NG_047755.1	trimethoprim-resistant dihydrofolate reductase DfrF
+NS-1318_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SWEnt-0985_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+SWEnt-0985_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+SWEnt-0985_assembly.fasta	lsa(A)	99.53	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+SWEnt-0985_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEnt-0985_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0205_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0205_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0205_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0205_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-A-FC107-23FEB16-0797A_assembly.fasta	dfrE	97.17	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-A-FC107-23FEB16-0797A_assembly.fasta	tet(M)	100.00	ncbi	NG_048223.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-A-FC107-23FEB16-0797A_assembly.fasta	lsa(A)	99.80	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1132_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1132_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1132_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-27APR15-0081J_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-27APR15-0081J_assembly.fasta	lsa(A)	99.80	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-27APR15-0081J_assembly.fasta	tet(M)	99.17	ncbi	NG_048218.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-27APR15-0081J_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-C-ST001-27APR15-0081J_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-C-ST001-27APR15-0081J_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+ES-C-ST001-27APR15-0081J_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SS-0028_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0028_assembly.fasta	lsa(A)	98.40	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0028_assembly.fasta	tet(M)	99.84	ncbi	NG_048220.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0028_assembly.fasta	erm(B)	100.00	ncbi	NG_047802.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SS-0028_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+SS-0028_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+SS-0028_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-1298_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1298_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1298_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-27APR15-0081A_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-27APR15-0081A_assembly.fasta	lsa(A)	98.93	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+SWEntR-0285_assembly.fasta	dfrE	96.97	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEntR-0285_assembly.fasta	lsa(A)	99.20	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0017_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0017_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0017_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SS-0017_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+BP-R49-3_assembly.fasta	dfrE	98.18	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-R49-3_assembly.fasta	lsa(A)	99.06	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-15DEC14-0062K_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-15DEC14-0062K_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-15DEC14-0062K_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-15DEC14-0062K_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+BP-H53-2_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-H53-2_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1365_assembly.fasta	lsa(A)	98.53	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1365_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-S-CB001-14SEP15-0121I_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-S-CB001-14SEP15-0121I_assembly.fasta	tet(M)	100.00	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-S-CB001-14SEP15-0121I_assembly.fasta	aph(2'')-IIIa	100.00	ncbi	NG_047399.1	aminoglycoside O-phosphotransferase APH(2'')-IIIa
+ES-S-CB001-14SEP15-0121I_assembly.fasta	erm(B)	100.00	ncbi	NG_047802.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-S-CB001-14SEP15-0121I_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+ES-S-CB001-14SEP15-0121I_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-S-CB001-14SEP15-0121I_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-S-CB001-14SEP15-0121I_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-S-CB001-14SEP15-0121I_assembly.fasta	dfrF	99.60	ncbi	NG_047755.1	trimethoprim-resistant dihydrofolate reductase DfrF
+ES-S-CB001-14SEP15-0121I_assembly.fasta	lsa(A)	100.00	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0884_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0884_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0884_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0884_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0884_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-0884_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-A-FC604-20OCT14-0216K_assembly.fasta	lsa(A)	99.53	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-A-FC604-20OCT14-0216K_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-A-FC604-20OCT14-0216K_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-A-FC604-20OCT14-0216K_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-A-FC604-20OCT14-0216K_assembly.fasta	erm(B)	99.60	ncbi	NG_047801.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-25AUG14-0039C_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-25AUG14-0039C_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-25AUG14-0039C_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0199_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0199_assembly.fasta	lsa(A)	99.27	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0199_assembly.fasta	tet(M)	100.00	ncbi	NG_048250.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0199_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-0199_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0841_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0841_assembly.fasta	tet(M)	100.00	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0841_assembly.fasta	erm(B)	99.59	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0841_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-0841_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-0841_assembly.fasta	aph(3')-IIIa	99.87	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0841_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+NS-0841_assembly.fasta	lsa(A)	99.33	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0625_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0625_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0625_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1230_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1230_assembly.fasta	tet(M)	99.95	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1230_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1230_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-25AUG15-0117L_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-25AUG15-0117L_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-25AUG15-0117L_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-25AUG15-0117L_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-C-ST001-25AUG15-0117L_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-C-ST001-25AUG15-0117L_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+Ent-0025_assembly.fasta	dfrE	98.38	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+Ent-0025_assembly.fasta	lsa(A)	99.06	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST002-25AUG14-0040E_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST002-25AUG14-0040E_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST002-25AUG14-0040E_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-C-ST002-25AUG14-0040E_assembly.fasta	lsa(A)	99.33	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST002-25AUG14-0040E_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-03MAR15-0067J_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03MAR15-0067J_assembly.fasta	lsa(A)	98.40	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03MAR15-0067J_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-03MAR15-0067J_assembly.fasta	tet(M)	99.84	ncbi	NG_048220.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03MAR15-0067J_assembly.fasta	aph(2'')-Ih	82.43	ncbi	NG_047408.1	aminoglycoside O-phosphotransferase APH(2'')-Ih
+NS-0501_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0501_assembly.fasta	lsa(A)	100.00	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0501_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0501_assembly.fasta	dfrF	100.00	ncbi	NG_047755.1	trimethoprim-resistant dihydrofolate reductase DfrF
+ES-M-ST001-21JUL14-0029K_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-21JUL14-0029K_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-21JUL14-0029K_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-21JUL14-0029K_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-05OCT15-0134K_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-05OCT15-0134K_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-05OCT15-0134K_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-05OCT15-0134K_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-21JUL14-0029J_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-21JUL14-0029J_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-21JUL14-0029J_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-21JUL14-0029J_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-M-ST001-21JUL14-0029J_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-21JUL14-0029J_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-27APR15-0081M_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-27APR15-0081M_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-27APR15-0081M_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-27APR15-0081M_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-03FEB15-0063I_assembly.fasta	cfr(C)	99.07	ncbi	NG_060579.1	23S rRNA (adenine(2503)-C(8))-methyltransferase Cfr(C)
+ES-M-ST001-03FEB15-0063I_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03FEB15-0063I_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03FEB15-0063I_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-03FEB15-0063I_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST002-23NOV14-0061A_assembly.fasta	lsa(A)	98.66	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST002-23NOV14-0061A_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-R19-2_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-R19-2_assembly.fasta	tet(M)	100.00	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+BP-R19-2_assembly.fasta	lsa(A)	99.33	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-S-FC025-15SEP14-0165K_assembly.fasta	lsa(A)	99.33	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-S-FC025-15SEP14-0165K_assembly.fasta	dfrE	98.99	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-S-FC025-15SEP14-0165K_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-S-FC025-15SEP14-0165K_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-S-FC025-15SEP14-0165K_assembly.fasta	erm(B)	99.60	ncbi	NG_047801.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+BP-G69E-3_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-G69E-3_assembly.fasta	lsa(A)	99.27	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-G69E-3_assembly.fasta	tet(M)	100.00	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+BP-G69E-3_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+EntR-0190_assembly.fasta	lsa(A)	99.40	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+EntR-0190_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+EntR-0190_assembly.fasta	tet(O)	99.95	ncbi	NG_048264.1	tetracycline resistance ribosomal protection protein Tet(O)
+EntR-0190_assembly.fasta	erm(B)	99.60	ncbi	NG_047801.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-1131_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1131_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1131_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-1131_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-1131_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-1131_assembly.fasta	aph(2'')-Ih	82.43	ncbi	NG_047408.1	aminoglycoside O-phosphotransferase APH(2'')-Ih
+NS-1131_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1131_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+BP-R7-1_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-R7-1_assembly.fasta	lsa(A)	99.47	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0395_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0395_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0395_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0395_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-25AUG15-0117K_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-25AUG15-0117K_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-25AUG15-0117K_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-25AUG15-0117K_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-25AUG15-0117K_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0355_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0355_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0355_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0355_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-V-FC083-23SEP14-0190B_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-V-FC083-23SEP14-0190B_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-V-FC083-23SEP14-0190B_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-V-FC083-23SEP14-0190B_assembly.fasta	lsa(A)	99.27	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-07DEC15-0141I_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-07DEC15-0141I_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_050582.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+ES-C-ST001-07DEC15-0141I_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-07DEC15-0141I_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-07DEC15-0141I_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-A-FC604-20OCT14-0216B_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-A-FC604-20OCT14-0216B_assembly.fasta	lsa(A)	99.33	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1105_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1105_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1105_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-1105_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1492_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1492_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1492_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-1492_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1492_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-0642_assembly.fasta	fexA	99.72	ncbi	NG_047857.1	chloramphenicol/florfenicol efflux MFS transporter FexA
+NS-0642_assembly.fasta	optrA	99.59	ncbi	NG_048023.1	ABC-F type ribosomal protection protein OptrA
+NS-0642_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+NS-0642_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0642_assembly.fasta	str	99.88	ncbi	NG_048080.1	streptomycin adenylyltransferase Str
+NS-0642_assembly.fasta	lsa(A)	99.40	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0642_assembly.fasta	dfrE	97.78	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0642_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+NS-0642_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0642_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-0642_assembly.fasta	ant(6)-Ia	99.34	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-0642_assembly.fasta	erm(B)	99.60	ncbi	NG_047801.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SS-0011_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0011_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0011_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+SS-0011_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+SS-0011_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0238_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0238_assembly.fasta	lsa(A)	100.00	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0238_assembly.fasta	erm(B)	100.00	ncbi	NG_047802.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0238_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-0238_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-0238_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0238_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0238_assembly.fasta	dfrF	100.00	ncbi	NG_047755.1	trimethoprim-resistant dihydrofolate reductase DfrF
+SS-0012_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0012_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0012_assembly.fasta	catA8	99.85	ncbi	NG_047574.1	type A-8 chloramphenicol O-acetyltransferase
+SS-0012_assembly.fasta	str	100.00	ncbi	NG_048078.1	streptomycin adenylyltransferase Str
+SS-0012_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SS-0012_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0012_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+ES-A-FC504-20OCT14-0213I_assembly.fasta	dfrE	100.00	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-A-FC504-20OCT14-0213I_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-A-FC504-20OCT14-0213I_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-A-FC504-20OCT14-0213I_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-A-FC504-20OCT14-0213I_assembly.fasta	lsa(A)	98.73	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0004_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0004_assembly.fasta	lsa(A)	98.53	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST002-25AUG14-0040A_assembly.fasta	lsa(A)	100.00	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST002-25AUG14-0040A_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-C-ST002-25AUG14-0040A_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-C-ST002-25AUG14-0040A_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+ES-C-ST002-25AUG14-0040A_assembly.fasta	lnu(B)	100.00	ncbi	NG_047923.1	lincosamide nucleotidyltransferase Lnu(B)
+ES-C-ST002-25AUG14-0040A_assembly.fasta	lsa(E)	100.00	ncbi	NG_047935.1	ABC-F type ribosomal protection protein Lsa(E)
+ES-C-ST002-25AUG14-0040A_assembly.fasta	spw	100.00	ncbi	NG_048075.1	ANT(9) family aminoglycoside nucleotidyltransferase Spw
+ES-C-ST002-25AUG14-0040A_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_050582.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+ES-C-ST002-25AUG14-0040A_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-C-ST002-25AUG14-0040A_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST002-25AUG14-0040A_assembly.fasta	tet(M)	100.00	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST002-25AUG14-0040A_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-05OCT15-0134I_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-05OCT15-0134I_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-05OCT15-0134I_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-05OCT15-0134I_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0763_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0763_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0763_assembly.fasta	tet(M)	99.90	ncbi	NG_048223.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0763_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SWEnt-1073_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEnt-1073_assembly.fasta	lsa(A)	98.73	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0787_assembly.fasta	lsa(A)	99.20	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0787_assembly.fasta	catA8	98.92	ncbi	NG_047574.1	type A-8 chloramphenicol O-acetyltransferase
+NS-0787_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+NS-0787_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0787_assembly.fasta	erm(B)	99.60	ncbi	NG_047801.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0787_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-08MAR16-0147A_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-08MAR16-0147A_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-08MAR16-0147A_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-08MAR16-0147A_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-08MAR16-0147A_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-M-ST001-08MAR16-0147A_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-08MAR16-0147J_assembly.fasta	dfrE	97.17	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-08MAR16-0147J_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-08MAR16-0147J_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-08MAR16-0147J_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-08MAR16-0147J_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+BP-R5E-3_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-R5E-3_assembly.fasta	tet(M)	100.00	ncbi	NG_048252.1	tetracycline resistance ribosomal protection protein Tet(M)
+BP-R5E-3_assembly.fasta	lsa(A)	99.00	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-G81-1_assembly.fasta	dfrE	96.36	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-G81-1_assembly.fasta	lsa(A)	97.73	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0672_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0672_assembly.fasta	lsa(A)	98.73	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0150_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0150_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0150_assembly.fasta	tet(M)	99.95	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0150_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0150_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-0150_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047419.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+SS-0007_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0007_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SS-0007_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0007_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0760_assembly.fasta	lsa(A)	99.13	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0760_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-0760_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0760_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0760_assembly.fasta	dfrE	97.78	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0760_assembly.fasta	tet(M)	100.00	ncbi	NG_048252.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1162_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1162_assembly.fasta	lsa(A)	99.27	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-G127E-2_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-G127E-2_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+Ent-0276_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+Ent-0276_assembly.fasta	dfrE	98.18	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+Ent-0276_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0047_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0047_assembly.fasta	lsa(A)	98.40	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0047_assembly.fasta	tet(M)	99.84	ncbi	NG_048220.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0047_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-27APR15-0081I_assembly.fasta	lsa(A)	99.20	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-27APR15-0081I_assembly.fasta	erm(B)	100.00	ncbi	NG_047802.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-27APR15-0081I_assembly.fasta	dfrF	100.00	ncbi	NG_047755.1	trimethoprim-resistant dihydrofolate reductase DfrF
+ES-C-ST001-27APR15-0081I_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-S-FC302-12MAY14-0034E_assembly.fasta	lsa(A)	99.00	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-S-FC302-12MAY14-0034E_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-21JUL14-0029D_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-21JUL14-0029D_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-21JUL14-0029D_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-21JUL14-0029D_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-21JUL14-0029D_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03FEB15-0063K_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03FEB15-0063K_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03FEB15-0063K_assembly.fasta	erm(B)	100.00	ncbi	NG_047802.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-03FEB15-0063K_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+ES-M-ST001-03FEB15-0063K_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-M-ST001-03FEB15-0063K_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-03FEB15-0063K_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03FEB15-0063K_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+NS-1117_assembly.fasta	lsa(A)	99.80	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1117_assembly.fasta	tet(M)	100.00	ncbi	NG_048250.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1117_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+EntR-0171_assembly.fasta	lsa(A)	99.20	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+EntR-0171_assembly.fasta	dfrE	98.38	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+EntR-0171_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+EntR-0171_assembly.fasta	tet(M)	99.79	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+EntR-0171_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+SWEntR-0374_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEntR-0374_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+SWEntR-0374_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+SWEntR-0374_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047419.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+SWEntR-0374_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SWEntR-0374_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1172_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1172_assembly.fasta	tet(M)	100.00	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1172_assembly.fasta	lsa(A)	99.33	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0034_assembly.fasta	lsa(A)	98.40	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0034_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0034_assembly.fasta	tet(M)	99.84	ncbi	NG_048220.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0034_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-A-FC606-20OCT14-0217I_assembly.fasta	dfrE	97.17	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-A-FC606-20OCT14-0217I_assembly.fasta	tet(M)	99.95	ncbi	NG_048223.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-A-FC606-20OCT14-0217I_assembly.fasta	erm(B)	99.47	ncbi	NG_047801.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-A-FC606-20OCT14-0217I_assembly.fasta	lsa(A)	99.80	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0080_assembly.fasta	lsa(A)	99.47	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0080_assembly.fasta	tet(S)	100.00	ncbi	NG_048273.1	tetracycline resistance ribosomal protection protein Tet(S)
+NS-0080_assembly.fasta	dfrE	97.78	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-A-FC208-23FEB16-0800A_assembly.fasta	tet(M)	100.00	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-A-FC208-23FEB16-0800A_assembly.fasta	lsa(A)	99.33	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-A-FC208-23FEB16-0800A_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0009_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0009_assembly.fasta	lsa(A)	98.40	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0009_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SS-0009_assembly.fasta	tet(M)	99.84	ncbi	NG_048220.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0009_assembly.fasta	aph(2'')-Ih	82.43	ncbi	NG_047408.1	aminoglycoside O-phosphotransferase APH(2'')-Ih
+NS-1692_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1692_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-1692_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1692_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03NOV15-0137B_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03NOV15-0137B_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+ES-M-ST001-03NOV15-0137B_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-03NOV15-0137B_assembly.fasta	aph(3')-IIIa	99.87	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-03NOV15-0137B_assembly.fasta	str	100.00	ncbi	NG_048078.1	streptomycin adenylyltransferase Str
+ES-M-ST001-03NOV15-0137B_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03NOV15-0137B_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03FEB15-0063M_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03FEB15-0063M_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03FEB15-0063M_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03FEB15-0063M_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+BP-H136-3_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-H136-3_assembly.fasta	lsa(A)	99.20	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SWEntR-0278_assembly.fasta	lsa(A)	99.47	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+SWEntR-0278_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0294_assembly.fasta	lsa(A)	99.00	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0294_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-S-FC504-20JUL15-0557I_assembly.fasta	lsa(A)	99.47	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-S-FC504-20JUL15-0557I_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-S-FC504-20JUL15-0557I_assembly.fasta	catA7	100.00	ncbi	NG_047568.1	type A-7 chloramphenicol O-acetyltransferase
+ES-S-FC504-20JUL15-0557I_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-S-FC504-20JUL15-0557I_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-S-FC504-20JUL15-0557I_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-S-FC504-20JUL15-0557I_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+ES-S-FC504-20JUL15-0557I_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-S-FC504-20JUL15-0557I_assembly.fasta	tet(M)	99.17	ncbi	NG_048218.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-15DEC14-0062L_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-15DEC14-0062L_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-15DEC14-0062L_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-15DEC14-0062L_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-C-ST001-15DEC14-0062L_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+BP-G109-2_assembly.fasta	lsa(A)	99.06	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-G109-2_assembly.fasta	dfrE	98.18	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-G109-2_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1066_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1066_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1066_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-07DEC15-0141J_assembly.fasta	msr(C)	96.43	ncbi	NG_048003.1	ABC-F type ribosomal protection protein Msr(C)
+ES-C-ST001-07DEC15-0141J_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-07DEC15-0141J_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-07DEC15-0141J_assembly.fasta	eat(A)	100.00	ncbi	NG_047762.1	ABC-F type ribosomal protection protein Eat(A)
+ES-C-ST001-07DEC15-0141J_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-07DEC15-0141J_assembly.fasta	aac(6')-Ii	99.82	ncbi	NG_047298.1	aminoglycoside N-acetyltransferase AAC(6')-Ii
+ES-C-ST001-07DEC15-0141J_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-23NOV14-0060I_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-23NOV14-0060I_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-23NOV14-0060I_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-23NOV14-0060I_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-A-FC304-08JUN15-0497J_assembly.fasta	aadE	100.00	ncbi	NG_047378.1	aminoglycoside 6-adenylyltransferase AadE
+ES-A-FC304-08JUN15-0497J_assembly.fasta	erm(B)	99.73	ncbi	NG_047800.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-A-FC304-08JUN15-0497J_assembly.fasta	lsa(A)	99.80	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-A-FC304-08JUN15-0497J_assembly.fasta	dfrE	97.78	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEnt-1156_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEnt-1156_assembly.fasta	lsa(A)	98.53	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03MAY16-0152D_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03MAY16-0152D_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-M-ST001-03MAY16-0152D_assembly.fasta	lsa(A)	98.73	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03MAY16-0152D_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+ES-M-ST001-03MAY16-0152D_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03MAY16-0152D_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-08MAR16-0147K_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-08MAR16-0147K_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-08MAR16-0147K_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-08MAR16-0147K_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-08MAR16-0147K_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+BP-H22-1_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-H22-1_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+BP-H22-1_assembly.fasta	lnu(B)	100.00	ncbi	NG_047923.1	lincosamide nucleotidyltransferase Lnu(B)
+BP-H22-1_assembly.fasta	lsa(E)	100.00	ncbi	NG_047935.1	ABC-F type ribosomal protection protein Lsa(E)
+BP-H22-1_assembly.fasta	spw	100.00	ncbi	NG_048075.1	ANT(9) family aminoglycoside nucleotidyltransferase Spw
+BP-H22-1_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+BP-H22-1_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-H22-1_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+BP-H22-1_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-C-ST001-17FEB15-0065J_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-17FEB15-0065J_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-17FEB15-0065J_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-17FEB15-0065J_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-V-FC099-23SEP14-0192A_assembly.fasta	dfrE	97.17	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-V-FC099-23SEP14-0192A_assembly.fasta	lsa(A)	99.80	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-V-FC099-23SEP14-0192A_assembly.fasta	tet(M)	99.95	ncbi	NG_048223.1	tetracycline resistance ribosomal protection protein Tet(M)
+SWEntR-0367_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEntR-0367_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+SWEntR-0367_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+SWEntR-0367_assembly.fasta	aph(2'')-Ih	82.43	ncbi	NG_047408.1	aminoglycoside O-phosphotransferase APH(2'')-Ih
+SWEntR-0367_assembly.fasta	lsa(A)	98.73	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+SWEntR-0367_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SWEntR-0367_assembly.fasta	catA8	99.23	ncbi	NG_047574.1	type A-8 chloramphenicol O-acetyltransferase
+NS-0822_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0822_assembly.fasta	lsa(A)	98.40	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0822_assembly.fasta	tet(M)	99.84	ncbi	NG_048220.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0822_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0822_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0822_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-0822_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-0822_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+NS-0822_assembly.fasta	aph(2'')-Ih	82.43	ncbi	NG_047408.1	aminoglycoside O-phosphotransferase APH(2'')-Ih
+SS-0039_assembly.fasta	dfrE	97.78	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0039_assembly.fasta	lsa(A)	98.66	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-19MAY15-0089B_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-19MAY15-0089B_assembly.fasta	lsa(A)	99.27	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0898_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0898_assembly.fasta	lsa(A)	100.00	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-S-FC400-14MAR16-0827I_assembly.fasta	dfrE	97.78	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-S-FC400-14MAR16-0827I_assembly.fasta	fexA	99.72	ncbi	NG_047857.1	chloramphenicol/florfenicol efflux MFS transporter FexA
+ES-S-FC400-14MAR16-0827I_assembly.fasta	optrA	99.59	ncbi	NG_048023.1	ABC-F type ribosomal protection protein OptrA
+ES-S-FC400-14MAR16-0827I_assembly.fasta	str	99.88	ncbi	NG_048080.1	streptomycin adenylyltransferase Str
+ES-S-FC400-14MAR16-0827I_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-S-FC400-14MAR16-0827I_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-S-FC400-14MAR16-0827I_assembly.fasta	catA8	98.92	ncbi	NG_047574.1	type A-8 chloramphenicol O-acetyltransferase
+ES-S-FC400-14MAR16-0827I_assembly.fasta	erm(B)	99.60	ncbi	NG_047801.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-S-FC400-14MAR16-0827I_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+ES-S-FC400-14MAR16-0827I_assembly.fasta	erm(B)	99.60	ncbi	NG_047801.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-S-FC400-14MAR16-0827I_assembly.fasta	lsa(A)	99.40	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-07DEC15-0141C_assembly.fasta	lsa(A)	99.80	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-07DEC15-0141C_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0717_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0717_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0717_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0717_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0717_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0717_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-1691_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1691_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1691_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-1691_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SWEnt-1223_assembly.fasta	dfrE	97.78	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEnt-1223_assembly.fasta	lsa(A)	99.80	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-R20-1_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-R20-1_assembly.fasta	lsa(A)	99.47	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0002_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0002_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0002_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SS-0002_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0078_assembly.fasta	dfrE	97.78	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0078_assembly.fasta	tet(S)	100.00	ncbi	NG_048273.1	tetracycline resistance ribosomal protection protein Tet(S)
+NS-0078_assembly.fasta	lsa(A)	99.47	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-07DEC15-0141B_assembly.fasta	dfrE	99.80	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-07DEC15-0141B_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-07DEC15-0141B_assembly.fasta	tet(M)	99.17	ncbi	NG_048218.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0022_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0022_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+SS-0022_assembly.fasta	tet(M)	100.00	ncbi	NG_048232.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0022_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-V-CB001-14JUL15-0103B_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-V-CB001-14JUL15-0103B_assembly.fasta	lsa(A)	99.40	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0020_assembly.fasta	dfrE	97.17	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0020_assembly.fasta	lsa(A)	99.20	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-15DEC14-0062C_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-15DEC14-0062C_assembly.fasta	lsa(A)	99.27	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-19MAY15-0089E_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-19MAY15-0089E_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-19MAY15-0089E_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-15DEC14-0062A_assembly.fasta	dfrE	100.00	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-15DEC14-0062A_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-15DEC14-0062A_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-C-ST001-15DEC14-0062A_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-15DEC14-0062A_assembly.fasta	lsa(A)	98.73	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0077_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0077_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0077_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST002-08MAR16-0148A_assembly.fasta	dfrE	98.38	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST002-08MAR16-0148A_assembly.fasta	lsa(A)	99.20	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-R53-2_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-R53-2_assembly.fasta	lsa(A)	99.47	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-15SEP15-0124C_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-15SEP15-0124C_assembly.fasta	lsa(A)	99.27	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-19MAY15-0089L_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-19MAY15-0089L_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-19MAY15-0089L_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-19MAY15-0089L_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SS-0030_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0030_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0030_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+Ent-0277_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+Ent-0277_assembly.fasta	dfrE	98.18	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+Ent-0269_assembly.fasta	lsa(A)	99.00	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+Ent-0269_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-A-FC506-20OCT14-0214B_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-A-FC506-20OCT14-0214B_assembly.fasta	lsa(A)	99.20	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST002-25AUG14-0040C_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST002-25AUG14-0040C_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST002-25AUG14-0040C_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST002-25AUG14-0040C_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0053_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0053_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+NS-0053_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0053_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0053_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0053_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-15DEC14-0062M_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-15DEC14-0062M_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-15DEC14-0062M_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-15DEC14-0062M_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-C-ST001-15DEC14-0062M_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-C-ST001-15DEC14-0062M_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-S-FC504-20JUL15-0557K_assembly.fasta	lsa(A)	99.47	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-S-FC504-20JUL15-0557K_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-S-FC504-20JUL15-0557K_assembly.fasta	tet(M)	99.17	ncbi	NG_048218.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-S-FC504-20JUL15-0557K_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+ES-S-FC504-20JUL15-0557K_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-S-FC504-20JUL15-0557K_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-S-FC504-20JUL15-0557K_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-S-FC504-20JUL15-0557K_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-M-ST001-03NOV15-0137J_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03NOV15-0137J_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03NOV15-0137J_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03NOV15-0137J_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+ES-M-ST001-03NOV15-0137J_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-03NOV15-0137J_assembly.fasta	aph(3')-IIIa	99.87	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-03NOV15-0137J_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-M-ST001-03NOV15-0137L_assembly.fasta	lsa(A)	98.33	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03NOV15-0137L_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03NOV15-0137L_assembly.fasta	tet(M)	99.84	ncbi	NG_048220.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03NOV15-0137L_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+Ent-0202_assembly.fasta	dfrE	97.17	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+Ent-0202_assembly.fasta	lsa(A)	98.53	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-G149-3_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-G149-3_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-W141-1_assembly.fasta	dfrE	96.36	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-W141-1_assembly.fasta	lsa(A)	98.00	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-H74-1_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-H74-1_assembly.fasta	lsa(A)	99.13	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-25AUG14-0039B_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-25AUG14-0039B_assembly.fasta	lsa(A)	99.87	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+SWEnt-1183_assembly.fasta	lsa(A)	99.13	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+SWEnt-1183_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEntR-0376_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEntR-0376_assembly.fasta	tet(M)	100.00	ncbi	NG_048232.1	tetracycline resistance ribosomal protection protein Tet(M)
+SWEntR-0376_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+SWEntR-0376_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+SWEntR-0376_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+SWEntR-0376_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SWEntR-0376_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-05OCT15-0134J_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-05OCT15-0134J_assembly.fasta	lsa(A)	99.33	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-05OCT15-0134J_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-C-ST001-05OCT15-0134J_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-C-ST001-05OCT15-0134J_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+ES-C-ST001-05OCT15-0134J_assembly.fasta	catA7	100.00	ncbi	NG_047568.1	type A-7 chloramphenicol O-acetyltransferase
+ES-C-ST001-05OCT15-0134J_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-05OCT15-0134J_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-C-ST001-05OCT15-0134J_assembly.fasta	tet(M)	100.00	ncbi	NG_048232.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1640_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1640_assembly.fasta	lsa(A)	100.00	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1640_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-1640_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-1640_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-1640_assembly.fasta	tet(M)	100.00	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+BP-G85-2_assembly.fasta	lsa(A)	99.13	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-G85-2_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+BP-G85-2_assembly.fasta	dfrE	97.17	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0761_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0761_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0761_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0442_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0442_assembly.fasta	lsa(A)	100.00	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0332_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0332_assembly.fasta	lsa(A)	98.53	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0200_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0200_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0200_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0200_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0023_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0023_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0023_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0038_assembly.fasta	dfrE	99.80	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0038_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0038_assembly.fasta	tet(M)	99.17	ncbi	NG_048218.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1464_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1464_assembly.fasta	lsa(A)	99.27	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03MAY16-0152K_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03MAY16-0152K_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+ES-M-ST001-03MAY16-0152K_assembly.fasta	lsa(A)	98.73	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1171_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1171_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-1171_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1171_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-19MAY15-0089C_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-19MAY15-0089C_assembly.fasta	lsa(A)	99.93	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1124_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1124_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1124_assembly.fasta	aph(2'')-Ih	82.31	ncbi	NG_047408.1	aminoglycoside O-phosphotransferase APH(2'')-Ih
+NS-1124_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-1124_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-1124_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-13OCT14-0050E_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-13OCT14-0050E_assembly.fasta	lsa(A)	99.27	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-13OCT14-0050E_assembly.fasta	erm(B)	99.73	ncbi	NG_047800.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST002-27APR15-0082C_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST002-27APR15-0082C_assembly.fasta	lsa(A)	99.27	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0800_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0800_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0800_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1091_assembly.fasta	lsa(A)	99.80	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1091_assembly.fasta	tet(M)	100.00	ncbi	NG_048250.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1091_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0114_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0114_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0114_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0539_assembly.fasta	lsa(A)	99.80	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0539_assembly.fasta	tet(M)	100.00	ncbi	NG_048250.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0539_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-A-FC606-20OCT14-0217J_assembly.fasta	dfrE	97.17	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-A-FC606-20OCT14-0217J_assembly.fasta	lsa(A)	99.80	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-A-FC606-20OCT14-0217J_assembly.fasta	tet(M)	99.95	ncbi	NG_048223.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-A-FC606-20OCT14-0217J_assembly.fasta	erm(B)	99.47	ncbi	NG_047801.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+Ent-0182_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+Ent-0182_assembly.fasta	lsa(A)	98.93	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0147_assembly.fasta	dfrE	97.78	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0147_assembly.fasta	lsa(A)	99.47	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03MAY16-0152I_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-03MAY16-0152I_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-M-ST001-03MAY16-0152I_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-03MAY16-0152I_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03MAY16-0152I_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03MAY16-0152I_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-27APR15-0081K_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-27APR15-0081K_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-27APR15-0081K_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-27APR15-0081K_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-A-FC303-10AUG15-0566I_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-A-FC303-10AUG15-0566I_assembly.fasta	lsa(A)	98.73	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-A-FC303-10AUG15-0566I_assembly.fasta	tet(M)	100.00	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-A-FC303-10AUG15-0566I_assembly.fasta	erm(B)	99.47	ncbi	NG_047801.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0330_assembly.fasta	lsa(A)	99.80	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0330_assembly.fasta	tet(M)	99.95	ncbi	NG_048250.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0330_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0037_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0037_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0037_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SS-0037_assembly.fasta	tet(M)	99.95	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0026_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0026_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0026_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0026_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03MAR15-0067K_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03MAR15-0067K_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03MAR15-0067K_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-03MAR15-0067K_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0563_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0563_assembly.fasta	tet(M)	100.00	ncbi	NG_048232.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0563_assembly.fasta	lsa(A)	99.93	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0228_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0228_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0228_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+EntR-0146_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+EntR-0146_assembly.fasta	tet(M)	99.38	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+EntR-0146_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+EntR-0146_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+Ent-0238_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+Ent-0238_assembly.fasta	lsa(A)	98.93	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03FEB15-0063D_assembly.fasta	dfrE	97.17	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03FEB15-0063D_assembly.fasta	lsa(A)	99.27	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0229_assembly.fasta	lsa(A)	98.86	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0229_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0229_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+NS-0229_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SWEnt-1159_assembly.fasta	lsa(A)	99.27	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+SWEnt-1159_assembly.fasta	dfrE	96.97	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEntR-0252_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+SWEntR-0252_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEntR-0252_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+SWEntR-0252_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+SWEntR-0252_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-V-CB002-14JUL15-0104C_assembly.fasta	lsa(A)	99.13	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-V-CB002-14JUL15-0104C_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1694_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1694_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1694_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-1694_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_050582.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-1694_assembly.fasta	lnu(B)	100.00	ncbi	NG_047923.1	lincosamide nucleotidyltransferase Lnu(B)
+NS-1694_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-H102-1_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-H102-1_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-23NOV14-0060B_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-23NOV14-0060B_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-23NOV14-0060B_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+ES-M-ST001-23NOV14-0060B_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-23NOV14-0060B_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0004_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0004_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SS-0004_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+SS-0004_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+SS-0004_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0004_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-21JUL14-0029I_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-21JUL14-0029I_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-21JUL14-0029I_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-21JUL14-0029I_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-15DEC14-0062J_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-15DEC14-0062J_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-15DEC14-0062J_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-15DEC14-0062J_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-S-FC404-20JUL15-0555J_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-S-FC404-20JUL15-0555J_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-S-FC404-20JUL15-0555J_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-S-FC404-20JUL15-0555J_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-S-FC404-20JUL15-0555J_assembly.fasta	lsa(A)	99.33	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-17FEB15-0065K_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-17FEB15-0065K_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-17FEB15-0065K_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-17FEB15-0065K_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-17FEB15-0065K_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-C-ST001-17FEB15-0065K_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+BP-H96E-2_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-H96E-2_assembly.fasta	lnu(G)	98.51	ncbi	NG_051760.1	lincosamide nucleotidyltransferase Lnu(G)
+BP-H96E-2_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+BP-H96E-2_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+BP-H96E-2_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-H96E-2_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+BP-H96E-2_assembly.fasta	ant(9)-Ib	100.00	ncbi	NG_047398.1	aminoglycoside nucleotidyltransferase ANT(9)-Ib
+NS-0405_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0405_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0405_assembly.fasta	tet(M)	99.17	ncbi	NG_048218.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0372_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0372_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0372_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0372_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0021_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0021_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SS-0021_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+SS-0021_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+SS-0021_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0021_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-A-FC107-23FEB16-0797C_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-A-FC107-23FEB16-0797C_assembly.fasta	lsa(A)	99.27	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-01FEB16-0145C_assembly.fasta	dfrE	98.18	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-01FEB16-0145C_assembly.fasta	lsa(A)	98.93	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-R43E-1_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-R43E-1_assembly.fasta	lsa(A)	99.06	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-R43E-1_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0170_assembly.fasta	lsa(A)	100.00	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0170_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0170_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0170_assembly.fasta	aph(3')-IIIa	99.87	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0170_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-0170_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-0170_assembly.fasta	dfrF	100.00	ncbi	NG_047755.1	trimethoprim-resistant dihydrofolate reductase DfrF
+NS-0170_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-1309_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1309_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1309_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+BP-R26E-1_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-R26E-1_assembly.fasta	tet(M)	100.00	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+BP-R26E-1_assembly.fasta	lsa(A)	99.27	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-21JUL14-0029C_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-21JUL14-0029C_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-21JUL14-0029C_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-21JUL14-0029C_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-M-ST001-21JUL14-0029C_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-13OCT14-0050I_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-13OCT14-0050I_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-13OCT14-0050I_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-13OCT14-0050I_assembly.fasta	str	100.00	ncbi	NG_048078.1	streptomycin adenylyltransferase Str
+ES-M-ST001-13OCT14-0050I_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-20OCT14-0053M_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+ES-C-ST001-20OCT14-0053M_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-20OCT14-0053M_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-20OCT14-0053M_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-20OCT14-0053M_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-C-ST001-20OCT14-0053M_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1068_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1068_assembly.fasta	dfrE	99.80	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1068_assembly.fasta	tet(M)	99.17	ncbi	NG_048218.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-A-FC201-20OCT14-0203C_assembly.fasta	dfrE	98.38	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-A-FC201-20OCT14-0203C_assembly.fasta	lsa(A)	99.06	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1693_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1693_assembly.fasta	lsa(A)	100.00	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-13OCT14-0050J_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-13OCT14-0050J_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-13OCT14-0050J_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-13OCT14-0050J_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-A-FC501-20OCT14-0211C_assembly.fasta	lsa(A)	98.93	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-A-FC501-20OCT14-0211C_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1214_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1214_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-1214_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1214_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-1214_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-1214_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST002-27APR15-0082B_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST002-27APR15-0082B_assembly.fasta	lsa(A)	99.27	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-583_assembly.fasta	dfrE	98.99	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-583_assembly.fasta	tet(M)	100.00	ncbi	NG_048232.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-583_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-583_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-583_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-583_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-583_assembly.fasta	catA7	100.00	ncbi	NG_047568.1	type A-7 chloramphenicol O-acetyltransferase
+NS-583_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+NS-583_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+NS-583_assembly.fasta	lsa(A)	100.00	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-H4-1_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-H4-1_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-19MAY15-0089I_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-19MAY15-0089I_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-19MAY15-0089I_assembly.fasta	spw	100.00	ncbi	NG_048075.1	ANT(9) family aminoglycoside nucleotidyltransferase Spw
+ES-M-ST001-19MAY15-0089I_assembly.fasta	lsa(E)	100.00	ncbi	NG_047935.1	ABC-F type ribosomal protection protein Lsa(E)
+ES-M-ST001-19MAY15-0089I_assembly.fasta	lnu(B)	100.00	ncbi	NG_047923.1	lincosamide nucleotidyltransferase Lnu(B)
+ES-M-ST001-19MAY15-0089I_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-19MAY15-0089I_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-M-ST001-19MAY15-0089I_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-19MAY15-0089I_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0687_assembly.fasta	dfrE	99.80	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0687_assembly.fasta	tet(M)	99.17	ncbi	NG_048218.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0687_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1649_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1649_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1649_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+SWEnt-1158_assembly.fasta	dfrE	98.38	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEnt-1158_assembly.fasta	lsa(A)	98.80	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-01FEB16-0145A_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-01FEB16-0145A_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-01FEB16-0145A_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-01FEB16-0145A_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1200_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1200_assembly.fasta	lsa(A)	99.47	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-S-FC404-20JUL15-0555B_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-S-FC404-20JUL15-0555B_assembly.fasta	lsa(A)	99.33	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-S-FC404-20JUL15-0555B_assembly.fasta	tet(M)	100.00	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-S-FC404-20JUL15-0555B_assembly.fasta	optrA	100.00	ncbi	NG_048023.1	ABC-F type ribosomal protection protein OptrA
+ES-S-FC404-20JUL15-0555B_assembly.fasta	fexA	99.65	ncbi	NG_047857.1	chloramphenicol/florfenicol efflux MFS transporter FexA
+ES-S-FC404-20JUL15-0555B_assembly.fasta	lnu(B)	100.00	ncbi	NG_047923.1	lincosamide nucleotidyltransferase Lnu(B)
+ES-S-FC404-20JUL15-0555B_assembly.fasta	lsa(E)	100.00	ncbi	NG_047935.1	ABC-F type ribosomal protection protein Lsa(E)
+ES-S-FC404-20JUL15-0555B_assembly.fasta	spw	100.00	ncbi	NG_048075.1	ANT(9) family aminoglycoside nucleotidyltransferase Spw
+ES-S-FC404-20JUL15-0555B_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-S-FC404-20JUL15-0555B_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-S-FC404-20JUL15-0555B_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-S-FC404-20JUL15-0555B_assembly.fasta	erm(B)	99.59	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-V-FC083-19JAN16-0764C_assembly.fasta	lsa(A)	99.33	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-V-FC083-19JAN16-0764C_assembly.fasta	dfrE	98.99	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03FEB15-0063L_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03FEB15-0063L_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03FEB15-0063L_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-03FEB15-0063L_assembly.fasta	cfr(C)	99.07	ncbi	NG_060579.1	23S rRNA (adenine(2503)-C(8))-methyltransferase Cfr(C)
+ES-M-ST001-03FEB15-0063L_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1027_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1027_assembly.fasta	lsa(A)	99.27	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1104_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1104_assembly.fasta	tet(M)	100.00	ncbi	NG_048232.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1104_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-07DEC15-0141K_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-07DEC15-0141K_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-07DEC15-0141K_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-07DEC15-0141K_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-07DEC15-0141K_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+SS-0006_assembly.fasta	lsa(A)	99.47	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0006_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0006_assembly.fasta	tet(M)	100.00	ncbi	NG_048252.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0613_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0613_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1184_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1184_assembly.fasta	lsa(A)	98.40	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1184_assembly.fasta	tet(M)	99.84	ncbi	NG_048220.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1184_assembly.fasta	aph(2'')-Ih	82.43	ncbi	NG_047408.1	aminoglycoside O-phosphotransferase APH(2'')-Ih
+ES-A-FC606-15DEC15-0736C_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-A-FC606-15DEC15-0736C_assembly.fasta	lsa(A)	99.33	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-A-FC606-15DEC15-0736C_assembly.fasta	tet(M)	100.00	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0834_assembly.fasta	lsa(A)	99.53	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0834_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0834_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0834_assembly.fasta	catA7	99.85	ncbi	NG_047568.1	type A-7 chloramphenicol O-acetyltransferase
+NS-0834_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+NS-0834_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-S-FC022-12MAY14-0021E_assembly.fasta	lsa(A)	99.00	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-S-FC022-12MAY14-0021E_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-23NOV14-0060M_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-23NOV14-0060M_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-23NOV14-0060M_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-23NOV14-0060M_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-23NOV14-0060M_assembly.fasta	aph(2'')-Ih	82.43	ncbi	NG_047408.1	aminoglycoside O-phosphotransferase APH(2'')-Ih
+ES-M-ST001-23NOV14-0060M_assembly.fasta	dfrC	98.97	ncbi	NG_047752.1	trimethoprim-resistant dihydrofolate reductase DfrC
+NS-0217_assembly.fasta	dfrE	97.78	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0217_assembly.fasta	tet(M)	100.00	ncbi	NG_048252.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0217_assembly.fasta	lsa(A)	99.13	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0259_assembly.fasta	lsa(A)	98.40	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0259_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0259_assembly.fasta	tet(M)	99.84	ncbi	NG_048220.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0259_assembly.fasta	erm(B)	99.86	ncbi	NG_047802.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0259_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-0259_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-0259_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0722_assembly.fasta	tet(M)	99.84	ncbi	NG_048220.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0722_assembly.fasta	lsa(A)	98.40	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0722_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-01FEB16-0145M_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-01FEB16-0145M_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-01FEB16-0145M_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-01FEB16-0145M_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0290_assembly.fasta	dfrE	97.17	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0290_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0290_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0290_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+NS-0290_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-19MAY15-0089A_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-19MAY15-0089A_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-19MAY15-0089A_assembly.fasta	lnu(B)	100.00	ncbi	NG_047923.1	lincosamide nucleotidyltransferase Lnu(B)
+ES-M-ST001-19MAY15-0089A_assembly.fasta	lsa(E)	100.00	ncbi	NG_047935.1	ABC-F type ribosomal protection protein Lsa(E)
+ES-M-ST001-19MAY15-0089A_assembly.fasta	spw	100.00	ncbi	NG_048075.1	ANT(9) family aminoglycoside nucleotidyltransferase Spw
+ES-M-ST001-19MAY15-0089A_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-19MAY15-0089A_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-M-ST001-19MAY15-0089A_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-19MAY15-0089A_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-03MAR15-0067C_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03MAR15-0067C_assembly.fasta	fexA	99.65	ncbi	NG_047857.1	chloramphenicol/florfenicol efflux MFS transporter FexA
+ES-M-ST001-03MAR15-0067C_assembly.fasta	tet(W)	97.34	ncbi	NG_048292.1	tetracycline resistance ribosomal protection protein Tet(W)
+ES-M-ST001-03MAR15-0067C_assembly.fasta	optrA	99.90	ncbi	NG_048023.1	ABC-F type ribosomal protection protein OptrA
+ES-M-ST001-03MAR15-0067C_assembly.fasta	erm(A)	87.16	ncbi	NG_047791.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(A)
+ES-M-ST001-03MAR15-0067C_assembly.fasta	lsa(A)	99.53	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03MAR15-0067C_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-M-ST001-03MAR15-0067C_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+BP-W84-1_assembly.fasta	lsa(A)	98.60	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-W84-1_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-13OCT14-0050B_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-13OCT14-0050B_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-13OCT14-0050B_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-13OCT14-0050B_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-M-ST001-13OCT14-0050B_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-13OCT14-0050B_assembly.fasta	spw	100.00	ncbi	NG_048075.1	ANT(9) family aminoglycoside nucleotidyltransferase Spw
+ES-M-ST001-13OCT14-0050B_assembly.fasta	lsa(E)	99.93	ncbi	NG_047935.1	ABC-F type ribosomal protection protein Lsa(E)
+ES-M-ST001-13OCT14-0050B_assembly.fasta	lnu(B)	99.88	ncbi	NG_047923.1	lincosamide nucleotidyltransferase Lnu(B)
+ES-M-ST001-13OCT14-0050B_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+ES-M-ST001-13OCT14-0050B_assembly.fasta	str	100.00	ncbi	NG_048078.1	streptomycin adenylyltransferase Str
+ES-M-ST001-13OCT14-0050B_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1288_assembly.fasta	dfrE	99.80	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1288_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1288_assembly.fasta	tet(M)	99.17	ncbi	NG_048218.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1288_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-17FEB15-0065D_assembly.fasta	tet(M)	100.00	ncbi	NG_048252.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-17FEB15-0065D_assembly.fasta	lsa(A)	98.66	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-17FEB15-0065D_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1685_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1685_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1685_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-1685_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-08MAR16-0147C_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-08MAR16-0147C_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-08MAR16-0147C_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-08MAR16-0147C_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+BP-C144-2_assembly.fasta	dfrE	96.36	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-C144-2_assembly.fasta	lsa(A)	98.00	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST002-25AUG14-0040D_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST002-25AUG14-0040D_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST002-25AUG14-0040D_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST002-25AUG14-0040D_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-580_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-580_assembly.fasta	tet(M)	99.84	ncbi	NG_048220.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-580_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-580_assembly.fasta	aph(2'')-Ih	82.43	ncbi	NG_047408.1	aminoglycoside O-phosphotransferase APH(2'')-Ih
+NS-580_assembly.fasta	lsa(A)	98.40	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST002-15SEP15-0125I_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST002-15SEP15-0125I_assembly.fasta	tet(M)	100.00	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST002-15SEP15-0125I_assembly.fasta	lsa(A)	99.33	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST002-15SEP15-0125I_assembly.fasta	erm(B)	99.59	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST002-15SEP15-0125I_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_050582.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+ES-M-ST002-15SEP15-0125I_assembly.fasta	spw	100.00	ncbi	NG_048075.1	ANT(9) family aminoglycoside nucleotidyltransferase Spw
+ES-M-ST002-15SEP15-0125I_assembly.fasta	lsa(E)	100.00	ncbi	NG_047935.1	ABC-F type ribosomal protection protein Lsa(E)
+ES-M-ST002-15SEP15-0125I_assembly.fasta	lnu(B)	100.00	ncbi	NG_047923.1	lincosamide nucleotidyltransferase Lnu(B)
+ES-M-ST002-15SEP15-0125I_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+ES-M-ST002-15SEP15-0125I_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-M-ST002-15SEP15-0125I_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-23NOV14-0060L_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-23NOV14-0060L_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-23NOV14-0060L_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-23NOV14-0060L_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-M-ST001-23NOV14-0060L_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047419.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-23NOV14-0060L_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0305_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0305_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0305_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0305_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0305_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-0305_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-15SEP15-0124A_assembly.fasta	dfrE	97.17	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-15SEP15-0124A_assembly.fasta	lsa(A)	99.20	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+SWEntR-0244_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEntR-0244_assembly.fasta	tet(M)	100.00	ncbi	NG_048232.1	tetracycline resistance ribosomal protection protein Tet(M)
+SWEntR-0244_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+SWEntR-0244_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+SWEntR-0244_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+SWEntR-0244_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+SWEntR-0244_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SWEntR-0244_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST002-25AUG14-0040K_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST002-25AUG14-0040K_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST002-25AUG14-0040K_assembly.fasta	aph(2'')-Ih	82.43	ncbi	NG_047408.1	aminoglycoside O-phosphotransferase APH(2'')-Ih
+ES-C-ST002-25AUG14-0040K_assembly.fasta	lnu(B)	99.88	ncbi	NG_047923.1	lincosamide nucleotidyltransferase Lnu(B)
+ES-C-ST002-25AUG14-0040K_assembly.fasta	lsa(E)	99.93	ncbi	NG_047935.1	ABC-F type ribosomal protection protein Lsa(E)
+ES-C-ST002-25AUG14-0040K_assembly.fasta	spw	100.00	ncbi	NG_048075.1	ANT(9) family aminoglycoside nucleotidyltransferase Spw
+ES-C-ST002-25AUG14-0040K_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-C-ST002-25AUG14-0040K_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-C-ST002-25AUG14-0040K_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST002-25AUG14-0040K_assembly.fasta	str	100.00	ncbi	NG_048078.1	streptomycin adenylyltransferase Str
+ES-C-ST002-25AUG14-0040K_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+ES-C-ST002-25AUG14-0040K_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03NOV15-0137D_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03NOV15-0137D_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03NOV15-0137D_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+SWEntR-0271_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEntR-0271_assembly.fasta	lsa(A)	99.00	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SWEntR-0271_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+SWEntR-0271_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+SWEntR-0271_assembly.fasta	fexA	99.72	ncbi	NG_047857.1	chloramphenicol/florfenicol efflux MFS transporter FexA
+SWEntR-0271_assembly.fasta	optrA	99.69	ncbi	NG_048023.1	ABC-F type ribosomal protection protein OptrA
+NS-0062_assembly.fasta	dfrE	97.78	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0062_assembly.fasta	tet(M)	100.00	ncbi	NG_048252.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0062_assembly.fasta	lsa(A)	99.13	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-N-FC137-09JUN14-0093C_assembly.fasta	dfrE	98.38	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-N-FC137-09JUN14-0093C_assembly.fasta	lsa(A)	99.06	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-15JUN15-0096J_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-15JUN15-0096J_assembly.fasta	fexA	99.72	ncbi	NG_047857.1	chloramphenicol/florfenicol efflux MFS transporter FexA
+ES-C-ST001-15JUN15-0096J_assembly.fasta	optrA	99.69	ncbi	NG_048023.1	ABC-F type ribosomal protection protein OptrA
+ES-C-ST001-15JUN15-0096J_assembly.fasta	dfrE	100.00	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-15JUN15-0096J_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-15JUN15-0096J_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-C-ST001-15JUN15-0096J_assembly.fasta	catA8	98.77	ncbi	NG_047574.1	type A-8 chloramphenicol O-acetyltransferase
+ES-C-ST001-15JUN15-0096J_assembly.fasta	lnu(B)	100.00	ncbi	NG_047923.1	lincosamide nucleotidyltransferase Lnu(B)
+ES-C-ST001-15JUN15-0096J_assembly.fasta	lsa(E)	100.00	ncbi	NG_047935.1	ABC-F type ribosomal protection protein Lsa(E)
+ES-C-ST001-15JUN15-0096J_assembly.fasta	spw	100.00	ncbi	NG_048075.1	ANT(9) family aminoglycoside nucleotidyltransferase Spw
+ES-C-ST001-15JUN15-0096J_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-C-ST001-15JUN15-0096J_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-C-ST001-15JUN15-0096J_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+ES-C-ST001-01FEB16-0145B_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-01FEB16-0145B_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-01FEB16-0145B_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-01FEB16-0145B_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-01FEB16-0145B_assembly.fasta	aph(2'')-Ih	82.43	ncbi	NG_047408.1	aminoglycoside O-phosphotransferase APH(2'')-Ih
+ES-C-ST001-01FEB16-0145B_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-C-ST001-01FEB16-0145B_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-1289_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1289_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1289_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-S-CB001-14SEP15-0121J_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-S-CB001-14SEP15-0121J_assembly.fasta	lsa(A)	99.53	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-S-CB001-14SEP15-0121J_assembly.fasta	erm(B)	99.60	ncbi	NG_047801.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-S-CB001-14SEP15-0121J_assembly.fasta	tet(M)	99.90	ncbi	NG_048223.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-15JUN15-0096B_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-15JUN15-0096B_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-V-CB002-10NOV15-0140C_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-V-CB002-10NOV15-0140C_assembly.fasta	lsa(A)	99.53	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-07DEC15-0141D_assembly.fasta	tet(M)	99.38	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-07DEC15-0141D_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-07DEC15-0141D_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0025_assembly.fasta	dfrE	97.78	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0025_assembly.fasta	tet(S)	100.00	ncbi	NG_048273.1	tetracycline resistance ribosomal protection protein Tet(S)
+SS-0025_assembly.fasta	lsa(A)	99.47	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST002-01FEB16-0146A_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST002-01FEB16-0146A_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST002-01FEB16-0146A_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-17FEB15-0065A_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-17FEB15-0065A_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-17FEB15-0065A_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-17FEB15-0065A_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-C-ST001-17FEB15-0065A_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03NOV15-0137I_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03NOV15-0137I_assembly.fasta	erm(B)	99.47	ncbi	NG_047801.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-03NOV15-0137I_assembly.fasta	lsa(A)	99.27	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-V-FC099-26MAY14-0051E_assembly.fasta	dfrE	96.97	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-V-FC099-26MAY14-0051E_assembly.fasta	lsa(A)	99.27	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-S-FC072-15SEP14-0172A_assembly.fasta	dfrE	97.17	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-S-FC072-15SEP14-0172A_assembly.fasta	lsa(A)	99.80	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-S-FC072-15SEP14-0172A_assembly.fasta	tet(M)	100.00	ncbi	NG_048223.1	tetracycline resistance ribosomal protection protein Tet(M)
+BP-R29-2_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-R29-2_assembly.fasta	lsa(A)	99.47	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03FEB15-0063J_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03FEB15-0063J_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-03FEB15-0063J_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-03FEB15-0063J_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03FEB15-0063J_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST002-07DEC15-0142J_assembly.fasta	lnu(B)	100.00	ncbi	NG_047923.1	lincosamide nucleotidyltransferase Lnu(B)
+ES-C-ST002-07DEC15-0142J_assembly.fasta	lsa(E)	100.00	ncbi	NG_047935.1	ABC-F type ribosomal protection protein Lsa(E)
+ES-C-ST002-07DEC15-0142J_assembly.fasta	spw	100.00	ncbi	NG_048075.1	ANT(9) family aminoglycoside nucleotidyltransferase Spw
+ES-C-ST002-07DEC15-0142J_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-C-ST002-07DEC15-0142J_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-C-ST002-07DEC15-0142J_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-C-ST002-07DEC15-0142J_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST002-07DEC15-0142J_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST002-07DEC15-0142J_assembly.fasta	lsa(A)	98.73	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST002-07DEC15-0142J_assembly.fasta	tet(M)	100.00	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-21JUL14-0029L_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-21JUL14-0029L_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-21JUL14-0029L_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-21JUL14-0029L_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-21JUL14-0029L_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-M-ST001-21JUL14-0029L_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1412_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1412_assembly.fasta	dfrE	99.80	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1412_assembly.fasta	tet(M)	99.17	ncbi	NG_048218.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0042_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0042_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0042_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0042_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0331_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0331_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0331_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0331_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03NOV15-0137M_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03NOV15-0137M_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03NOV15-0137M_assembly.fasta	aph(2'')-Ih	82.43	ncbi	NG_047408.1	aminoglycoside O-phosphotransferase APH(2'')-Ih
+ES-M-ST001-03NOV15-0137M_assembly.fasta	lnu(B)	100.00	ncbi	NG_047923.1	lincosamide nucleotidyltransferase Lnu(B)
+ES-M-ST001-03NOV15-0137M_assembly.fasta	lsa(E)	100.00	ncbi	NG_047935.1	ABC-F type ribosomal protection protein Lsa(E)
+ES-M-ST001-03NOV15-0137M_assembly.fasta	spw	100.00	ncbi	NG_048075.1	ANT(9) family aminoglycoside nucleotidyltransferase Spw
+ES-M-ST001-03NOV15-0137M_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-03NOV15-0137M_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-03NOV15-0137M_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-M-ST001-03NOV15-0137M_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-23NOV14-0060C_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-23NOV14-0060C_assembly.fasta	lsa(A)	100.00	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+Ent-0261_assembly.fasta	dfrE	97.17	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+Ent-0261_assembly.fasta	lsa(A)	99.80	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+Ent-0261_assembly.fasta	tet(M)	100.00	ncbi	NG_048223.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0079_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0079_assembly.fasta	lsa(A)	99.53	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0079_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-0079_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0079_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0079_assembly.fasta	catA8	100.00	ncbi	NG_047574.1	type A-8 chloramphenicol O-acetyltransferase
+NS-0079_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0031_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0031_assembly.fasta	tet(M)	99.79	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0031_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+SS-0031_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SS-0031_assembly.fasta	lsa(A)	99.47	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-21JUL14-0029M_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-21JUL14-0029M_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-21JUL14-0029M_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-21JUL14-0029M_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-A-FC606-20OCT14-0217B_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-A-FC606-20OCT14-0217B_assembly.fasta	lsa(A)	99.33	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+Ent-0270_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+Ent-0270_assembly.fasta	lsa(A)	99.33	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-H44-3_assembly.fasta	lsa(A)	99.13	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-H44-3_assembly.fasta	dfrE	97.17	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-V-CB001-21SEP15-0126C_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-V-CB001-21SEP15-0126C_assembly.fasta	lsa(A)	99.13	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-A-FC103-19OCT15-0630A_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-A-FC103-19OCT15-0630A_assembly.fasta	lsa(A)	99.27	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-G42-1_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-G42-1_assembly.fasta	lsa(A)	99.33	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-G42-1_assembly.fasta	tet(M)	100.00	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-23NOV14-0060J_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-23NOV14-0060J_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-23NOV14-0060J_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-23NOV14-0060J_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-23NOV14-0060J_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-1369_assembly.fasta	dfrE	99.80	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1369_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1369_assembly.fasta	tet(M)	99.17	ncbi	NG_048218.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0109_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0109_assembly.fasta	lsa(A)	99.33	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0109_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0657_assembly.fasta	dfrE	99.80	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0657_assembly.fasta	tet(M)	99.17	ncbi	NG_048218.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0657_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-17FEB15-0065I_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-17FEB15-0065I_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-17FEB15-0065I_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-17FEB15-0065I_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0008_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0008_assembly.fasta	lsa(A)	98.40	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0008_assembly.fasta	tet(M)	99.84	ncbi	NG_048220.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0095_assembly.fasta	lsa(A)	98.53	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0095_assembly.fasta	dfrF	100.00	ncbi	NG_047755.1	trimethoprim-resistant dihydrofolate reductase DfrF
+NS-0095_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1106_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1106_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1106_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-17FEB15-0065M_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-17FEB15-0065M_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-17FEB15-0065M_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-17FEB15-0065M_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-17FEB15-0065M_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-C-ST001-17FEB15-0065M_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-0992_assembly.fasta	lsa(A)	99.80	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0992_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0992_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-19MAY15-0089M_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-19MAY15-0089M_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-19MAY15-0089M_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-19MAY15-0089M_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-21JUL14-0029A_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-21JUL14-0029A_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-21JUL14-0029A_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-21JUL14-0029A_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1290_assembly.fasta	dfrE	98.18	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1290_assembly.fasta	lsa(A)	98.53	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-19MAY15-0089K_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-19MAY15-0089K_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-19MAY15-0089K_assembly.fasta	spw	100.00	ncbi	NG_048075.1	ANT(9) family aminoglycoside nucleotidyltransferase Spw
+ES-M-ST001-19MAY15-0089K_assembly.fasta	lsa(E)	100.00	ncbi	NG_047935.1	ABC-F type ribosomal protection protein Lsa(E)
+ES-M-ST001-19MAY15-0089K_assembly.fasta	lnu(B)	100.00	ncbi	NG_047923.1	lincosamide nucleotidyltransferase Lnu(B)
+ES-M-ST001-19MAY15-0089K_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+ES-M-ST001-19MAY15-0089K_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-M-ST001-19MAY15-0089K_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-19MAY15-0089K_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-R51-2_assembly.fasta	dfrE	99.80	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-R51-2_assembly.fasta	lsa(A)	98.60	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-07DEC15-0141L_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-07DEC15-0141L_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-07DEC15-0141L_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-C-ST001-07DEC15-0141L_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-C-ST001-07DEC15-0141L_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-07DEC15-0141L_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0093_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0093_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0093_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0093_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0272_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0272_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1623_assembly.fasta	dfrE	97.78	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1623_assembly.fasta	lsa(A)	99.20	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1623_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-1623_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-1623_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-1623_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-1623_assembly.fasta	tet(M)	100.00	ncbi	NG_048252.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0016_assembly.fasta	lsa(A)	98.73	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0016_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-27APR15-0081C_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-27APR15-0081C_assembly.fasta	lsa(A)	99.33	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-27APR15-0081C_assembly.fasta	tet(M)	99.38	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-25AUG14-0039K_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-25AUG14-0039K_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-25AUG14-0039K_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-C-ST001-25AUG14-0039K_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-C-ST001-25AUG14-0039K_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-C-ST001-25AUG14-0039K_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0194_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0194_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-0194_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0194_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0194_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1477_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1477_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1477_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1477_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-1477_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+BP-R30-1_assembly.fasta	lsa(A)	98.00	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-R30-1_assembly.fasta	dfrE	96.36	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-23NOV14-0060K_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-23NOV14-0060K_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-23NOV14-0060K_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-23NOV14-0060K_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-23NOV14-0060K_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-0098_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0098_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0098_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0098_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0209_assembly.fasta	lsa(A)	100.00	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0209_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0209_assembly.fasta	aph(3')-IIIa	93.21	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0209_assembly.fasta	sat4	99.63	ncbi	NG_048073.1	streptothricin N-acetyltransferase Sat4
+NS-0209_assembly.fasta	ant(6)-Ia	82.95	ncbi	NG_047395.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-0209_assembly.fasta	tet(L)	99.93	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+NS-0209_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+NS-0209_assembly.fasta	erm(B)	99.60	ncbi	NG_047801.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0209_assembly.fasta	cat-TC	99.03	ncbi	NG_047562.1	type A-9 chloramphenicol O-acetyltransferase Cat-TC
+NS-0108_assembly.fasta	dfrE	98.18	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0108_assembly.fasta	lsa(A)	98.73	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SWEntR-0325_assembly.fasta	dfrE	97.78	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEntR-0325_assembly.fasta	optrA	99.59	ncbi	NG_048023.1	ABC-F type ribosomal protection protein OptrA
+SWEntR-0325_assembly.fasta	fexA	99.72	ncbi	NG_047857.1	chloramphenicol/florfenicol efflux MFS transporter FexA
+SWEntR-0325_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+SWEntR-0325_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+SWEntR-0325_assembly.fasta	str	99.88	ncbi	NG_048080.1	streptomycin adenylyltransferase Str
+SWEntR-0325_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+SWEntR-0325_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+SWEntR-0325_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+SWEntR-0325_assembly.fasta	ant(6)-Ia	99.34	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+SWEntR-0325_assembly.fasta	lsa(A)	99.40	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+SWEntR-0325_assembly.fasta	erm(B)	99.60	ncbi	NG_047801.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0889_assembly.fasta	lsa(A)	100.00	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0889_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0889_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0889_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-0889_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-0889_assembly.fasta	erm(B)	100.00	ncbi	NG_047802.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0889_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0889_assembly.fasta	dfrF	100.00	ncbi	NG_047755.1	trimethoprim-resistant dihydrofolate reductase DfrF
+NS-1020_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1020_assembly.fasta	lsa(A)	99.33	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1020_assembly.fasta	tet(M)	100.00	ncbi	NG_048232.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0041_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0041_assembly.fasta	lsa(A)	99.00	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-05JAN16-0143I_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-05JAN16-0143I_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-05JAN16-0143I_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-05JAN16-0143I_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0032_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0032_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0032_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+BP-R37-3_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-R37-3_assembly.fasta	lsa(A)	99.47	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-19MAY15-0089D_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-19MAY15-0089D_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-19MAY15-0089D_assembly.fasta	lnu(B)	100.00	ncbi	NG_047923.1	lincosamide nucleotidyltransferase Lnu(B)
+ES-M-ST001-19MAY15-0089D_assembly.fasta	lsa(E)	100.00	ncbi	NG_047935.1	ABC-F type ribosomal protection protein Lsa(E)
+ES-M-ST001-19MAY15-0089D_assembly.fasta	spw	100.00	ncbi	NG_048075.1	ANT(9) family aminoglycoside nucleotidyltransferase Spw
+ES-M-ST001-19MAY15-0089D_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-19MAY15-0089D_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-19MAY15-0089D_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-19MAY15-0089D_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-0057_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0057_assembly.fasta	tet(M)	99.84	ncbi	NG_048220.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0057_assembly.fasta	lsa(A)	98.40	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0057_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-0057_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-0057_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0057_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0057_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+ES-C-ST002-25AUG14-0040I_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST002-25AUG14-0040I_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-C-ST002-25AUG14-0040I_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST002-25AUG14-0040I_assembly.fasta	lsa(A)	99.33	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0010_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0010_assembly.fasta	tet(M)	100.00	ncbi	NG_048250.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0010_assembly.fasta	lsa(A)	99.33	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03NOV15-0137K_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03NOV15-0137K_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-03NOV15-0137K_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+ES-M-ST001-03NOV15-0137K_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03NOV15-0137K_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-03NOV15-0137K_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-M-ST001-03NOV15-0137K_assembly.fasta	aph(3')-IIIa	99.87	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-03NOV15-0137K_assembly.fasta	str	100.00	ncbi	NG_048078.1	streptomycin adenylyltransferase Str
+ES-M-ST001-03MAR15-0067I_assembly.fasta	dfrE	97.17	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-03MAR15-0067I_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-03MAR15-0067I_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-M-ST001-03MAR15-0067I_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+ES-M-ST001-03MAR15-0067I_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+ES-M-ST001-03MAR15-0067I_assembly.fasta	aph(2'')-Ih	82.43	ncbi	NG_047408.1	aminoglycoside O-phosphotransferase APH(2'')-Ih
+ES-M-ST001-03MAR15-0067I_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-03MAR15-0067I_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0340_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+NS-0340_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0340_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0340_assembly.fasta	lsa(A)	98.86	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-R50-2_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-R50-2_assembly.fasta	tet(M)	100.00	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+BP-R50-2_assembly.fasta	lsa(A)	99.33	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-W19-2_assembly.fasta	dfrE	98.18	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-W19-2_assembly.fasta	lsa(A)	99.06	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+BP-W19-2_assembly.fasta	tet(M)	99.79	ncbi	NG_048213.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0601_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0601_assembly.fasta	lsa(A)	99.87	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-07DEC15-0141A_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-07DEC15-0141A_assembly.fasta	lsa(A)	99.47	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1090_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1090_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1090_assembly.fasta	aph(2'')-If	82.26	ncbi	NG_047406.1	aminoglycoside O-phosphotransferase APH(2'')-If
+NS-1090_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-1090_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-1090_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-1090_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-V-FC099-23SEP14-0192B_assembly.fasta	dfrE	97.17	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-V-FC099-23SEP14-0192B_assembly.fasta	tet(M)	99.95	ncbi	NG_048223.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-V-FC099-23SEP14-0192B_assembly.fasta	lsa(A)	99.80	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-V-FC083-23SEP14-0190C_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-V-FC083-23SEP14-0190C_assembly.fasta	lsa(A)	99.53	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-V-FC083-23SEP14-0190C_assembly.fasta	tet(L)	99.93	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-V-FC083-23SEP14-0190C_assembly.fasta	tet(M)	99.90	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+Ent-0002_assembly.fasta	dfrE	96.97	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+Ent-0002_assembly.fasta	lsa(A)	99.27	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+SWEnt-1134_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SWEnt-1134_assembly.fasta	lsa(A)	99.27	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1114_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1114_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-1114_assembly.fasta	aph(2'')-Ih	82.43	ncbi	NG_047408.1	aminoglycoside O-phosphotransferase APH(2'')-Ih
+NS-1114_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-1114_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-1114_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1114_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-M-ST001-13OCT14-0050K_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST001-13OCT14-0050K_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST001-13OCT14-0050K_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST001-13OCT14-0050K_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0159_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0159_assembly.fasta	lsa(A)	99.13	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-A-FC501-20OCT14-0211K_assembly.fasta	tet(M)	99.95	ncbi	NG_048223.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-A-FC501-20OCT14-0211K_assembly.fasta	lsa(A)	99.80	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-A-FC501-20OCT14-0211K_assembly.fasta	dfrE	97.17	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-A-FC501-20OCT14-0211K_assembly.fasta	erm(B)	99.47	ncbi	NG_047801.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0316_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0316_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0316_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0316_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0316_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0383_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0383_assembly.fasta	lsa(A)	99.27	ncbi	NG_047930.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0383_assembly.fasta	tet(M)	100.00	ncbi	NG_048252.1	tetracycline resistance ribosomal protection protein Tet(M)
+BP-C138-3_assembly.fasta	dfrE	96.36	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+BP-C138-3_assembly.fasta	lsa(A)	98.00	ncbi	NG_055640.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0020_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0020_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0020_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0020_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-05OCT15-0134M_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-C-ST001-05OCT15-0134M_assembly.fasta	optrA	99.64	ncbi	NG_048023.1	ABC-F type ribosomal protection protein OptrA
+ES-C-ST001-05OCT15-0134M_assembly.fasta	fexA	99.72	ncbi	NG_047857.1	chloramphenicol/florfenicol efflux MFS transporter FexA
+ES-C-ST001-05OCT15-0134M_assembly.fasta	tet(L)	100.00	ncbi	NG_048203.1	tetracycline efflux MFS transporter Tet(L)
+ES-C-ST001-05OCT15-0134M_assembly.fasta	tet(M)	99.95	ncbi	NG_048233.1	tetracycline resistance ribosomal protection protein Tet(M)
+ES-C-ST001-05OCT15-0134M_assembly.fasta	lsa(A)	99.00	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-C-ST001-05OCT15-0134M_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+ES-C-ST001-05OCT15-0134M_assembly.fasta	str	99.88	ncbi	NG_048080.1	streptomycin adenylyltransferase Str
+ES-C-ST001-05OCT15-0134M_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+ES-C-ST001-05OCT15-0134M_assembly.fasta	erm(B)	99.83	ncbi	NG_047793.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SS-0040_assembly.fasta	tet(M)	100.00	ncbi	NG_048250.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0040_assembly.fasta	lsa(A)	99.80	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0040_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST002-03NOV15-0138A_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
+ES-M-ST002-03NOV15-0138A_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+ES-M-ST002-03NOV15-0138A_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+ES-M-ST002-03NOV15-0138A_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+ES-M-ST002-03NOV15-0138A_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0131_assembly.fasta	dfrE	97.98	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0131_assembly.fasta	tet(M)	100.00	ncbi	NG_048250.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-0131_assembly.fasta	lsa(A)	99.33	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1336_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-1336_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+NS-1336_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-1336_assembly.fasta	aph(3')-IIIa	99.75	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-1336_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-1336_assembly.fasta	ant(6)-Ia	100.00	ncbi	NG_047393.1	aminoglycoside nucleotidyltransferase ANT(6)-Ia
+NS-1336_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-1336_assembly.fasta	erm(A)	99.86	ncbi	NG_047790.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(A)
+NS-1336_assembly.fasta	catP	82.85	ncbi	NG_047623.1	type A-11 chloramphenicol O-acetyltransferase CatP
+SS-0033_assembly.fasta	dfrE	98.18	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0033_assembly.fasta	lsa(A)	99.06	ncbi	NG_047932.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0188_assembly.fasta	lsa(A)	98.93	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+NS-0188_assembly.fasta	dfrE	97.37	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+NS-0188_assembly.fasta	aph(2'')-Ih	82.43	ncbi	NG_047408.1	aminoglycoside O-phosphotransferase APH(2'')-Ih
+NS-0188_assembly.fasta	sat4	100.00	ncbi	NG_048072.1	streptothricin N-acetyltransferase Sat4
+NS-0188_assembly.fasta	aph(3')-IIIa	100.00	ncbi	NG_047418.1	aminoglycoside O-phosphotransferase APH(3')-IIIa
+NS-0188_assembly.fasta	erm(B)	100.00	ncbi	NG_047794.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+NS-0188_assembly.fasta	tet(M)	100.00	ncbi	NG_048247.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0029_assembly.fasta	dfrE	97.58	ncbi	NG_055770.1	trimethoprim-resistant dihydrofolate reductase DfrE
+SS-0029_assembly.fasta	tet(M)	100.00	ncbi	NG_048232.1	tetracycline resistance ribosomal protection protein Tet(M)
+SS-0029_assembly.fasta	lsa(A)	99.40	ncbi	NG_047931.1	ABC-F type ribosomal protection protein Lsa(A)
+SS-0029_assembly.fasta	erm(B)	99.86	ncbi	NG_047797.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)
+SS-0029_assembly.fasta	dfrG	100.00	ncbi	NG_047756.1	trimethoprim-resistant dihydrofolate reductase DfrG
