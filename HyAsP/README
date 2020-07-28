@@ -1,0 +1,1 @@
+ls ../McMaster/Unicycler_Assemblies_gfa/*gfa |  sed 's/\.\.\/McMaster\/Unicycler_Assemblies_gfa\///g' | sed 's/\.gfa//g' | sed 's/*//g' > GFA.txt
