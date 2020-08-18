@@ -1,0 +1,13 @@
+,chain,putative,name,seed,length,mean_read_depth,gene_density,num_cds,gc_content,circular
+plasmid_0,"87-,74+,85+,53+,94+,70+,78-,57+,71+,92-,51-,18-,65+",False,plasmid_0,71,65703,1.002019,0.024961,3,0.385431,False
+plasmid_1,"87-,74+,85+,53+,94+,70+,78-,57+,71+,92-,51-",True,plasmid_1,71,3512,7.671246,0.46697,3,0.498861,False
+plasmid_2,"73+,45+,73-,60+,24+",True,plasmid_2,24,33704,0.956581,0.858948,115,0.359275,False
+plasmid_3,"63+,43+,72+,60+,63+,4-",False,plasmid_3,43,144751,0.830732,0.047862,95,0.376046,False
+plasmid_4,"51+,89-",True,plasmid_4,51,1802,1.84411,0.869589,2,0.512764,False
+plasmid_5,"56+,77+,19+,14+",False,plasmid_5,77,146004,0.945517,0.001301,3,0.377003,False
+plasmid_6,"56+,77+,29-",False,plasmid_6,77,17784,0.736934,0.039867,11,0.372976,False
+plasmid_7,"85-,75-,87+,52-,80-,90+,56+,77+",False,plasmid_7,77,1930,8.570374,0.098446,3,0.506218,False
+plasmid_8,"54+,16+",False,plasmid_8,54,83614,1.277448,0.031992,9,0.389277,False
+plasmid_9,"54+,9+",False,plasmid_9,54,120974,1.006289,0.013862,22,0.380958,False
+plasmid_10,54+,False,plasmid_10,54,610,3.047278,0.752459,6,0.514754,False
+plasmid_11,60+,False,plasmid_11,60,373,0.690746,0.506702,1,0.367292,False

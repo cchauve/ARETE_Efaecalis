@@ -1,0 +1,8 @@
+,chain,putative,name,seed,length,mean_read_depth,gene_density,num_cds,gc_content,circular
+plasmid_0,"63+,48+,78-,10+,63+,49-,78-,16-,62-,57+,82-,23-,82+",True,plasmid_0,10,100182,1.243464,0.803088,215,0.347038,False
+plasmid_1,"57-,62+,17+,74-,71-,72-,72-",True,plasmid_1,17,17822,0.865468,0.478734,11,0.2966,False
+plasmid_2,24+,True,plasmid_2,24,5143,76.650011,0.700953,8,0.368073,True
+plasmid_3,"53-,7+,35+,28-,33-,13-,32-,8+",False,plasmid_3,35,304594,1.003828,0.01087,7,0.364039,False
+plasmid_4,"25+,83+,1+,33-,11-,35-,18+,35+,19+,33-",False,plasmid_4,35,794676,0.97394,0.004582,11,0.374559,False
+plasmid_5,"33-,26+,35+,15-,72+",False,plasmid_5,35,34105,0.885997,0.028148,1,0.31186,False
+plasmid_6,35+,False,plasmid_6,35,1065,0.392065,0.901408,1,0.355869,False
