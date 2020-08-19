@@ -6,4 +6,4 @@ RefSeq: creating a plasmids database from the release 203 of RefSeq, and compari
 
 McMaster: data and results of the analysis from McMaster  
 
-HyAsP: running HyAsP with defaults options using the RefSeq 203 databases
+HyAsP_17082020: running HyAsP with defaults options using the RefSeq 203 databases
